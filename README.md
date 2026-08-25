@@ -31,14 +31,13 @@ To update this patch list
 
 That will automatically update any files covered by this repo in your GameData to match my own latest upload. 
 
-
-
+-------
 
 TO INSTALL THIS THE LAZY WAY: 
 
-Download the files from git.
+Download the files from git by pressing the big green CODE button and then download zip.
 Extract everything. 
-Force paste and override into your gamedata.
+Force paste and override into your Gamedata.
 
 There isn't really a guarantee that this will work perfectly but it'll apply most patches. 
 
