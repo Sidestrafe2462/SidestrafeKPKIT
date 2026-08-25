@@ -1,7 +1,7 @@
 THIS IS, FOR THE MOST PART, AN EXACT CLONE OF THE MOST COMMONLY EDITED FILES IN MY GAMEDATA.
 
 
-To install this THE COMPREHENSIVE AND EASILY UPDATED WAY:
+To install this THE COMPREHENSIVE AND EASILY UPDATED WAY: (sorry jimmy i copied and pasted this. you fool!)
 
     Move (DO NOT DELETE OR COPY) all of your folders (including Squad) out of your GameData to a safe location.
 
