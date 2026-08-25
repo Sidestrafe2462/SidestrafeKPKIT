@@ -1,0 +1,140 @@
+[BDArmory.BDACompetitionMode:201230814]: Dumping Results after 197s (of 0s) at 2026-05-18 01:41:43 -04:00
+[BDArmory.BDACompetitionMode:201230814]: RESULT:Win:{"team": "IRSUM CAP", "members": ["AL-68 Proleska", "AL-34 Arnika", "AL-34 Arnika_1", "AL-27 Kallistemon", "AL-27 Kallistemon_1", "AL-27 Kallistemon_2", "AL-27 Kallistemon_3", "AL-34 Arnika_2", "AL-34 Arnika_3", "AL-34 Arnika_4", "AL-27 Kallistemon_4"]}
+[BDArmory.BDACompetitionMode:201230814]: DEADTEAMS:[{"team": "PVC", "members": ["AS-124 sidestrafe missile test", "F-52F-20 Kargadan KWS I CWI", "F/A-27BN Voron", "AS-124 sidestrafe missile test_1", "PLAID AIF-42C5D2", "AIF-38C", "AIF-38C_1", "Z-41D-5.5", "AS-124 sidestrafe missile test_2"]}]
+[BDArmory.BDACompetitionMode:201230814]: ALIVE:AL-34 Arnika_1
+[BDArmory.BDACompetitionMode:201230814]: ALIVE:AL-27 Kallistemon
+[BDArmory.BDACompetitionMode:201230814]: ALIVE:AL-34 Arnika_3
+[BDArmory.BDACompetitionMode:201230814]: ALIVE:AL-34 Arnika_4
+[BDArmory.BDACompetitionMode:201230814]: ALIVE:AL-27 Kallistemon_4
+[BDArmory.BDACompetitionMode:201230814]: DEAD:11:149.0:AS-124 sidestrafe missile test
+[BDArmory.BDACompetitionMode:201230814]: DEAD:5:71.0:F-52F-20 Kargadan KWS I CWI
+[BDArmory.BDACompetitionMode:201230814]: DEAD:9:118.0:F/A-27BN Voron
+[BDArmory.BDACompetitionMode:201230814]: DEAD:0:36.0:AS-124 sidestrafe missile test_1
+[BDArmory.BDACompetitionMode:201230814]: DEAD:8:112.0:PLAID AIF-42C5D2
+[BDArmory.BDACompetitionMode:201230814]: DEAD:13:187.0:AIF-38C
+[BDArmory.BDACompetitionMode:201230814]: DEAD:10:146.0:AIF-38C_1
+[BDArmory.BDACompetitionMode:201230814]: DEAD:4:68.0:Z-41D-5.5
+[BDArmory.BDACompetitionMode:201230814]: DEAD:6:79.0:AS-124 sidestrafe missile test_2
+[BDArmory.BDACompetitionMode:201230814]: DEAD:1:42.0:AL-68 Proleska
+[BDArmory.BDACompetitionMode:201230814]: DEAD:14:193.8:AL-34 Arnika
+[BDArmory.BDACompetitionMode:201230814]: DEAD:7:88.8:AL-27 Kallistemon_1
+[BDArmory.BDACompetitionMode:201230814]: DEAD:2:63.0:AL-27 Kallistemon_2
+[BDArmory.BDACompetitionMode:201230814]: DEAD:3:67.0:AL-27 Kallistemon_3
+[BDArmory.BDACompetitionMode:201230814]: DEAD:12:154.0:AL-34 Arnika_2
+[BDArmory.BDACompetitionMode:201230814]: WHOSHOTWHOWITHGUNS:AS-124 sidestrafe missile test:19:AL-34 Arnika_1
+[BDArmory.BDACompetitionMode:201230814]: WHOSHOTWHOWITHGUNS:PLAID AIF-42C5D2:11:AL-34 Arnika_1
+[BDArmory.BDACompetitionMode:201230814]: WHOSHOTWHOWITHGUNS:AIF-38C:40:AL-34 Arnika_3:16:AL-27 Kallistemon_4:7:AL-34 Arnika_4:21:AL-34 Arnika_1
+[BDArmory.BDACompetitionMode:201230814]: WHOSHOTWHOWITHGUNS:AIF-38C_1:81:AL-27 Kallistemon_1
+[BDArmory.BDACompetitionMode:201230814]: WHOSHOTWHOWITHGUNS:AL-34 Arnika_1:7:PLAID AIF-42C5D2
+[BDArmory.BDACompetitionMode:201230814]: WHOSHOTWHOWITHGUNS:AL-27 Kallistemon:10:AIF-38C:3:PLAID AIF-42C5D2:1:AS-124 sidestrafe missile test
+[BDArmory.BDACompetitionMode:201230814]: WHOSHOTWHOWITHGUNS:AL-34 Arnika_2:34:AIF-38C
+[BDArmory.BDACompetitionMode:201230814]: WHOSHOTWHOWITHGUNS:AL-34 Arnika_4:4:AIF-38C
+[BDArmory.BDACompetitionMode:201230814]: WHOSHOTWHOWITHGUNS:AL-27 Kallistemon_4:1:AIF-38C_1
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHGUNS:AS-124 sidestrafe missile test:4726.2:AL-34 Arnika_1
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHGUNS:PLAID AIF-42C5D2:4725.1:AL-34 Arnika_1
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHGUNS:AIF-38C:7903.0:AL-34 Arnika_3:2650.9:AL-27 Kallistemon_4:1157.1:AL-34 Arnika_4:4007.3:AL-34 Arnika_1
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHGUNS:AIF-38C_1:9630.2:AL-27 Kallistemon_1
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHGUNS:AL-34 Arnika_1:1892.6:PLAID AIF-42C5D2
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHGUNS:AL-27 Kallistemon:4806.2:AIF-38C:755.4:PLAID AIF-42C5D2:300.4:AS-124 sidestrafe missile test
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHGUNS:AL-34 Arnika_2:10404.2:AIF-38C
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHGUNS:AL-34 Arnika_4:2100.2:AIF-38C
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHGUNS:AL-27 Kallistemon_4:279.5:AIF-38C_1
+[BDArmory.BDACompetitionMode:201230814]: WHOHITWHOWITHMISSILES:AS-124 sidestrafe missile test:1:AL-34 Arnika_2
+[BDArmory.BDACompetitionMode:201230814]: WHOHITWHOWITHMISSILES:F-52F-20 Kargadan KWS I CWI:1:AL-34 Arnika:1:AL-34 Arnika_1
+[BDArmory.BDACompetitionMode:201230814]: WHOHITWHOWITHMISSILES:F/A-27BN Voron:1:AL-34 Arnika_3
+[BDArmory.BDACompetitionMode:201230814]: WHOHITWHOWITHMISSILES:AS-124 sidestrafe missile test_1:1:AL-68 Proleska
+[BDArmory.BDACompetitionMode:201230814]: WHOHITWHOWITHMISSILES:AIF-38C:1:AL-27 Kallistemon_4:1:AL-34 Arnika_4
+[BDArmory.BDACompetitionMode:201230814]: WHOHITWHOWITHMISSILES:Z-41D-5.5:1:AL-34 Arnika_1:1:AL-34 Arnika_3:1:AL-34 Arnika_4:1:AL-34 Arnika_2
+[BDArmory.BDACompetitionMode:201230814]: WHOHITWHOWITHMISSILES:AS-124 sidestrafe missile test_2:1:AL-34 Arnika_3:1:AL-34 Arnika_2
+[BDArmory.BDACompetitionMode:201230814]: WHOHITWHOWITHMISSILES:AL-68 Proleska:1:AS-124 sidestrafe missile test_2
+[BDArmory.BDACompetitionMode:201230814]: WHOHITWHOWITHMISSILES:AL-34 Arnika:1:AS-124 sidestrafe missile test
+[BDArmory.BDACompetitionMode:201230814]: WHOHITWHOWITHMISSILES:AL-27 Kallistemon:1:AIF-38C_1:2:PLAID AIF-42C5D2
+[BDArmory.BDACompetitionMode:201230814]: WHOHITWHOWITHMISSILES:AL-27 Kallistemon_2:1:AIF-38C
+[BDArmory.BDACompetitionMode:201230814]: WHOHITWHOWITHMISSILES:AL-27 Kallistemon_3:1:Z-41D-5.5
+[BDArmory.BDACompetitionMode:201230814]: WHOPARTSHITWHOWITHMISSILES:AS-124 sidestrafe missile test:60:AL-34 Arnika_2
+[BDArmory.BDACompetitionMode:201230814]: WHOPARTSHITWHOWITHMISSILES:F-52F-20 Kargadan KWS I CWI:93:AL-34 Arnika:13:AL-34 Arnika_1
+[BDArmory.BDACompetitionMode:201230814]: WHOPARTSHITWHOWITHMISSILES:F/A-27BN Voron:78:AL-34 Arnika_3
+[BDArmory.BDACompetitionMode:201230814]: WHOPARTSHITWHOWITHMISSILES:AS-124 sidestrafe missile test_1:60:AL-68 Proleska
+[BDArmory.BDACompetitionMode:201230814]: WHOPARTSHITWHOWITHMISSILES:AIF-38C:86:AL-27 Kallistemon_4:71:AL-34 Arnika_4
+[BDArmory.BDACompetitionMode:201230814]: WHOPARTSHITWHOWITHMISSILES:Z-41D-5.5:119:AL-34 Arnika_1:1:AL-34 Arnika_3:1:AL-34 Arnika_4:1:AL-34 Arnika_2
+[BDArmory.BDACompetitionMode:201230814]: WHOPARTSHITWHOWITHMISSILES:AS-124 sidestrafe missile test_2:55:AL-34 Arnika_3:60:AL-34 Arnika_2
+[BDArmory.BDACompetitionMode:201230814]: WHOPARTSHITWHOWITHMISSILES:AL-68 Proleska:86:AS-124 sidestrafe missile test_2
+[BDArmory.BDACompetitionMode:201230814]: WHOPARTSHITWHOWITHMISSILES:AL-34 Arnika:100:AS-124 sidestrafe missile test
+[BDArmory.BDACompetitionMode:201230814]: WHOPARTSHITWHOWITHMISSILES:AL-27 Kallistemon:143:AIF-38C_1:238:PLAID AIF-42C5D2
+[BDArmory.BDACompetitionMode:201230814]: WHOPARTSHITWHOWITHMISSILES:AL-27 Kallistemon_2:137:AIF-38C
+[BDArmory.BDACompetitionMode:201230814]: WHOPARTSHITWHOWITHMISSILES:AL-27 Kallistemon_3:136:Z-41D-5.5
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHMISSILES:AS-124 sidestrafe missile test:2090.8:AL-34 Arnika_2
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHMISSILES:F-52F-20 Kargadan KWS I CWI:19278.2:AL-34 Arnika:16692.9:AL-34 Arnika_1
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHMISSILES:F/A-27BN Voron:54826.0:AL-34 Arnika_3
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHMISSILES:AS-124 sidestrafe missile test_1:10529.6:AL-68 Proleska
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHMISSILES:AIF-38C:22393.1:AL-27 Kallistemon_4:695.2:AL-34 Arnika_4
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHMISSILES:Z-41D-5.5:89611.6:AL-34 Arnika_1:857.1:AL-34 Arnika_3:434.9:AL-34 Arnika_4:1158.2:AL-34 Arnika_2
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHMISSILES:AS-124 sidestrafe missile test_2:18138.1:AL-34 Arnika_2
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHMISSILES:AL-68 Proleska:36117.4:AS-124 sidestrafe missile test_2
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHMISSILES:AL-34 Arnika:6758.7:AS-124 sidestrafe missile test
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHMISSILES:AL-27 Kallistemon:11130.7:AIF-38C_1:16613.7:PLAID AIF-42C5D2
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHMISSILES:AL-27 Kallistemon_2:92888.8:AIF-38C
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHMISSILES:AL-27 Kallistemon_3:147723.7:Z-41D-5.5
+[BDArmory.BDACompetitionMode:201230814]: WHORAMMEDWHO:AIF-38C_1:34:AL-27 Kallistemon_1
+[BDArmory.BDACompetitionMode:201230814]: WHORAMMEDWHO:AL-34 Arnika_2:5:AIF-38C
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHBATTLEDAMAGE:AS-124 sidestrafe missile test:0.1:AL-34 Arnika_2:107.7:AL-34 Arnika_1:4968.8:AS-124 sidestrafe missile test
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHBATTLEDAMAGE:PLAID AIF-42C5D2:154.8:AL-34 Arnika_1
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHBATTLEDAMAGE:AIF-38C:220.3:AL-34 Arnika_3:145.1:AL-27 Kallistemon_4:18.6:AL-34 Arnika_1
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHBATTLEDAMAGE:AIF-38C_1:772.1:AL-27 Kallistemon_1
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHBATTLEDAMAGE:Z-41D-5.5:49533.7:AL-34 Arnika_1
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHBATTLEDAMAGE:AL-34 Arnika_1:345.4:PLAID AIF-42C5D2
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHBATTLEDAMAGE:AL-27 Kallistemon:30151.9:AIF-38C:2477.9:AL-27 Kallistemon:50.5:PLAID AIF-42C5D2
+[BDArmory.BDACompetitionMode:201230814]: WHODAMAGEDWHOWITHBATTLEDAMAGE:AL-34 Arnika_2:25419.1:AIF-38C:3363.3:AL-34 Arnika_2
+[BDArmory.BDACompetitionMode:201230814]: GMKILL:AL-34 Arnika:BigRedButton
+[BDArmory.BDACompetitionMode:201230814]: GMKILL:AL-27 Kallistemon_1:BigRedButton
+[BDArmory.BDACompetitionMode:201230814]: HEADSHOTGUNS:AS-124 sidestrafe missile test:AL-34 Arnika_1
+[BDArmory.BDACompetitionMode:201230814]: KILLSTEALMISSILES:F-52F-20 Kargadan KWS I CWI:AL-34 Arnika_1
+[BDArmory.BDACompetitionMode:201230814]: CLEANKILLMISSILES:F/A-27BN Voron:AL-34 Arnika_3
+[BDArmory.BDACompetitionMode:201230814]: CLEANKILLMISSILES:AS-124 sidestrafe missile test_1:AL-68 Proleska
+[BDArmory.BDACompetitionMode:201230814]: CLEANKILLGUNS:PLAID AIF-42C5D2:AL-34 Arnika_1
+[BDArmory.BDACompetitionMode:201230814]: KILLSTEALGUNS:AIF-38C:AL-34 Arnika_1
+[BDArmory.BDACompetitionMode:201230814]: KILLSTEALMISSILES:Z-41D-5.5:AL-34 Arnika_2
+[BDArmory.BDACompetitionMode:201230814]: HEADSHOTMISSILES:AS-124 sidestrafe missile test_2:AL-34 Arnika_2
+[BDArmory.BDACompetitionMode:201230814]: CLEANKILLMISSILES:AL-68 Proleska:AS-124 sidestrafe missile test_2
+[BDArmory.BDACompetitionMode:201230814]: CLEANKILLMISSILES:AL-27 Kallistemon_2:AIF-38C
+[BDArmory.BDACompetitionMode:201230814]: CLEANKILLMISSILES:AL-27 Kallistemon_3:Z-41D-5.5
+[BDArmory.BDACompetitionMode:201230814]: HPLEFT:AS-124 sidestrafe missile test:0
+[BDArmory.BDACompetitionMode:201230814]: HPLEFT:F-52F-20 Kargadan KWS I CWI:0
+[BDArmory.BDACompetitionMode:201230814]: HPLEFT:F/A-27BN Voron:0
+[BDArmory.BDACompetitionMode:201230814]: HPLEFT:AS-124 sidestrafe missile test_1:0
+[BDArmory.BDACompetitionMode:201230814]: HPLEFT:PLAID AIF-42C5D2:0
+[BDArmory.BDACompetitionMode:201230814]: HPLEFT:AIF-38C:0
+[BDArmory.BDACompetitionMode:201230814]: HPLEFT:AIF-38C_1:0
+[BDArmory.BDACompetitionMode:201230814]: HPLEFT:Z-41D-5.5:0
+[BDArmory.BDACompetitionMode:201230814]: HPLEFT:AS-124 sidestrafe missile test_2:0
+[BDArmory.BDACompetitionMode:201230814]: HPLEFT:AL-68 Proleska:0
+[BDArmory.BDACompetitionMode:201230814]: HPLEFT:AL-34 Arnika:0
+[BDArmory.BDACompetitionMode:201230814]: HPLEFT:AL-34 Arnika_1:97.3451327433628
+[BDArmory.BDACompetitionMode:201230814]: HPLEFT:AL-27 Kallistemon:42.9530201342282
+[BDArmory.BDACompetitionMode:201230814]: HPLEFT:AL-27 Kallistemon_1:0
+[BDArmory.BDACompetitionMode:201230814]: HPLEFT:AL-27 Kallistemon_2:0
+[BDArmory.BDACompetitionMode:201230814]: HPLEFT:AL-27 Kallistemon_3:0
+[BDArmory.BDACompetitionMode:201230814]: HPLEFT:AL-34 Arnika_2:0
+[BDArmory.BDACompetitionMode:201230814]: HPLEFT:AL-34 Arnika_3:100
+[BDArmory.BDACompetitionMode:201230814]: HPLEFT:AL-34 Arnika_4:95.5752212389381
+[BDArmory.BDACompetitionMode:201230814]: HPLEFT:AL-27 Kallistemon_4:97.3154362416107
+[BDArmory.BDACompetitionMode:201230814]: ACCURACY:AS-124 sidestrafe missile test:1/20:0/0
+[BDArmory.BDACompetitionMode:201230814]: ACCURACY:F-52F-20 Kargadan KWS I CWI:0/0:0/0
+[BDArmory.BDACompetitionMode:201230814]: ACCURACY:F/A-27BN Voron:0/0:0/0
+[BDArmory.BDACompetitionMode:201230814]: ACCURACY:AS-124 sidestrafe missile test_1:0/0:0/0
+[BDArmory.BDACompetitionMode:201230814]: ACCURACY:PLAID AIF-42C5D2:10/131:0/0
+[BDArmory.BDACompetitionMode:201230814]: ACCURACY:AIF-38C:48/401:0/0
+[BDArmory.BDACompetitionMode:201230814]: ACCURACY:AIF-38C_1:1/48:0/0
+[BDArmory.BDACompetitionMode:201230814]: ACCURACY:Z-41D-5.5:0/0:0/0
+[BDArmory.BDACompetitionMode:201230814]: ACCURACY:AS-124 sidestrafe missile test_2:0/0:0/0
+[BDArmory.BDACompetitionMode:201230814]: ACCURACY:AL-68 Proleska:0/0:0/0
+[BDArmory.BDACompetitionMode:201230814]: ACCURACY:AL-34 Arnika:0/0:0/0
+[BDArmory.BDACompetitionMode:201230814]: ACCURACY:AL-34 Arnika_1:51/327:0/0
+[BDArmory.BDACompetitionMode:201230814]: ACCURACY:AL-27 Kallistemon:0/13:0/0
+[BDArmory.BDACompetitionMode:201230814]: ACCURACY:AL-27 Kallistemon_1:81/230:0/0
+[BDArmory.BDACompetitionMode:201230814]: ACCURACY:AL-27 Kallistemon_2:0/0:0/0
+[BDArmory.BDACompetitionMode:201230814]: ACCURACY:AL-27 Kallistemon_3:0/0:0/0
+[BDArmory.BDACompetitionMode:201230814]: ACCURACY:AL-34 Arnika_2:0/0:0/0
+[BDArmory.BDACompetitionMode:201230814]: ACCURACY:AL-34 Arnika_3:40/321:0/0
+[BDArmory.BDACompetitionMode:201230814]: ACCURACY:AL-34 Arnika_4:7/276:0/0
+[BDArmory.BDACompetitionMode:201230814]: ACCURACY:AL-27 Kallistemon_4:16/258:0/0

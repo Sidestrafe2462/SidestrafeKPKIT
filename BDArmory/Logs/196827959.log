@@ -1,0 +1,15 @@
+[BDArmory.BDACompetitionMode:196827959]: Dumping Results after 20s (of 0s) at 2026-03-28 02:26:22 -04:00
+[BDArmory.BDACompetitionMode:196827959]: RESULT:Win:{"team": "PLAID AIF-42C5B LRP", "members": ["PLAID AIF-42C5B LRP", "PLAID AIF-42C5B LRP_1"]}
+[BDArmory.BDACompetitionMode:196827959]: DEADTEAMS:[{"team": "LF-03 Avaria Mk11", "members": ["LF-03 Avaria Mk11", "LF-03 Avaria Mk11_1"]}]
+[BDArmory.BDACompetitionMode:196827959]: ALIVE:PLAID AIF-42C5B LRP
+[BDArmory.BDACompetitionMode:196827959]: DEAD:0:20.0:LF-03 Avaria Mk11
+[BDArmory.BDACompetitionMode:196827959]: DEAD:1:20.0:LF-03 Avaria Mk11_1
+[BDArmory.BDACompetitionMode:196827959]: DEAD:2:20.0:PLAID AIF-42C5B LRP_1
+[BDArmory.BDACompetitionMode:196827959]: HPLEFT:LF-03 Avaria Mk11:0
+[BDArmory.BDACompetitionMode:196827959]: HPLEFT:LF-03 Avaria Mk11_1:0
+[BDArmory.BDACompetitionMode:196827959]: HPLEFT:PLAID AIF-42C5B LRP:100
+[BDArmory.BDACompetitionMode:196827959]: HPLEFT:PLAID AIF-42C5B LRP_1:0
+[BDArmory.BDACompetitionMode:196827959]: ACCURACY:LF-03 Avaria Mk11:0/0:0/0
+[BDArmory.BDACompetitionMode:196827959]: ACCURACY:LF-03 Avaria Mk11_1:0/0:0/0
+[BDArmory.BDACompetitionMode:196827959]: ACCURACY:PLAID AIF-42C5B LRP:0/0:0/0
+[BDArmory.BDACompetitionMode:196827959]: ACCURACY:PLAID AIF-42C5B LRP_1:0/0:0/0

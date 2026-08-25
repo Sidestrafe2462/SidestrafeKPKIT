@@ -1,0 +1,15 @@
+[BDArmory.BDACompetitionMode:208902760]: Dumping Results after 165s (of 0s) at 2026-08-14 20:38:27 -04:00
+[BDArmory.BDACompetitionMode:208902760]: RESULT:Draw:[{"team": "AIF-38D2", "members": ["AIF-38D2"]}, {"team": "Z-55H Export Fully Loaded", "members": ["Z-55H Export Fully Loaded"]}]
+[BDArmory.BDACompetitionMode:208902760]: DEADTEAMS:[]
+[BDArmory.BDACompetitionMode:208902760]: ALIVE:AIF-38D2
+[BDArmory.BDACompetitionMode:208902760]: ALIVE:Z-55H Export Fully Loaded
+[BDArmory.BDACompetitionMode:208902760]: WHOSHOTWHOWITHGUNS:AIF-38D2:18:Z-55H Export Fully Loaded
+[BDArmory.BDACompetitionMode:208902760]: WHOSHOTWHOWITHGUNS:Z-55H Export Fully Loaded:87:AIF-38D2
+[BDArmory.BDACompetitionMode:208902760]: WHOHITWHOWITHMISSILES:AIF-38D2:4:Z-55H Export Fully Loaded
+[BDArmory.BDACompetitionMode:208902760]: WHOHITWHOWITHMISSILES:Z-55H Export Fully Loaded:6:AIF-38D2
+[BDArmory.BDACompetitionMode:208902760]: WHOPARTSHITWHOWITHMISSILES:AIF-38D2:396:Z-55H Export Fully Loaded
+[BDArmory.BDACompetitionMode:208902760]: WHOPARTSHITWHOWITHMISSILES:Z-55H Export Fully Loaded:384:AIF-38D2
+[BDArmory.BDACompetitionMode:208902760]: HPLEFT:AIF-38D2:100
+[BDArmory.BDACompetitionMode:208902760]: HPLEFT:Z-55H Export Fully Loaded:100
+[BDArmory.BDACompetitionMode:208902760]: ACCURACY:AIF-38D2:87/615:0/0
+[BDArmory.BDACompetitionMode:208902760]: ACCURACY:Z-55H Export Fully Loaded:18/464:0/0

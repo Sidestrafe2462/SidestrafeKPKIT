@@ -1,0 +1,12 @@
+[BDArmory.BDACompetitionMode:203240393]: Dumping Results after 89s (of 0s) at 2026-06-10 07:41:43 -04:00
+[BDArmory.BDACompetitionMode:203240393]: RESULT:Draw:[{"team": "F-52F-20 Kargadan KWS PLAID", "members": ["F-52F-20 Kargadan KWS PLAID"]}, {"team": "AL-24 Fencer SEAD", "members": ["AL-24 Fencer SEAD"]}]
+[BDArmory.BDACompetitionMode:203240393]: DEADTEAMS:[]
+[BDArmory.BDACompetitionMode:203240393]: ALIVE:F-52F-20 Kargadan KWS PLAID
+[BDArmory.BDACompetitionMode:203240393]: MIA:AL-24 Fencer SEAD
+[BDArmory.BDACompetitionMode:203240393]: WHOSHOTWHOWITHGUNS:AL-24 Fencer SEAD:13:F-52F-20 Kargadan KWS PLAID
+[BDArmory.BDACompetitionMode:203240393]: WHODAMAGEDWHOWITHGUNS:AL-24 Fencer SEAD:3146.2:F-52F-20 Kargadan KWS PLAID
+[BDArmory.BDACompetitionMode:203240393]: WHODAMAGEDWHOWITHBATTLEDAMAGE:AL-24 Fencer SEAD:144.8:F-52F-20 Kargadan KWS PLAID
+[BDArmory.BDACompetitionMode:203240393]: HPLEFT:F-52F-20 Kargadan KWS PLAID:100
+[BDArmory.BDACompetitionMode:203240393]: HPLEFT:AL-24 Fencer SEAD:26.2068965517241
+[BDArmory.BDACompetitionMode:203240393]: ACCURACY:F-52F-20 Kargadan KWS PLAID:13/66:0/0
+[BDArmory.BDACompetitionMode:203240393]: ACCURACY:AL-24 Fencer SEAD:0/0:0/0

@@ -1,0 +1,654 @@
+{
+  "Round 0": {
+    "196832859-Heat 0.log": {
+      "result": {
+        "result": "Win",
+        "teams": {
+          "PLAID AIF-42C5C LRP": "PLAID AIF-42C5C LRP, PLAID AIF-42C5C LRP_1, PLAID AIF-42C5C LRP_2, PLAID AIF-42C5C LRP_3"
+        },
+        "dead teams": {
+          "PLAID AIF-42C5B LRP": "PLAID AIF-42C5B LRP, PLAID AIF-42C5B LRP_1, PLAID AIF-42C5B LRP_2, PLAID AIF-42C5B LRP_3"
+        }
+      },
+      "duration": 0.0,
+      "craft": {
+        "PLAID AIF-42C5C LRP": {
+          "state": "ALIVE",
+          "hitsBy": {
+            "PLAID AIF-42C5B LRP_2": 3
+          },
+          "bulletDamageBy": {
+            "PLAID AIF-42C5B LRP_2": 1744.5
+          },
+          "rammedPartsLostBy": {
+            "PLAID AIF-42C5B LRP_2": 1
+          },
+          "battleDamageBy": {
+            "PLAID AIF-42C5B LRP_2": 170.1,
+            "PLAID AIF-42C5B LRP": 384.0
+          },
+          "HPremaining": 97.5,
+          "accuracy": 6.521739130434782,
+          "hits": 21,
+          "shots": 322,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "PLAID AIF-42C5C LRP_1": {
+          "state": "DEAD",
+          "deathOrder": 5,
+          "deathTime": 167.0,
+          "hitsBy": {
+            "PLAID AIF-42C5B LRP_1": 1,
+            "PLAID AIF-42C5B LRP": 22
+          },
+          "bulletDamageBy": {
+            "PLAID AIF-42C5B LRP_1": 50.0,
+            "PLAID AIF-42C5B LRP": 6624.5
+          },
+          "battleDamageBy": {
+            "PLAID AIF-42C5B LRP": 373.2,
+            "PLAID AIF-42C5C LRP_1": 10166.5
+          },
+          "GMKillReason": "LandedTooLong",
+          "HPremaining": 0.0,
+          "accuracy": 10.144927536231885,
+          "hits": 21,
+          "shots": 207,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "PLAID AIF-42C5C LRP_2": {
+          "state": "DEAD",
+          "deathOrder": 0,
+          "deathTime": 126.0,
+          "hitsBy": {
+            "PLAID AIF-42C5B LRP": 19
+          },
+          "bulletDamageBy": {
+            "PLAID AIF-42C5B LRP": 3672.8
+          },
+          "missileHitsBy": {
+            "PLAID AIF-42C5B LRP": 1
+          },
+          "missilePartsHitBy": {
+            "PLAID AIF-42C5B LRP": 60
+          },
+          "missileDamageBy": {
+            "PLAID AIF-42C5B LRP": 16724.8
+          },
+          "battleDamageBy": {
+            "PLAID AIF-42C5B LRP": 61.6,
+            "PLAID AIF-42C5C LRP_2": 7021.6
+          },
+          "HPremaining": 0.0,
+          "accuracy": 11.403508771929825,
+          "hits": 13,
+          "shots": 114,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "PLAID AIF-42C5C LRP_3": {
+          "state": "DEAD",
+          "deathOrder": 3,
+          "deathTime": 151.0,
+          "hitsBy": {
+            "PLAID AIF-42C5B LRP_2": 14
+          },
+          "bulletDamageBy": {
+            "PLAID AIF-42C5B LRP_2": 4082.7
+          },
+          "missileHitsBy": {
+            "PLAID AIF-42C5B LRP_3": 1
+          },
+          "missilePartsHitBy": {
+            "PLAID AIF-42C5B LRP_3": 64
+          },
+          "missileDamageBy": {
+            "PLAID AIF-42C5B LRP_3": 39685.0
+          },
+          "battleDamageBy": {
+            "PLAID AIF-42C5B LRP_2": 478.7
+          },
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "PLAID AIF-42C5B LRP": {
+          "state": "DEAD",
+          "deathOrder": 2,
+          "deathTime": 148.9,
+          "hitsBy": {
+            "PLAID AIF-42C5C LRP": 13
+          },
+          "bulletDamageBy": {
+            "PLAID AIF-42C5C LRP": 2618.6
+          },
+          "missileHitsBy": {
+            "PLAID AIF-42C5C LRP": 1
+          },
+          "missilePartsHitBy": {
+            "PLAID AIF-42C5C LRP": 68
+          },
+          "missileDamageBy": {
+            "PLAID AIF-42C5C LRP": 11553.4
+          },
+          "rammedPartsLostBy": {
+            "PLAID AIF-42C5C LRP": 63
+          },
+          "battleDamageBy": {
+            "PLAID AIF-42C5C LRP": 203.1,
+            "PLAID AIF-42C5B LRP": 19364.0
+          },
+          "cleanRamKillBy": "PLAID AIF-42C5C LRP",
+          "HPremaining": 0.0,
+          "accuracy": 16.26984126984127,
+          "hits": 41,
+          "shots": 252,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "PLAID AIF-42C5B LRP_1": {
+          "state": "DEAD",
+          "deathOrder": 6,
+          "deathTime": 189.0,
+          "hitsBy": {
+            "PLAID AIF-42C5C LRP_2": 13,
+            "PLAID AIF-42C5C LRP": 5
+          },
+          "bulletDamageBy": {
+            "PLAID AIF-42C5C LRP_2": 3799.8,
+            "PLAID AIF-42C5C LRP": 1759.5
+          },
+          "missileHitsBy": {
+            "PLAID AIF-42C5C LRP_3": 3
+          },
+          "missilePartsHitBy": {
+            "PLAID AIF-42C5C LRP_3": 213
+          },
+          "missileDamageBy": {
+            "PLAID AIF-42C5C LRP_3": 5506.8
+          },
+          "battleDamageBy": {
+            "PLAID AIF-42C5C LRP_2": 181.9,
+            "PLAID AIF-42C5C LRP": 0.2,
+            "PLAID AIF-42C5B LRP_1": 35786.8
+          },
+          "cleanKillBy": "PLAID AIF-42C5C LRP",
+          "HPremaining": 0.0,
+          "accuracy": 1.3333333333333333,
+          "hits": 1,
+          "shots": 75,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "PLAID AIF-42C5B LRP_2": {
+          "state": "DEAD",
+          "deathOrder": 4,
+          "deathTime": 159.0,
+          "hitsBy": {
+            "PLAID AIF-42C5C LRP_1": 15
+          },
+          "bulletDamageBy": {
+            "PLAID AIF-42C5C LRP_1": 4060.4
+          },
+          "battleDamageBy": {
+            "PLAID AIF-42C5C LRP_1": 259.7,
+            "PLAID AIF-42C5B LRP_2": 7163.3
+          },
+          "GMKillReason": "LandedTooLong",
+          "HPremaining": 0.0,
+          "accuracy": 7.203389830508475,
+          "hits": 17,
+          "shots": 236,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "PLAID AIF-42C5B LRP_3": {
+          "state": "DEAD",
+          "deathOrder": 1,
+          "deathTime": 132.0,
+          "hitsBy": {
+            "PLAID AIF-42C5C LRP": 3,
+            "PLAID AIF-42C5C LRP_1": 6
+          },
+          "bulletDamageBy": {
+            "PLAID AIF-42C5C LRP": 596.2,
+            "PLAID AIF-42C5C LRP_1": 1208.8
+          },
+          "missileHitsBy": {
+            "PLAID AIF-42C5C LRP_1": 1,
+            "PLAID AIF-42C5C LRP": 1
+          },
+          "missilePartsHitBy": {
+            "PLAID AIF-42C5C LRP_1": 67,
+            "PLAID AIF-42C5C LRP": 60
+          },
+          "missileDamageBy": {
+            "PLAID AIF-42C5C LRP_1": 10603.1,
+            "PLAID AIF-42C5C LRP": 15512.1
+          },
+          "battleDamageBy": {
+            "PLAID AIF-42C5C LRP_1": 11.6
+          },
+          "HPremaining": 0.0,
+          "accuracy": 0.0,
+          "hits": 0,
+          "shots": 2,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        }
+      }
+    }
+  },
+  "Round 1": {
+    "196833164-Heat 0.log": {
+      "result": {
+        "result": "Win",
+        "teams": {
+          "PLAID AIF-42C5B LRP": "PLAID AIF-42C5B LRP, PLAID AIF-42C5B LRP_1, PLAID AIF-42C5B LRP_2, PLAID AIF-42C5B LRP_3"
+        },
+        "dead teams": {
+          "PLAID AIF-42C5C LRP": "PLAID AIF-42C5C LRP, PLAID AIF-42C5C LRP_1, PLAID AIF-42C5C LRP_2, PLAID AIF-42C5C LRP_3"
+        }
+      },
+      "duration": 0.0,
+      "craft": {
+        "PLAID AIF-42C5B LRP": {
+          "state": "ALIVE",
+          "HPremaining": 100.0,
+          "accuracy": 9.49367088607595,
+          "hits": 15,
+          "shots": 158,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "PLAID AIF-42C5B LRP_1": {
+          "state": "ALIVE",
+          "HPremaining": 100.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "PLAID AIF-42C5B LRP_2": {
+          "state": "ALIVE",
+          "missileHitsBy": {
+            "PLAID AIF-42C5B LRP_3": 1
+          },
+          "missilePartsHitBy": {
+            "PLAID AIF-42C5B LRP_3": 66
+          },
+          "missileDamageBy": {
+            "PLAID AIF-42C5B LRP_3": 12184.8
+          },
+          "HPremaining": 76.25,
+          "accuracy": 7.2727272727272725,
+          "hits": 4,
+          "shots": 55,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "PLAID AIF-42C5B LRP_3": {
+          "state": "ALIVE",
+          "HPremaining": 100.0,
+          "accuracy": 23.076923076923077,
+          "hits": 9,
+          "shots": 39,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "PLAID AIF-42C5C LRP": {
+          "state": "DEAD",
+          "deathOrder": 2,
+          "deathTime": 120.0,
+          "hitsBy": {
+            "PLAID AIF-42C5B LRP_3": 9
+          },
+          "bulletDamageBy": {
+            "PLAID AIF-42C5B LRP_3": 2435.7
+          },
+          "missileHitsBy": {
+            "PLAID AIF-42C5B LRP_1": 1,
+            "PLAID AIF-42C5B LRP_3": 1
+          },
+          "missilePartsHitBy": {
+            "PLAID AIF-42C5B LRP_1": 49,
+            "PLAID AIF-42C5B LRP_3": 27
+          },
+          "missileDamageBy": {
+            "PLAID AIF-42C5B LRP_1": 38261.1,
+            "PLAID AIF-42C5B LRP_3": 7055.4
+          },
+          "battleDamageBy": {
+            "PLAID AIF-42C5B LRP_3": 68.7,
+            "PLAID AIF-42C5C LRP": 808.5
+          },
+          "cleanKillBy": "PLAID AIF-42C5B LRP_3",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "PLAID AIF-42C5C LRP_1": {
+          "state": "DEAD",
+          "deathOrder": 0,
+          "deathTime": 71.0,
+          "missileHitsBy": {
+            "PLAID AIF-42C5B LRP_3": 1
+          },
+          "missilePartsHitBy": {
+            "PLAID AIF-42C5B LRP_3": 75
+          },
+          "missileDamageBy": {
+            "PLAID AIF-42C5B LRP_3": 60589.8
+          },
+          "battleDamageBy": {
+            "PLAID AIF-42C5B LRP_3": 9704.8
+          },
+          "cleanMissileKillBy": "PLAID AIF-42C5B LRP_3",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "PLAID AIF-42C5C LRP_2": {
+          "state": "DEAD",
+          "deathOrder": 3,
+          "deathTime": 125.0,
+          "hitsBy": {
+            "PLAID AIF-42C5B LRP": 15,
+            "PLAID AIF-42C5B LRP_2": 1
+          },
+          "bulletDamageBy": {
+            "PLAID AIF-42C5B LRP": 4290.5,
+            "PLAID AIF-42C5B LRP_2": 236.5
+          },
+          "missileHitsBy": {
+            "PLAID AIF-42C5B LRP": 3
+          },
+          "missilePartsHitBy": {
+            "PLAID AIF-42C5B LRP": 25
+          },
+          "missileDamageBy": {
+            "PLAID AIF-42C5B LRP": 7923.3
+          },
+          "battleDamageBy": {
+            "PLAID AIF-42C5B LRP": 449.6,
+            "PLAID AIF-42C5C LRP_2": 29412.6
+          },
+          "cleanKillBy": "PLAID AIF-42C5B LRP_2",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "PLAID AIF-42C5C LRP_3": {
+          "state": "DEAD",
+          "deathOrder": 1,
+          "deathTime": 102.0,
+          "hitsBy": {
+            "PLAID AIF-42C5B LRP_2": 3
+          },
+          "bulletDamageBy": {
+            "PLAID AIF-42C5B LRP_2": 1200.1
+          },
+          "missileHitsBy": {
+            "PLAID AIF-42C5B LRP_2": 2,
+            "PLAID AIF-42C5B LRP_3": 2
+          },
+          "missilePartsHitBy": {
+            "PLAID AIF-42C5B LRP_2": 77,
+            "PLAID AIF-42C5B LRP_3": 64
+          },
+          "missileDamageBy": {
+            "PLAID AIF-42C5B LRP_2": 47444.3
+          },
+          "battleDamageBy": {
+            "PLAID AIF-42C5B LRP_3": 147.9,
+            "PLAID AIF-42C5B LRP_2": 353.6,
+            "PLAID AIF-42C5C LRP_3": 18609.9
+          },
+          "cleanMissileKillBy": "PLAID AIF-42C5B LRP_2",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        }
+      }
+    }
+  },
+  "Round 2": {
+    "196833370-Heat 0.log": {
+      "result": {
+        "result": "Win",
+        "teams": {
+          "PLAID AIF-42C5B LRP": "PLAID AIF-42C5B LRP, PLAID AIF-42C5B LRP_1, PLAID AIF-42C5B LRP_2, PLAID AIF-42C5B LRP_3"
+        },
+        "dead teams": {
+          "PLAID AIF-42C5C LRP": "PLAID AIF-42C5C LRP, PLAID AIF-42C5C LRP_1, PLAID AIF-42C5C LRP_2, PLAID AIF-42C5C LRP_3"
+        }
+      },
+      "duration": 0.0,
+      "craft": {
+        "PLAID AIF-42C5B LRP_1": {
+          "state": "ALIVE",
+          "HPremaining": 100.0,
+          "accuracy": 3.592814371257485,
+          "hits": 6,
+          "shots": 167,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "PLAID AIF-42C5B LRP_2": {
+          "state": "ALIVE",
+          "missileHitsBy": {
+            "PLAID AIF-42C5C LRP": 2
+          },
+          "missilePartsHitBy": {
+            "PLAID AIF-42C5C LRP": 142
+          },
+          "battleDamageBy": {
+            "PLAID AIF-42C5B LRP_1": 10.7
+          },
+          "HPremaining": 100.0,
+          "accuracy": 6.578947368421052,
+          "hits": 10,
+          "shots": 152,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "PLAID AIF-42C5B LRP": {
+          "state": "MIA",
+          "battleDamageBy": {
+            "PLAID AIF-42C5B LRP_1": 7.6,
+            "PLAID AIF-42C5B LRP": 10187.7
+          },
+          "HPremaining": 62.5,
+          "accuracy": 7.43801652892562,
+          "hits": 9,
+          "shots": 121,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "PLAID AIF-42C5B LRP_3": {
+          "state": "DEAD",
+          "deathOrder": 1,
+          "deathTime": 110.0,
+          "hitsBy": {
+            "PLAID AIF-42C5C LRP_2": 5
+          },
+          "bulletDamageBy": {
+            "PLAID AIF-42C5C LRP_2": 1004.8
+          },
+          "missileHitsBy": {
+            "PLAID AIF-42C5C LRP_2": 1
+          },
+          "missilePartsHitBy": {
+            "PLAID AIF-42C5C LRP_2": 12
+          },
+          "missileDamageBy": {
+            "PLAID AIF-42C5C LRP_2": 1162.5
+          },
+          "battleDamageBy": {
+            "PLAID AIF-42C5C LRP_2": 35.4,
+            "PLAID AIF-42C5B LRP_3": 21129.1
+          },
+          "cleanMissileKillBy": "PLAID AIF-42C5C LRP_2",
+          "HPremaining": 0.0,
+          "accuracy": 7.6923076923076925,
+          "hits": 2,
+          "shots": 26,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "PLAID AIF-42C5C LRP": {
+          "state": "DEAD",
+          "deathOrder": 3,
+          "deathTime": 131.0,
+          "hitsBy": {
+            "PLAID AIF-42C5B LRP_3": 2,
+            "PLAID AIF-42C5B LRP_2": 10,
+            "PLAID AIF-42C5B LRP": 9,
+            "PLAID AIF-42C5B LRP_1": 6
+          },
+          "bulletDamageBy": {
+            "PLAID AIF-42C5B LRP_3": 847.6,
+            "PLAID AIF-42C5B LRP_2": 2755.0,
+            "PLAID AIF-42C5B LRP": 2291.5,
+            "PLAID AIF-42C5B LRP_1": 1776.0
+          },
+          "missileHitsBy": {
+            "PLAID AIF-42C5B LRP": 1
+          },
+          "missilePartsHitBy": {
+            "PLAID AIF-42C5B LRP": 69
+          },
+          "missileDamageBy": {
+            "PLAID AIF-42C5B LRP": 15250.2
+          },
+          "rammedPartsLostBy": {
+            "PLAID AIF-42C5B LRP_2": 6
+          },
+          "battleDamageBy": {
+            "PLAID AIF-42C5B LRP_3": 150.3,
+            "PLAID AIF-42C5B LRP_2": 71.8,
+            "PLAID AIF-42C5B LRP": 38.9,
+            "PLAID AIF-42C5B LRP_1": 3.1
+          },
+          "cleanKillBy": "PLAID AIF-42C5B LRP_1",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "PLAID AIF-42C5C LRP_1": {
+          "state": "DEAD",
+          "deathOrder": 0,
+          "deathTime": 71.0,
+          "missileHitsBy": {
+            "PLAID AIF-42C5B LRP_3": 1
+          },
+          "missilePartsHitBy": {
+            "PLAID AIF-42C5B LRP_3": 65
+          },
+          "missileDamageBy": {
+            "PLAID AIF-42C5B LRP_3": 110181.8
+          },
+          "battleDamageBy": {
+            "PLAID AIF-42C5B LRP_3": 5918.2
+          },
+          "cleanMissileKillBy": "PLAID AIF-42C5B LRP_3",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "PLAID AIF-42C5C LRP_2": {
+          "state": "DEAD",
+          "deathOrder": 2,
+          "deathTime": 111.0,
+          "missileHitsBy": {
+            "PLAID AIF-42C5B LRP_2": 2
+          },
+          "missilePartsHitBy": {
+            "PLAID AIF-42C5B LRP_2": 134
+          },
+          "missileDamageBy": {
+            "PLAID AIF-42C5B LRP_2": 35634.4
+          },
+          "cleanMissileKillBy": "PLAID AIF-42C5B LRP_2",
+          "HPremaining": 0.0,
+          "accuracy": 6.097560975609756,
+          "hits": 5,
+          "shots": 82,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "PLAID AIF-42C5C LRP_3": {
+          "state": "DEAD",
+          "deathOrder": 4,
+          "deathTime": 136.0,
+          "missileHitsBy": {
+            "PLAID AIF-42C5B LRP_1": 3,
+            "PLAID AIF-42C5B LRP": 3
+          },
+          "missilePartsHitBy": {
+            "PLAID AIF-42C5B LRP_1": 168,
+            "PLAID AIF-42C5B LRP": 104
+          },
+          "missileDamageBy": {
+            "PLAID AIF-42C5B LRP_1": 39562.0,
+            "PLAID AIF-42C5B LRP": 4621.2
+          },
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        }
+      }
+    }
+  }
+}

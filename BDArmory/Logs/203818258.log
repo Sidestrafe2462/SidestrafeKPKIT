@@ -1,0 +1,23 @@
+[BDArmory.BDACompetitionMode:203818258]: Dumping Results after 60s (of 0s) at 2026-06-17 00:12:07 -04:00
+[BDArmory.BDACompetitionMode:203818258]: RESULT:Draw:[{"team": "AL-68 Proleska Comet", "members": ["AL-68 Proleska Comet", "AL-68 Proleska Comet_1"]}, {"team": "AIF-38D1", "members": ["AIF-38D1", "AIF-38D1_1"]}]
+[BDArmory.BDACompetitionMode:203818258]: DEADTEAMS:[]
+[BDArmory.BDACompetitionMode:203818258]: ALIVE:AL-68 Proleska Comet
+[BDArmory.BDACompetitionMode:203818258]: ALIVE:AIF-38D1
+[BDArmory.BDACompetitionMode:203818258]: ALIVE:AIF-38D1_1
+[BDArmory.BDACompetitionMode:203818258]: DEAD:0:41.0:AL-68 Proleska Comet_1
+[BDArmory.BDACompetitionMode:203818258]: WHOHITWHOWITHMISSILES:AL-68 Proleska Comet_1:1:AIF-38D1_1
+[BDArmory.BDACompetitionMode:203818258]: WHOHITWHOWITHMISSILES:AIF-38D1:2:AL-68 Proleska Comet_1
+[BDArmory.BDACompetitionMode:203818258]: WHOPARTSHITWHOWITHMISSILES:AL-68 Proleska Comet_1:85:AIF-38D1_1
+[BDArmory.BDACompetitionMode:203818258]: WHOPARTSHITWHOWITHMISSILES:AIF-38D1:164:AL-68 Proleska Comet_1
+[BDArmory.BDACompetitionMode:203818258]: WHODAMAGEDWHOWITHMISSILES:AL-68 Proleska Comet_1:19089.6:AIF-38D1_1
+[BDArmory.BDACompetitionMode:203818258]: WHODAMAGEDWHOWITHMISSILES:AIF-38D1:18202.9:AL-68 Proleska Comet_1
+[BDArmory.BDACompetitionMode:203818258]: WHODAMAGEDWHOWITHBATTLEDAMAGE:AIF-38D1:19846.1:AL-68 Proleska Comet_1
+[BDArmory.BDACompetitionMode:203818258]: CLEANKILLMISSILES:AL-68 Proleska Comet_1:AIF-38D1_1
+[BDArmory.BDACompetitionMode:203818258]: HPLEFT:AL-68 Proleska Comet:97.8021978021978
+[BDArmory.BDACompetitionMode:203818258]: HPLEFT:AL-68 Proleska Comet_1:0
+[BDArmory.BDACompetitionMode:203818258]: HPLEFT:AIF-38D1:64.7619047619048
+[BDArmory.BDACompetitionMode:203818258]: HPLEFT:AIF-38D1_1:100
+[BDArmory.BDACompetitionMode:203818258]: ACCURACY:AL-68 Proleska Comet:0/0:0/0
+[BDArmory.BDACompetitionMode:203818258]: ACCURACY:AL-68 Proleska Comet_1:0/0:0/0
+[BDArmory.BDACompetitionMode:203818258]: ACCURACY:AIF-38D1:0/0:0/0
+[BDArmory.BDACompetitionMode:203818258]: ACCURACY:AIF-38D1_1:0/0:0/0

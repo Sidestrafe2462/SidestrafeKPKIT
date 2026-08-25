@@ -1,0 +1,50 @@
+[BDArmory.BDACompetitionMode:209358365]: Dumping Results after 139s (of 0s) at 2026-08-20 03:12:06 -04:00
+[BDArmory.BDACompetitionMode:209358365]: RESULT:Draw:[{"team": "sea lion one airwing", "members": ["Type-404S Fighter (A2A) mod-1", "Type-404S Fighter (A2A) mod-1_1", "Type-404S Fighter (A2A) mod-1_2"]}, {"team": "uif airwing", "members": ["SF-79-3 Arkstar", "SF-79-3 Arkstar_1", "SF-79-3 Arkstar_2", "SF-79-3 Arkstar_3", "SF-79-3 Arkstar_4", "SF-79-3 Arkstar_5"]}]
+[BDArmory.BDACompetitionMode:209358365]: DEADTEAMS:[]
+[BDArmory.BDACompetitionMode:209358365]: ALIVE:Type-404S Fighter (A2A) mod-1_1
+[BDArmory.BDACompetitionMode:209358365]: ALIVE:Type-404S Fighter (A2A) mod-1_2
+[BDArmory.BDACompetitionMode:209358365]: ALIVE:SF-79-3 Arkstar_1
+[BDArmory.BDACompetitionMode:209358365]: ALIVE:SF-79-3 Arkstar_5
+[BDArmory.BDACompetitionMode:209358365]: DEAD:0:56.7:Type-404S Fighter (A2A) mod-1
+[BDArmory.BDACompetitionMode:209358365]: DEAD:1:114.7:SF-79-3 Arkstar
+[BDArmory.BDACompetitionMode:209358365]: DEAD:2:123.1:SF-79-3 Arkstar_2
+[BDArmory.BDACompetitionMode:209358365]: DEAD:3:125.8:SF-79-3 Arkstar_3
+[BDArmory.BDACompetitionMode:209358365]: DEAD:4:131.0:SF-79-3 Arkstar_4
+[BDArmory.BDACompetitionMode:209358365]: WHOHITWHOWITHMISSILES:Type-404S Fighter (A2A) mod-1:2:SF-79-3 Arkstar_1:2:SF-79-3 Arkstar_5:2:SF-79-3 Arkstar_3:2:SF-79-3 Arkstar_4
+[BDArmory.BDACompetitionMode:209358365]: WHOHITWHOWITHMISSILES:Type-404S Fighter (A2A) mod-1_1:1:SF-79-3 Arkstar_5:1:SF-79-3 Arkstar_4:1:SF-79-3 Arkstar_3
+[BDArmory.BDACompetitionMode:209358365]: WHOHITWHOWITHMISSILES:Type-404S Fighter (A2A) mod-1_2:2:SF-79-3 Arkstar_5:1:SF-79-3 Arkstar_3:1:SF-79-3 Arkstar_4
+[BDArmory.BDACompetitionMode:209358365]: WHOHITWHOWITHMISSILES:SF-79-3 Arkstar_3:2:Type-404S Fighter (A2A) mod-1_2
+[BDArmory.BDACompetitionMode:209358365]: WHOHITWHOWITHMISSILES:SF-79-3 Arkstar_4:2:Type-404S Fighter (A2A) mod-1_1
+[BDArmory.BDACompetitionMode:209358365]: WHOPARTSHITWHOWITHMISSILES:Type-404S Fighter (A2A) mod-1:109:SF-79-3 Arkstar_1:105:SF-79-3 Arkstar_5:102:SF-79-3 Arkstar_3:69:SF-79-3 Arkstar_4
+[BDArmory.BDACompetitionMode:209358365]: WHOPARTSHITWHOWITHMISSILES:Type-404S Fighter (A2A) mod-1_1:24:SF-79-3 Arkstar_5:105:SF-79-3 Arkstar_4:105:SF-79-3 Arkstar_3
+[BDArmory.BDACompetitionMode:209358365]: WHOPARTSHITWHOWITHMISSILES:Type-404S Fighter (A2A) mod-1_2:163:SF-79-3 Arkstar_5:78:SF-79-3 Arkstar_3:58:SF-79-3 Arkstar_4
+[BDArmory.BDACompetitionMode:209358365]: WHOPARTSHITWHOWITHMISSILES:SF-79-3 Arkstar_3:198:Type-404S Fighter (A2A) mod-1_2
+[BDArmory.BDACompetitionMode:209358365]: WHOPARTSHITWHOWITHMISSILES:SF-79-3 Arkstar_4:200:Type-404S Fighter (A2A) mod-1_1
+[BDArmory.BDACompetitionMode:209358365]: WHODAMAGEDWHOWITHMISSILES:Type-404S Fighter (A2A) mod-1:20667.4:SF-79-3 Arkstar_1:6065.0:SF-79-3 Arkstar_4:19915.6:SF-79-3 Arkstar_5
+[BDArmory.BDACompetitionMode:209358365]: WHODAMAGEDWHOWITHMISSILES:Type-404S Fighter (A2A) mod-1_2:24312.4:SF-79-3 Arkstar_5
+[BDArmory.BDACompetitionMode:209358365]: WHODAMAGEDWHOWITHMISSILES:SF-79-3 Arkstar_3:15458.5:Type-404S Fighter (A2A) mod-1_2
+[BDArmory.BDACompetitionMode:209358365]: WHODAMAGEDWHOWITHMISSILES:SF-79-3 Arkstar_4:38087.5:Type-404S Fighter (A2A) mod-1_1
+[BDArmory.BDACompetitionMode:209358365]: WHODAMAGEDWHOWITHBATTLEDAMAGE:SF-79-3 Arkstar_3:236.9:Type-404S Fighter (A2A) mod-1_2
+[BDArmory.BDACompetitionMode:209358365]: GMKILL:Type-404S Fighter (A2A) mod-1:BigRedButton
+[BDArmory.BDACompetitionMode:209358365]: GMKILL:SF-79-3 Arkstar:BigRedButton
+[BDArmory.BDACompetitionMode:209358365]: GMKILL:SF-79-3 Arkstar_2:BigRedButton
+[BDArmory.BDACompetitionMode:209358365]: GMKILL:SF-79-3 Arkstar_3:BigRedButton
+[BDArmory.BDACompetitionMode:209358365]: GMKILL:SF-79-3 Arkstar_4:BigRedButton
+[BDArmory.BDACompetitionMode:209358365]: HPLEFT:Type-404S Fighter (A2A) mod-1:0
+[BDArmory.BDACompetitionMode:209358365]: HPLEFT:Type-404S Fighter (A2A) mod-1_1:100
+[BDArmory.BDACompetitionMode:209358365]: HPLEFT:Type-404S Fighter (A2A) mod-1_2:70.4761904761905
+[BDArmory.BDACompetitionMode:209358365]: HPLEFT:SF-79-3 Arkstar:0
+[BDArmory.BDACompetitionMode:209358365]: HPLEFT:SF-79-3 Arkstar_1:100
+[BDArmory.BDACompetitionMode:209358365]: HPLEFT:SF-79-3 Arkstar_2:0
+[BDArmory.BDACompetitionMode:209358365]: HPLEFT:SF-79-3 Arkstar_3:0
+[BDArmory.BDACompetitionMode:209358365]: HPLEFT:SF-79-3 Arkstar_4:0
+[BDArmory.BDACompetitionMode:209358365]: HPLEFT:SF-79-3 Arkstar_5:100
+[BDArmory.BDACompetitionMode:209358365]: ACCURACY:Type-404S Fighter (A2A) mod-1:0/0:0/0
+[BDArmory.BDACompetitionMode:209358365]: ACCURACY:Type-404S Fighter (A2A) mod-1_1:0/0:0/0
+[BDArmory.BDACompetitionMode:209358365]: ACCURACY:Type-404S Fighter (A2A) mod-1_2:0/0:0/0
+[BDArmory.BDACompetitionMode:209358365]: ACCURACY:SF-79-3 Arkstar:0/0:0/0
+[BDArmory.BDACompetitionMode:209358365]: ACCURACY:SF-79-3 Arkstar_1:0/0:0/0
+[BDArmory.BDACompetitionMode:209358365]: ACCURACY:SF-79-3 Arkstar_2:0/0:0/0
+[BDArmory.BDACompetitionMode:209358365]: ACCURACY:SF-79-3 Arkstar_3:0/0:0/0
+[BDArmory.BDACompetitionMode:209358365]: ACCURACY:SF-79-3 Arkstar_4:0/0:0/0
+[BDArmory.BDACompetitionMode:209358365]: ACCURACY:SF-79-3 Arkstar_5:0/0:0/0

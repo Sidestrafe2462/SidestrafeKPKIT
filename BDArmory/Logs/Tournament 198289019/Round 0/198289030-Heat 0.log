@@ -1,0 +1,13 @@
+[BDArmory.BDACompetitionMode:198289030]: Dumping Results after 195s (of 0s) at 2026-04-14 00:20:29 -04:00
+[BDArmory.BDACompetitionMode:198289030]: RESULT:Win:{"team": "F-41E-10 Tigercat Balrog", "members": ["F-41E-10 Tigercat Balrog"]}
+[BDArmory.BDACompetitionMode:198289030]: DEADTEAMS:[{"team": "PLAID AIF-42C5D1", "members": ["PLAID AIF-42C5D1"]}]
+[BDArmory.BDACompetitionMode:198289030]: ALIVE:F-41E-10 Tigercat Balrog
+[BDArmory.BDACompetitionMode:198289030]: DEAD:0:185.0:PLAID AIF-42C5D1
+[BDArmory.BDACompetitionMode:198289030]: WHOSHOTWHOWITHGUNS:F-41E-10 Tigercat Balrog:48:PLAID AIF-42C5D1
+[BDArmory.BDACompetitionMode:198289030]: WHOSHOTWHOWITHGUNS:PLAID AIF-42C5D1:68:F-41E-10 Tigercat Balrog
+[BDArmory.BDACompetitionMode:198289030]: WHOHITWHOWITHMISSILES:F-41E-10 Tigercat Balrog:4:PLAID AIF-42C5D1
+[BDArmory.BDACompetitionMode:198289030]: WHOPARTSHITWHOWITHMISSILES:F-41E-10 Tigercat Balrog:544:PLAID AIF-42C5D1
+[BDArmory.BDACompetitionMode:198289030]: HPLEFT:F-41E-10 Tigercat Balrog:100
+[BDArmory.BDACompetitionMode:198289030]: HPLEFT:PLAID AIF-42C5D1:0
+[BDArmory.BDACompetitionMode:198289030]: ACCURACY:F-41E-10 Tigercat Balrog:68/887:0/0
+[BDArmory.BDACompetitionMode:198289030]: ACCURACY:PLAID AIF-42C5D1:48/564:0/0

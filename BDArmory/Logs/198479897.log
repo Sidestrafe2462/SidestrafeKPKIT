@@ -1,0 +1,13 @@
+[BDArmory.BDACompetitionMode:198479897]: Dumping Results after -195s (of 0s) at 2026-04-16 05:21:42 -04:00
+[BDArmory.BDACompetitionMode:198479897]: RESULT:Draw:[{"team": "F_A-27 Voron", "members": ["F/A-27 Voron"]}, {"team": "AIF-37A", "members": ["AIF-37A"]}]
+[BDArmory.BDACompetitionMode:198479897]: DEADTEAMS:[]
+[BDArmory.BDACompetitionMode:198479897]: ALIVE:F/A-27 Voron
+[BDArmory.BDACompetitionMode:198479897]: ALIVE:AIF-37A
+[BDArmory.BDACompetitionMode:198479897]: WHOSHOTWHOWITHGUNS:F/A-27 Voron:88:AIF-37A
+[BDArmory.BDACompetitionMode:198479897]: WHOSHOTWHOWITHGUNS:AIF-37A:86:F/A-27 Voron
+[BDArmory.BDACompetitionMode:198479897]: WHOHITWHOWITHMISSILES:F/A-27 Voron:2:AIF-37A
+[BDArmory.BDACompetitionMode:198479897]: WHOPARTSHITWHOWITHMISSILES:F/A-27 Voron:147:AIF-37A
+[BDArmory.BDACompetitionMode:198479897]: HPLEFT:F/A-27 Voron:100
+[BDArmory.BDACompetitionMode:198479897]: HPLEFT:AIF-37A:100
+[BDArmory.BDACompetitionMode:198479897]: ACCURACY:F/A-27 Voron:86/500:0/0
+[BDArmory.BDACompetitionMode:198479897]: ACCURACY:AIF-37A:88/550:0/0

@@ -1,0 +1,27 @@
+[BDArmory.BDACompetitionMode:201046071]: Dumping Results after 6s (of 0s) at 2026-05-15 22:08:11 -04:00
+[BDArmory.BDACompetitionMode:201046071]: RESULT:Win:{"team": "AL-27 Kallistemon dev", "members": ["AL-27 Kallistemon dev", "AL-27 Kallistemon dev_1", "AL-27 Kallistemon dev_2", "AL-27 Kallistemon dev_3"]}
+[BDArmory.BDACompetitionMode:201046071]: DEADTEAMS:[{"team": "AIF-38C", "members": ["AIF-38C", "AIF-38C_1", "AIF-38C_2", "AIF-38C_3"]}]
+[BDArmory.BDACompetitionMode:201046071]: ALIVE:AL-27 Kallistemon dev
+[BDArmory.BDACompetitionMode:201046071]: DEAD:0:5.0:AIF-38C
+[BDArmory.BDACompetitionMode:201046071]: DEAD:1:5.0:AIF-38C_1
+[BDArmory.BDACompetitionMode:201046071]: DEAD:2:5.0:AIF-38C_2
+[BDArmory.BDACompetitionMode:201046071]: DEAD:3:5.0:AIF-38C_3
+[BDArmory.BDACompetitionMode:201046071]: DEAD:4:5.0:AL-27 Kallistemon dev_1
+[BDArmory.BDACompetitionMode:201046071]: DEAD:5:5.0:AL-27 Kallistemon dev_2
+[BDArmory.BDACompetitionMode:201046071]: DEAD:6:5.0:AL-27 Kallistemon dev_3
+[BDArmory.BDACompetitionMode:201046071]: HPLEFT:AIF-38C:0
+[BDArmory.BDACompetitionMode:201046071]: HPLEFT:AIF-38C_1:0
+[BDArmory.BDACompetitionMode:201046071]: HPLEFT:AIF-38C_2:0
+[BDArmory.BDACompetitionMode:201046071]: HPLEFT:AIF-38C_3:0
+[BDArmory.BDACompetitionMode:201046071]: HPLEFT:AL-27 Kallistemon dev:100
+[BDArmory.BDACompetitionMode:201046071]: HPLEFT:AL-27 Kallistemon dev_1:0
+[BDArmory.BDACompetitionMode:201046071]: HPLEFT:AL-27 Kallistemon dev_2:0
+[BDArmory.BDACompetitionMode:201046071]: HPLEFT:AL-27 Kallistemon dev_3:0
+[BDArmory.BDACompetitionMode:201046071]: ACCURACY:AIF-38C:0/0:0/0
+[BDArmory.BDACompetitionMode:201046071]: ACCURACY:AIF-38C_1:0/0:0/0
+[BDArmory.BDACompetitionMode:201046071]: ACCURACY:AIF-38C_2:0/0:0/0
+[BDArmory.BDACompetitionMode:201046071]: ACCURACY:AIF-38C_3:0/0:0/0
+[BDArmory.BDACompetitionMode:201046071]: ACCURACY:AL-27 Kallistemon dev:0/0:0/0
+[BDArmory.BDACompetitionMode:201046071]: ACCURACY:AL-27 Kallistemon dev_1:0/0:0/0
+[BDArmory.BDACompetitionMode:201046071]: ACCURACY:AL-27 Kallistemon dev_2:0/0:0/0
+[BDArmory.BDACompetitionMode:201046071]: ACCURACY:AL-27 Kallistemon dev_3:0/0:0/0

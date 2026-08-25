@@ -1,0 +1,29 @@
+[BDArmory.BDACompetitionMode:200976946]: Dumping Results after -123s (of 0s) at 2026-05-15 02:59:12 -04:00
+[BDArmory.BDACompetitionMode:200976946]: RESULT:Mutual Annihilation
+[BDArmory.BDACompetitionMode:200976946]: DEADTEAMS:[{"team": "AIF-38C", "members": ["AIF-38C", "AIF-38C_1"]}, {"team": "AL-27 Kallistemon", "members": ["AL-27 Kallistemon", "AL-27 Kallistemon_1"]}]
+[BDArmory.BDACompetitionMode:200976946]: MIA:AIF-38C
+[BDArmory.BDACompetitionMode:200976946]: DEAD:0:86.0:AIF-38C_1
+[BDArmory.BDACompetitionMode:200976946]: DEAD:1:94.0:AL-27 Kallistemon
+[BDArmory.BDACompetitionMode:200976946]: MIA:AL-27 Kallistemon_1
+[BDArmory.BDACompetitionMode:200976946]: WHOSHOTWHOWITHGUNS:AIF-38C:1:AL-27 Kallistemon_1
+[BDArmory.BDACompetitionMode:200976946]: WHODAMAGEDWHOWITHGUNS:AIF-38C:167.4:AL-27 Kallistemon_1
+[BDArmory.BDACompetitionMode:200976946]: WHOHITWHOWITHMISSILES:AIF-38C:2:AL-27 Kallistemon_1:1:AL-27 Kallistemon
+[BDArmory.BDACompetitionMode:200976946]: WHOHITWHOWITHMISSILES:AIF-38C_1:1:AL-27 Kallistemon:1:AL-27 Kallistemon_1
+[BDArmory.BDACompetitionMode:200976946]: WHOHITWHOWITHMISSILES:AL-27 Kallistemon:1:AIF-38C_1
+[BDArmory.BDACompetitionMode:200976946]: WHOPARTSHITWHOWITHMISSILES:AIF-38C:181:AL-27 Kallistemon_1:93:AL-27 Kallistemon
+[BDArmory.BDACompetitionMode:200976946]: WHOPARTSHITWHOWITHMISSILES:AIF-38C_1:99:AL-27 Kallistemon:92:AL-27 Kallistemon_1
+[BDArmory.BDACompetitionMode:200976946]: WHOPARTSHITWHOWITHMISSILES:AL-27 Kallistemon:133:AIF-38C_1
+[BDArmory.BDACompetitionMode:200976946]: WHODAMAGEDWHOWITHMISSILES:AIF-38C:92916.4:AL-27 Kallistemon_1
+[BDArmory.BDACompetitionMode:200976946]: WHODAMAGEDWHOWITHMISSILES:AIF-38C_1:5603.2:AL-27 Kallistemon:80878.8:AL-27 Kallistemon_1
+[BDArmory.BDACompetitionMode:200976946]: WHODAMAGEDWHOWITHMISSILES:AL-27 Kallistemon:99002.6:AIF-38C_1
+[BDArmory.BDACompetitionMode:200976946]: WHODAMAGEDWHOWITHBATTLEDAMAGE:AIF-38C_1:2.8:AL-27 Kallistemon
+[BDArmory.BDACompetitionMode:200976946]: KILLSTEALMISSILES:AIF-38C_1:AL-27 Kallistemon_1
+[BDArmory.BDACompetitionMode:200976946]: CLEANKILLMISSILES:AL-27 Kallistemon:AIF-38C_1
+[BDArmory.BDACompetitionMode:200976946]: HPLEFT:AIF-38C:0
+[BDArmory.BDACompetitionMode:200976946]: HPLEFT:AIF-38C_1:0
+[BDArmory.BDACompetitionMode:200976946]: HPLEFT:AL-27 Kallistemon:0
+[BDArmory.BDACompetitionMode:200976946]: HPLEFT:AL-27 Kallistemon_1:0
+[BDArmory.BDACompetitionMode:200976946]: ACCURACY:AIF-38C:0/0:0/0
+[BDArmory.BDACompetitionMode:200976946]: ACCURACY:AIF-38C_1:0/0:0/0
+[BDArmory.BDACompetitionMode:200976946]: ACCURACY:AL-27 Kallistemon:0/0:0/0
+[BDArmory.BDACompetitionMode:200976946]: ACCURACY:AL-27 Kallistemon_1:1/2:0/0

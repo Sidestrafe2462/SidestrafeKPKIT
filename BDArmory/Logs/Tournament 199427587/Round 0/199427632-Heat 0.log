@@ -1,0 +1,28 @@
+[BDArmory.BDACompetitionMode:199427632]: Dumping Results after -143s (of 0s) at 2026-04-27 04:36:27 -04:00
+[BDArmory.BDACompetitionMode:199427632]: RESULT:Win:{"team": "AIF-38", "members": ["AIF-38", "AIF-38_1"]}
+[BDArmory.BDACompetitionMode:199427632]: DEADTEAMS:[{"team": "[AS_PF]-1 GG-2 (missile)", "members": ["[AS/PF]-1 GG-2 (missile)", "[AS/PF]-1 GG-2 (missile)_1"]}]
+[BDArmory.BDACompetitionMode:199427632]: ALIVE:AIF-38
+[BDArmory.BDACompetitionMode:199427632]: ALIVE:AIF-38_1
+[BDArmory.BDACompetitionMode:199427632]: DEAD:0:82.0:[AS/PF]-1 GG-2 (missile)
+[BDArmory.BDACompetitionMode:199427632]: DEAD:1:95.0:[AS/PF]-1 GG-2 (missile)_1
+[BDArmory.BDACompetitionMode:199427632]: WHOSHOTWHOWITHGUNS:[AS/PF]-1 GG-2 (missile):7:AIF-38:7:AIF-38_1
+[BDArmory.BDACompetitionMode:199427632]: WHOSHOTWHOWITHGUNS:[AS/PF]-1 GG-2 (missile)_1:3:AIF-38
+[BDArmory.BDACompetitionMode:199427632]: WHODAMAGEDWHOWITHGUNS:[AS/PF]-1 GG-2 (missile):2990.0:AIF-38:2535.9:AIF-38_1
+[BDArmory.BDACompetitionMode:199427632]: WHODAMAGEDWHOWITHGUNS:[AS/PF]-1 GG-2 (missile)_1:1126.2:AIF-38
+[BDArmory.BDACompetitionMode:199427632]: WHOHITWHOWITHMISSILES:[AS/PF]-1 GG-2 (missile):3:AIF-38_1:2:AIF-38
+[BDArmory.BDACompetitionMode:199427632]: WHOHITWHOWITHMISSILES:[AS/PF]-1 GG-2 (missile)_1:3:AIF-38_1:1:AIF-38
+[BDArmory.BDACompetitionMode:199427632]: WHOPARTSHITWHOWITHMISSILES:[AS/PF]-1 GG-2 (missile):169:AIF-38_1:116:AIF-38
+[BDArmory.BDACompetitionMode:199427632]: WHOPARTSHITWHOWITHMISSILES:[AS/PF]-1 GG-2 (missile)_1:214:AIF-38_1:65:AIF-38
+[BDArmory.BDACompetitionMode:199427632]: WHODAMAGEDWHOWITHMISSILES:[AS/PF]-1 GG-2 (missile):48973.3:AIF-38_1:70371.2:AIF-38
+[BDArmory.BDACompetitionMode:199427632]: WHODAMAGEDWHOWITHMISSILES:[AS/PF]-1 GG-2 (missile)_1:55863.0:AIF-38_1:17969.8:AIF-38
+[BDArmory.BDACompetitionMode:199427632]: WHODAMAGEDWHOWITHBATTLEDAMAGE:[AS/PF]-1 GG-2 (missile):334.4:AIF-38:43108.1:AIF-38_1
+[BDArmory.BDACompetitionMode:199427632]: WHODAMAGEDWHOWITHBATTLEDAMAGE:[AS/PF]-1 GG-2 (missile)_1:14104.5:AIF-38:2832.0:[AS/PF]-1 GG-2 (missile)_1
+[BDArmory.BDACompetitionMode:199427632]: HEADSHOTGUNS:[AS/PF]-1 GG-2 (missile):AIF-38_1
+[BDArmory.BDACompetitionMode:199427632]: HPLEFT:[AS/PF]-1 GG-2 (missile):0
+[BDArmory.BDACompetitionMode:199427632]: HPLEFT:[AS/PF]-1 GG-2 (missile)_1:0
+[BDArmory.BDACompetitionMode:199427632]: HPLEFT:AIF-38:100
+[BDArmory.BDACompetitionMode:199427632]: HPLEFT:AIF-38_1:100
+[BDArmory.BDACompetitionMode:199427632]: ACCURACY:[AS/PF]-1 GG-2 (missile):0/1:0/0
+[BDArmory.BDACompetitionMode:199427632]: ACCURACY:[AS/PF]-1 GG-2 (missile)_1:0/0:0/0
+[BDArmory.BDACompetitionMode:199427632]: ACCURACY:AIF-38:10/105:0/0
+[BDArmory.BDACompetitionMode:199427632]: ACCURACY:AIF-38_1:7/57:0/0

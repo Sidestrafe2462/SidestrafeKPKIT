@@ -1,0 +1,26 @@
+[BDArmory.BDACompetitionMode:199415120]: Dumping Results after 68s (of 0s) at 2026-04-27 01:07:23 -04:00
+[BDArmory.BDACompetitionMode:199415120]: RESULT:Win:{"team": "AIF-38", "members": ["AIF-38", "AIF-38_1"]}
+[BDArmory.BDACompetitionMode:199415120]: DEADTEAMS:[{"team": "F-52F-20 Kargadan KWS Peace Penguin", "members": ["F-52F-20 Kargadan KWS Peace Penguin", "F-52F-20 Kargadan KWS Peace Penguin_1"]}]
+[BDArmory.BDACompetitionMode:199415120]: ALIVE:AIF-38
+[BDArmory.BDACompetitionMode:199415120]: ALIVE:AIF-38_1
+[BDArmory.BDACompetitionMode:199415120]: DEAD:0:45.0:F-52F-20 Kargadan KWS Peace Penguin
+[BDArmory.BDACompetitionMode:199415120]: DEAD:1:58.0:F-52F-20 Kargadan KWS Peace Penguin_1
+[BDArmory.BDACompetitionMode:199415120]: WHOHITWHOWITHMISSILES:AIF-38_1:1:F-52F-20 Kargadan KWS Peace Penguin
+[BDArmory.BDACompetitionMode:199415120]: WHOHITWHOWITHMISSILES:F-52F-20 Kargadan KWS Peace Penguin:1:AIF-38_1
+[BDArmory.BDACompetitionMode:199415120]: WHOHITWHOWITHMISSILES:F-52F-20 Kargadan KWS Peace Penguin_1:1:AIF-38_1:1:AIF-38
+[BDArmory.BDACompetitionMode:199415120]: WHOPARTSHITWHOWITHMISSILES:AIF-38_1:92:F-52F-20 Kargadan KWS Peace Penguin
+[BDArmory.BDACompetitionMode:199415120]: WHOPARTSHITWHOWITHMISSILES:F-52F-20 Kargadan KWS Peace Penguin:92:AIF-38_1
+[BDArmory.BDACompetitionMode:199415120]: WHOPARTSHITWHOWITHMISSILES:F-52F-20 Kargadan KWS Peace Penguin_1:92:AIF-38_1:88:AIF-38
+[BDArmory.BDACompetitionMode:199415120]: WHODAMAGEDWHOWITHMISSILES:AIF-38_1:448.3:F-52F-20 Kargadan KWS Peace Penguin
+[BDArmory.BDACompetitionMode:199415120]: WHODAMAGEDWHOWITHMISSILES:F-52F-20 Kargadan KWS Peace Penguin:33133.4:AIF-38_1
+[BDArmory.BDACompetitionMode:199415120]: WHODAMAGEDWHOWITHMISSILES:F-52F-20 Kargadan KWS Peace Penguin_1:1224.8:AIF-38_1:50188.7:AIF-38
+[BDArmory.BDACompetitionMode:199415120]: CLEANKILLMISSILES:F-52F-20 Kargadan KWS Peace Penguin:AIF-38_1
+[BDArmory.BDACompetitionMode:199415120]: KILLSTEALMISSILES:F-52F-20 Kargadan KWS Peace Penguin_1:AIF-38
+[BDArmory.BDACompetitionMode:199415120]: HPLEFT:AIF-38:100
+[BDArmory.BDACompetitionMode:199415120]: HPLEFT:AIF-38_1:100
+[BDArmory.BDACompetitionMode:199415120]: HPLEFT:F-52F-20 Kargadan KWS Peace Penguin:0
+[BDArmory.BDACompetitionMode:199415120]: HPLEFT:F-52F-20 Kargadan KWS Peace Penguin_1:0
+[BDArmory.BDACompetitionMode:199415120]: ACCURACY:AIF-38:0/0:0/0
+[BDArmory.BDACompetitionMode:199415120]: ACCURACY:AIF-38_1:0/0:0/0
+[BDArmory.BDACompetitionMode:199415120]: ACCURACY:F-52F-20 Kargadan KWS Peace Penguin:0/0:0/0
+[BDArmory.BDACompetitionMode:199415120]: ACCURACY:F-52F-20 Kargadan KWS Peace Penguin_1:0/0:0/0

@@ -1,0 +1,28 @@
+[BDArmory.BDACompetitionMode:197169082]: Dumping Results after 59s (of 0s) at 2026-04-01 01:12:30 -04:00
+[BDArmory.BDACompetitionMode:197169082]: RESULT:Draw:[{"team": "F-42H-20 Corsair NF PLAID", "members": ["F-42H-20 Corsair NF PLAID", "F-42H-20 Corsair NF PLAID_1", "F-42H-20 Corsair NF PLAID_2"]}, {"team": "F-42H-20 Corsair NF", "members": ["F-42H-20 Corsair NF", "F-42H-20 Corsair NF_1", "F-42H-20 Corsair NF_2"]}]
+[BDArmory.BDACompetitionMode:197169082]: DEADTEAMS:[]
+[BDArmory.BDACompetitionMode:197169082]: ALIVE:F-42H-20 Corsair NF PLAID
+[BDArmory.BDACompetitionMode:197169082]: ALIVE:F-42H-20 Corsair NF PLAID_1
+[BDArmory.BDACompetitionMode:197169082]: ALIVE:F-42H-20 Corsair NF
+[BDArmory.BDACompetitionMode:197169082]: ALIVE:F-42H-20 Corsair NF_1
+[BDArmory.BDACompetitionMode:197169082]: ALIVE:F-42H-20 Corsair NF_2
+[BDArmory.BDACompetitionMode:197169082]: MIA:F-42H-20 Corsair NF PLAID_2
+[BDArmory.BDACompetitionMode:197169082]: WHOHITWHOWITHMISSILES:F-42H-20 Corsair NF PLAID_2:1:F-42H-20 Corsair NF:1:F-42H-20 Corsair NF_1
+[BDArmory.BDACompetitionMode:197169082]: WHOHITWHOWITHMISSILES:F-42H-20 Corsair NF:1:F-42H-20 Corsair NF PLAID_1
+[BDArmory.BDACompetitionMode:197169082]: WHOHITWHOWITHMISSILES:F-42H-20 Corsair NF_2:1:F-42H-20 Corsair NF PLAID_2
+[BDArmory.BDACompetitionMode:197169082]: WHOPARTSHITWHOWITHMISSILES:F-42H-20 Corsair NF PLAID_2:87:F-42H-20 Corsair NF:9:F-42H-20 Corsair NF_1
+[BDArmory.BDACompetitionMode:197169082]: WHOPARTSHITWHOWITHMISSILES:F-42H-20 Corsair NF:94:F-42H-20 Corsair NF PLAID_1
+[BDArmory.BDACompetitionMode:197169082]: WHOPARTSHITWHOWITHMISSILES:F-42H-20 Corsair NF_2:109:F-42H-20 Corsair NF PLAID_2
+[BDArmory.BDACompetitionMode:197169082]: WHODAMAGEDWHOWITHMISSILES:F-42H-20 Corsair NF PLAID_2:30221.8:F-42H-20 Corsair NF:1198.4:F-42H-20 Corsair NF_1
+[BDArmory.BDACompetitionMode:197169082]: HPLEFT:F-42H-20 Corsair NF PLAID:87.4074074074074
+[BDArmory.BDACompetitionMode:197169082]: HPLEFT:F-42H-20 Corsair NF PLAID_1:100
+[BDArmory.BDACompetitionMode:197169082]: HPLEFT:F-42H-20 Corsair NF PLAID_2:10.3703703703704
+[BDArmory.BDACompetitionMode:197169082]: HPLEFT:F-42H-20 Corsair NF:100
+[BDArmory.BDACompetitionMode:197169082]: HPLEFT:F-42H-20 Corsair NF_1:100
+[BDArmory.BDACompetitionMode:197169082]: HPLEFT:F-42H-20 Corsair NF_2:100
+[BDArmory.BDACompetitionMode:197169082]: ACCURACY:F-42H-20 Corsair NF PLAID:0/0:0/0
+[BDArmory.BDACompetitionMode:197169082]: ACCURACY:F-42H-20 Corsair NF PLAID_1:0/0:0/0
+[BDArmory.BDACompetitionMode:197169082]: ACCURACY:F-42H-20 Corsair NF PLAID_2:0/0:0/0
+[BDArmory.BDACompetitionMode:197169082]: ACCURACY:F-42H-20 Corsair NF:0/0:0/0
+[BDArmory.BDACompetitionMode:197169082]: ACCURACY:F-42H-20 Corsair NF_1:0/0:0/0
+[BDArmory.BDACompetitionMode:197169082]: ACCURACY:F-42H-20 Corsair NF_2:0/0:0/0

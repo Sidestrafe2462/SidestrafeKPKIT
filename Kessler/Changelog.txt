@@ -1,0 +1,133 @@
+# v0.3.0
+
+- Fixed stock firework trajectories. Stock fireworks previously failed to inherit the velocity of the firing vessel. This is the reason for the new dependency on HarmonyKSP.
+
+- Firework launchers now use ammunition via the stock cargo system.
+	- Shells come in magazines of 8, 16 and 32.
+	- Shells do not obey any crossfeed rules.
+	- The AI will reload automatically. There is no time to reload.
+- Each firework shot generates heat and the launcher glows when hot. The AI stops firing when the launcher gets too hot.
+- Launcher barrels are now hollow.
+- The launcher drum now spins after firing.
+- Added optional muzzle flash, tracer and flare effects.
+- The default launch velocity has been increased from 50 to 100 m/s.
+
+- Added optional tooltips to ship settings.
+- Toggle/Activate/Deactivate AI can now be assigned to action groups.
+- Active ship controllers are resumed when loading a save.
+- Ships now prioritise evading over withdrawing.
+- Ships now distinguish between unsafe and dangerous orbits based on remaining delta-v. Dangerous orbits are corrected in combat and unsafe orbits are corrected when idle.
+- MechJebLib is now used for orbit correction, allowing for elliptical orbits to be corrected.
+- Removed forwards launch throttle setting. The ship will always kill throttle when launching a missile forwards or from inside an enclosed space, unless it is evading.
+- Added tentative weapon robotics support. Ships deploy KAL-250 controllers when firing missiles if the sequence name matches the weapon code of the missile.
+- Allowed ships to use fireworks when they're pinned by a faster enemy, even if they'd prefer to use missiles.
+- Added an experimental option in the config file that might make ships react more quickly to incoming missiles.
+- Ships now ignite their own engines if it's very obvious that they're supposed to be the main engines. Factors include alignment, child parts and staging.
+- Ships will now try to intercept a missile again if the first interceptor misses.
+
+- Experimental changes to combat movement:
+	- Ships no longer make endless minute adjustments to their course when intercepting a target. Trajectories are chosen so that ships maintain a mostly constant attitude and throttle.
+	- Ships now time their flip and burn when intercepting a target so as to arrive with zero velocity.
+	- Ships now use thrust to offset recoil/drift while firing projectiles.
+	- Added an Angular Speed Limit setting. The ship will slow down before aiming projectiles if the angular speed of the target exceeds this limit. The right value depends on your available torque and the accuracy of your weapons.
+	- Added two settings for integral gain and integral saturation. While aiming fireworks, the system gradually builds up a correction for SAS sluggishness by moving the set point of the SAS ahead of the target lead direction.
+
+- Added optional tooltips to weapon settings.
+- Added a 'Sync Settings' button to the weapon controller that copies all settings to all other weapon controllers on the vessel with the same code.
+- Reduced the minimum weapon range to 0.
+- Raised the maximum weapon range to 15 km.
+- WEAPON CODES ARE NO LONGER LIMITED TO ALL CAPS. cAsE is NoW iGNorED bY aLL CODe chECKs.
+
+- Improved missile and ship behaviour during launch, including basic collision avoidance.
+- Spent missiles are automatically marked as debris.
+- Missiles now enable all on-board resources upon launch.
+- Missiles now activate only the engines in the lowest stage upon launch. Any missiles that relied on sepratrons to launch need to check their staging (@Kerosene).
+- Added a button to toggle missile guidance during flight.
+- Missiles can now be launched without a target, sparing newcomers a great deal of confusion.
+
+- Other parts can no longer be attached to controller parts, this is intended to reduce craft dependency on modded parts.
+- Deprecated the standalone M294 Focused-Band Scanner.
+- Added the M294 Focused-Band Scanner as a variant of the stock narrow-band scanner.
+- Updated some part descriptions with deep lore.
+
+- Added escape pod direction and delta-v settings.
+- Improved escape pod logic and reliability.
+- Escape pods now transfer crew before launching.
+- Escape pods now deploy parachutes.
+- Escape pods are automatically recovered if they become unloaded in an unsafe orbit.
+
+- Made various small improvements to the GUI.
+- Made settings persistent. Settings are saved in a config file in PluginData.
+- Right clicking on a ship or weapon in the GUI now opens the part window for the selected controller.
+
+- Improved Overlay transition. Press 'O' while the AI is active.
+- Added a setting to show the Overlay even when the active controller is offline.
+- Made the overlay unavailable in certain situations like flying and landed.
+- Made the camera orientation/distance/mode persist when switching vessels if the overlay is open.
+
+- Fixed controller part model scaling, controllers should be slightly smaller.
+- Fixed missiles being deselected in the weapons menu after firing.
+- Fixed out of order firing of stacked missiles, so called "bumper torpedoes", again.
+- Fixed some visual glitches in the overlay.
+- Rewrote status system, fixing various bugs to do with ships being counted as alive.
+- Rewrote firework weapon logic, fixing various bugs to do with the burst, aiming and not firing.
+- Fixed that tiny particle that zips off into space whenever you decouple in orbit.
+- Fixed a bug where missiles would fly diagonally if they used perpendicular sepratrons to assist launch.
+
+- Renamed KCS difficulty settings internally. If you previously had 'Allow Withdrawal' disabled you will need to disable it again.
+- Removed unused difficulty settings.
+
+
+# v0.2.1
+
+- Added an automatic check to throttle the ship down temporarily if a missile is being launched from an enclosed space.
+
+- Changed throttle settings to a percentage.
+- The overlay is now visible only while the AI is running on the active vessel.
+- Renamed missile 'launch' settings to 'kick'. These settings refer to the short burn used to push the missile away from the ship after decoupling.
+
+- Fixed a bug with the thrust-based control orientation that was causing some missiles to fire sideways.
+- Fixed a bug that was causing multiple interceptors to fire at the same missile.
+
+
+# v0.2.0
+
+- Added a smaller scanner based on the medium ore scanner.
+- Added automatic support for horizontal missile launches via RCS.
+- Missiles now point forward based on thrust direction.
+- Support for docking ports and radial decouplers as weapon separators.
+- Added a target prioritisation setting based on a mass range, only applies to targets within 2x max weapons range.
+- Tech tree and cargo compatibility added to parts.
+- Added a setting to toggle the automatic playing of animations on scanners.
+- Added a 'Salvo Interval' setting to the ship controller for controlling the time between missile salvos.
+- Added a setting to the ship controller to toggle evasion.
+- Added a 'Forward Fire Throttle Limit' setting to the ship controller to limit the throttle while missiles are launching from the front of the ship. Zero by default.
+- Added a setting for time between firework bursts.
+- Support for angled thrusters in thrust calculations.
+- Improved support for RCS missiles.
+- Added savegame settings for gameplay preferences. Currently a retreat override and scanning range multiplers.
+- Added missile settings:
+	- Launch delay.
+	- Launch duration.
+	- Launch throttle.
+	- Salvo spacing.
+
+- Changed accuracy threshold for fireworks from a fixed angle to a multiple of the target radius.
+- Ships will no longer move away from their target when below minimum range if their current weapon is a projectile.
+- Ships will now ignore target intercept adjustments of less than a second.
+- Ships now decide whether to withdraw north or south based on the position of enemy ships.  
+- RCS with throttle enabled now counts towards ship propulsion status.
+- Renamed some settings for clarity.
+- Hid unused settings.
+- Changed the style of the ship labels in the overlay.
+
+- Fixed a bug causing missile stacks to fire in the wrong order.
+- Fixed object tracking info panels in part menu displaying 0.
+- Fixed a ship movement bug caused by max weapon range exceeding lock range.
+- Fixed a bug that was preventing the use of throttle hotkeys after turning off the AI.
+- Fixed a bug that was preventing firer collision avoidance for missiles.
+- Increased minimum value for firework burst spacing above 0.
+- Fixed manual fire for rockets.
+- Fixed AI integration with manual missile fire.
+- Removed Phoenia.
+- Sated the snow leopard.

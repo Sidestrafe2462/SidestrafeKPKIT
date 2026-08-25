@@ -1,0 +1,13 @@
+[BDArmory.BDACompetitionMode:203239540]: Dumping Results after 51s (of 0s) at 2026-06-10 07:26:38 -04:00
+[BDArmory.BDACompetitionMode:203239540]: RESULT:Win:{"team": "AIF-37B", "members": ["AIF-37B"]}
+[BDArmory.BDACompetitionMode:203239540]: DEADTEAMS:[{"team": "AL-27 Kallistemon", "members": ["AL-27 Kallistemon"]}]
+[BDArmory.BDACompetitionMode:203239540]: ALIVE:AIF-37B
+[BDArmory.BDACompetitionMode:203239540]: DEAD:0:45.0:AL-27 Kallistemon
+[BDArmory.BDACompetitionMode:203239540]: WHOHITWHOWITHMISSILES:AL-27 Kallistemon:1:AIF-37B
+[BDArmory.BDACompetitionMode:203239540]: WHOPARTSHITWHOWITHMISSILES:AL-27 Kallistemon:141:AIF-37B
+[BDArmory.BDACompetitionMode:203239540]: WHODAMAGEDWHOWITHMISSILES:AL-27 Kallistemon:57482.7:AIF-37B
+[BDArmory.BDACompetitionMode:203239540]: CLEANKILLMISSILES:AL-27 Kallistemon:AIF-37B
+[BDArmory.BDACompetitionMode:203239540]: HPLEFT:AIF-37B:100
+[BDArmory.BDACompetitionMode:203239540]: HPLEFT:AL-27 Kallistemon:0
+[BDArmory.BDACompetitionMode:203239540]: ACCURACY:AIF-37B:0/0:0/0
+[BDArmory.BDACompetitionMode:203239540]: ACCURACY:AL-27 Kallistemon:0/0:0/0

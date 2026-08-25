@@ -1,0 +1,13 @@
+[BDArmory.BDACompetitionMode:204937718]: Dumping Results after -438s (of 0s) at 2026-06-29 23:09:39 -04:00
+[BDArmory.BDACompetitionMode:204937718]: RESULT:Mutual Annihilation
+[BDArmory.BDACompetitionMode:204937718]: DEADTEAMS:[{"team": "AIF-38D2", "members": ["AIF-38D2"]}, {"team": "XF-43", "members": ["XF-43"]}]
+[BDArmory.BDACompetitionMode:204937718]: MIA:AIF-38D2
+[BDArmory.BDACompetitionMode:204937718]: MIA:XF-43
+[BDArmory.BDACompetitionMode:204937718]: WHOHITWHOWITHMISSILES:AIF-38D2:1:XF-43
+[BDArmory.BDACompetitionMode:204937718]: WHOHITWHOWITHMISSILES:XF-43:1:AIF-38D2
+[BDArmory.BDACompetitionMode:204937718]: WHOPARTSHITWHOWITHMISSILES:AIF-38D2:101:XF-43
+[BDArmory.BDACompetitionMode:204937718]: WHOPARTSHITWHOWITHMISSILES:XF-43:99:AIF-38D2
+[BDArmory.BDACompetitionMode:204937718]: HPLEFT:AIF-38D2:0
+[BDArmory.BDACompetitionMode:204937718]: HPLEFT:XF-43:0
+[BDArmory.BDACompetitionMode:204937718]: ACCURACY:AIF-38D2:0/0:0/0
+[BDArmory.BDACompetitionMode:204937718]: ACCURACY:XF-43:0/0:0/0

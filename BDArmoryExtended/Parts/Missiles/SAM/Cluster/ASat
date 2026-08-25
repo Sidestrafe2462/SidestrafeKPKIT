@@ -1,0 +1,110 @@
+PART
+{
+	name = bahaASat
+	module = Part
+	author = SuicidalInsanity
+	mesh = Model.mu
+	rescaleFactor = 1
+	node_attach = 0.0, 0.15, 0, 0, 1, 0, 0
+	node_stack_top = 0.0, 0.15, 0, 0, 1, 0, 0
+	node_stack_bottom = 0, 0, -3.027, 0, 0, -1, 0
+	TechRequired = precisionEngineering
+	entryCost = 5500
+	cost = 6000
+	category = none
+	bdacategory = Missiles
+	subcategory = 0
+	
+	title = #loc_BDArmory_part_bahaASAT_title 
+	manufacturer = #loc_BDArmory_part_manufacturer //Bahamuto Dynamics
+	description = #loc_BDArmory_part_bahaASAT_desc
+	attachRules = 1,1,1,1,0
+	stackSymmetry = 2
+	mass = 0.300
+	dragModelType = default
+	maximum_drag = 0.1
+	minimum_drag = 0.1
+	angularDrag = .25
+	crashTolerance = 40
+	maxTemp = 2500
+	fuelCrossFeed = True
+	thermalMassModifier = 6.0
+	emissiveConstant = 0.95
+	bulkheadProfiles = srf
+	tags = #loc_BDArmory_part_clustermissile_tags
+
+	MODULE
+	{
+		name = MissileLauncher
+
+		shortName = Starslayer
+		thrust = 80 //KN thrust during boost phase
+		cruiseThrust = 2.5 //thrust during cruise phase
+		dropTime = 0.55 //how many seconds after release until engine ignites
+		boostTime = 6//seconds of boost phase
+		cruiseTime = 60 //seconds of cruise phase
+		guidanceActive = true //missile has guidanceActive
+		maxTurnRateDPS = 35 //thrust+maxTurnRateDPS is the value used by the AI to prioritize missiles over each other. maxTurnRateDPS, in degrees per second, ONLY affects flight of RCS missiles like the HEKV1
+
+		decoupleSpeed = 5
+
+		useFuel = true
+		boosterFuelMass = 0.04
+		cruiseFuelMass = 0.091
+
+		boostTransformName = boosterExhaustTransform
+		boostExhaustTransformName = boosterExhaustTransform
+		boostExhaustPrefabPath = BDArmory/Models/exhaust/mediumExhaust
+		exhaustPrefabPath = BDArmory/Models/exhaust/smallExhaust
+		audioClipPath = BDArmory/Sounds/rocketLoop
+		fairingTransformName = fairing
+		
+		optimumAirspeed = 1800
+
+		missileType = missile
+		homingType = ProNav
+		terminalHoming = true
+		terminalHomingType = pronav
+		pronavGain = 6 // ProNav gain constant, only used with ProNav and AugProNav homing types (default is 3)
+		terminalHomingRange = 6000
+
+		targetingType = radar
+		activeRadarRange = 15000
+		maxOffBoresight = 120 //maximum angle, from the boresight, that the missile can track the target. This also controls how the missile can launch off boresight. When launched from the air at another air target with uncagedLock = false, launch off boresight is at 0.35*maxOffBoresight, otherwise it is at 0.75*,maxOffBoresight (uncagedLock = true OR either launching craft or target is landed/splashed).
+		// allAspect = false // DEPRECIATED - use uncagedLock instead
+		uncagedLock = false // Only affects when missile can launch for radar-guided missiles, see comment on maxOffBoresight for how. For heat-seeking missiles this also allows lock-on after launch.
+		lockedSensorFOV = 20 //the field of view the missile can see to maintain a lock after launch, will affect accuracy
+		chaffEffectivity = 1 //modifies how the missile targeting is affected by chaff, 1 is fully affected (normal behavior), lower values mean less affected (i.e. 0 ignores chaff), higher values means more affected
+
+		minStaticLaunchRange = 4000 // minimum launch range in meters assuming craft don't move, final min launch distance is dynamically calculated based on target/launching craft speeds
+		maxStaticLaunchRange = 130000 // maximum launch range in meters assuming craft don't move, final max launch distance is dynamically calculated based on target/launching craft speeds
+
+		radarLOAL = true //radar lock on after launch
+
+		engageAir = true
+		engageMissile = false
+		engageGround = false
+		engageSLW = false
+	}
+
+
+MODULE
+{
+     name = MultiMissileLauncher	
+	clusterMissileTriggerDist = 30000
+	launchTransformName = monoRail //name of launch transforms
+	subMunitionName = bahaKKV //name of missile launched by MML. leave blank if a VLS or similar and missile is selected by player
+	subMunitionPath = BDArmory/Parts/kkv/Model //leave blank if a VLS or similar
+	salvoSize = 1 //missiles fired per Fire command, if blank will fire all tubes
+	isClusterMissile = true //is this a standard missile with cluster submunition warhead?
+	isMultiLauncher = false //is this a multi-missile pod?
+	useSymCounterpart = false //if launcher has a symmetry twin, have it fire as well?
+	overrideReferenceTransform = true //use vessel prograde for referenceTranform (used for aiming) instead of part's transform if launcher expected to be canted/top-launch
+	tntMass = 1
+	offset = 1
+	rippleRPM = 10000
+}
+
+}
+
+

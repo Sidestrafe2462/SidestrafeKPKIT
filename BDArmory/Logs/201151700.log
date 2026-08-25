@@ -1,0 +1,21 @@
+[BDArmory.BDACompetitionMode:201151700]: Dumping Results after -9s (of 0s) at 2026-05-17 03:31:37 -04:00
+[BDArmory.BDACompetitionMode:201151700]: RESULT:Mutual Annihilation
+[BDArmory.BDACompetitionMode:201151700]: DEADTEAMS:[{"team": "AIF-38C", "members": ["AIF-38C", "AIF-38C_1"]}, {"team": "AL-27 Kallistemon dev", "members": ["AL-27 Kallistemon dev", "AL-27 Kallistemon dev_1"]}]
+[BDArmory.BDACompetitionMode:201151700]: MIA:AIF-38C
+[BDArmory.BDACompetitionMode:201151700]: MIA:AIF-38C_1
+[BDArmory.BDACompetitionMode:201151700]: MIA:AL-27 Kallistemon dev
+[BDArmory.BDACompetitionMode:201151700]: MIA:AL-27 Kallistemon dev_1
+[BDArmory.BDACompetitionMode:201151700]: WHOHITWHOWITHMISSILES:AIF-38C:1:AL-27 Kallistemon dev_1
+[BDArmory.BDACompetitionMode:201151700]: WHOHITWHOWITHMISSILES:AIF-38C_1:1:AL-27 Kallistemon dev_1
+[BDArmory.BDACompetitionMode:201151700]: WHOPARTSHITWHOWITHMISSILES:AIF-38C:101:AL-27 Kallistemon dev_1
+[BDArmory.BDACompetitionMode:201151700]: WHOPARTSHITWHOWITHMISSILES:AIF-38C_1:94:AL-27 Kallistemon dev_1
+[BDArmory.BDACompetitionMode:201151700]: WHODAMAGEDWHOWITHMISSILES:AIF-38C:41024.7:AL-27 Kallistemon dev_1
+[BDArmory.BDACompetitionMode:201151700]: WHODAMAGEDWHOWITHMISSILES:AIF-38C_1:29997.3:AL-27 Kallistemon dev_1
+[BDArmory.BDACompetitionMode:201151700]: HPLEFT:AIF-38C:0
+[BDArmory.BDACompetitionMode:201151700]: HPLEFT:AIF-38C_1:0
+[BDArmory.BDACompetitionMode:201151700]: HPLEFT:AL-27 Kallistemon dev:0
+[BDArmory.BDACompetitionMode:201151700]: HPLEFT:AL-27 Kallistemon dev_1:0
+[BDArmory.BDACompetitionMode:201151700]: ACCURACY:AIF-38C:0/0:0/0
+[BDArmory.BDACompetitionMode:201151700]: ACCURACY:AIF-38C_1:0/0:0/0
+[BDArmory.BDACompetitionMode:201151700]: ACCURACY:AL-27 Kallistemon dev:0/0:0/0
+[BDArmory.BDACompetitionMode:201151700]: ACCURACY:AL-27 Kallistemon dev_1:0/0:0/0

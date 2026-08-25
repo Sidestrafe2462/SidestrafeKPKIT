@@ -1,0 +1,15 @@
+[BDArmory.BDACompetitionMode:198369303]: Dumping Results after 352s (of 0s) at 2026-04-14 22:41:06 -04:00
+[BDArmory.BDACompetitionMode:198369303]: RESULT:Draw:[{"team": "AS-124 (tony flares)", "members": ["AS-124 (tony flares)"]}, {"team": "PLAID AIF-42C5D1", "members": ["PLAID AIF-42C5D1"]}]
+[BDArmory.BDACompetitionMode:198369303]: DEADTEAMS:[]
+[BDArmory.BDACompetitionMode:198369303]: ALIVE:AS-124 (tony flares)
+[BDArmory.BDACompetitionMode:198369303]: ALIVE:PLAID AIF-42C5D1
+[BDArmory.BDACompetitionMode:198369303]: WHOSHOTWHOWITHGUNS:AS-124 (tony flares):112:PLAID AIF-42C5D1
+[BDArmory.BDACompetitionMode:198369303]: WHOSHOTWHOWITHGUNS:PLAID AIF-42C5D1:129:AS-124 (tony flares)
+[BDArmory.BDACompetitionMode:198369303]: WHOHITWHOWITHMISSILES:AS-124 (tony flares):4:PLAID AIF-42C5D1
+[BDArmory.BDACompetitionMode:198369303]: WHOHITWHOWITHMISSILES:PLAID AIF-42C5D1:3:AS-124 (tony flares)
+[BDArmory.BDACompetitionMode:198369303]: WHOPARTSHITWHOWITHMISSILES:AS-124 (tony flares):239:PLAID AIF-42C5D1
+[BDArmory.BDACompetitionMode:198369303]: WHOPARTSHITWHOWITHMISSILES:PLAID AIF-42C5D1:199:AS-124 (tony flares)
+[BDArmory.BDACompetitionMode:198369303]: HPLEFT:AS-124 (tony flares):100
+[BDArmory.BDACompetitionMode:198369303]: HPLEFT:PLAID AIF-42C5D1:100
+[BDArmory.BDACompetitionMode:198369303]: ACCURACY:AS-124 (tony flares):129/1469:0/0
+[BDArmory.BDACompetitionMode:198369303]: ACCURACY:PLAID AIF-42C5D1:112/983:0/0

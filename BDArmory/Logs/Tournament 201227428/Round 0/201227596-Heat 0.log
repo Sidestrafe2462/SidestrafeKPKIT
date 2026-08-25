@@ -1,0 +1,97 @@
+[BDArmory.BDACompetitionMode:201227596]: Dumping Results after 133s (of 0s) at 2026-05-18 00:43:46 -04:00
+[BDArmory.BDACompetitionMode:201227596]: RESULT:Win:{"team": "IRSUM CAP", "members": ["AL-27 Kallistemon", "AL-27 Kallistemon_1", "AL-34 Arnika", "AL-27 Kallistemon_2", "AL-27 Kallistemon_3", "AL-34 Arnika_1", "AL-34 Arnika_2", "AL-34 Arnika_3", "AL-27 Kallistemon_4", "AL-34 Arnika_4"]}
+[BDArmory.BDACompetitionMode:201227596]: DEADTEAMS:[{"team": "IU fr fr", "members": ["K-73 NMX 6", "K-60 \"Caraxes\" NWO 7", "K-73 NMX 6_1", "K-73 NMX 6_2", "K-60 \"Caraxes\" NWO 7_1", "K-60 \"Caraxes\" NWO 7_2"]}]
+[BDArmory.BDACompetitionMode:201227596]: ALIVE:AL-34 Arnika
+[BDArmory.BDACompetitionMode:201227596]: ALIVE:AL-27 Kallistemon_3
+[BDArmory.BDACompetitionMode:201227596]: ALIVE:AL-34 Arnika_1
+[BDArmory.BDACompetitionMode:201227596]: ALIVE:AL-34 Arnika_2
+[BDArmory.BDACompetitionMode:201227596]: ALIVE:AL-34 Arnika_3
+[BDArmory.BDACompetitionMode:201227596]: ALIVE:AL-27 Kallistemon_4
+[BDArmory.BDACompetitionMode:201227596]: ALIVE:AL-34 Arnika_4
+[BDArmory.BDACompetitionMode:201227596]: DEAD:2:76.0:AL-27 Kallistemon
+[BDArmory.BDACompetitionMode:201227596]: DEAD:1:56.0:AL-27 Kallistemon_1
+[BDArmory.BDACompetitionMode:201227596]: DEAD:3:79.0:AL-27 Kallistemon_2
+[BDArmory.BDACompetitionMode:201227596]: DEAD:5:92.0:K-73 NMX 6
+[BDArmory.BDACompetitionMode:201227596]: DEAD:6:94.0:K-60 "Caraxes" NWO 7
+[BDArmory.BDACompetitionMode:201227596]: DEAD:0:42.0:K-73 NMX 6_1
+[BDArmory.BDACompetitionMode:201227596]: DEAD:4:89.0:K-73 NMX 6_2
+[BDArmory.BDACompetitionMode:201227596]: DEAD:7:100.0:K-60 "Caraxes" NWO 7_1
+[BDArmory.BDACompetitionMode:201227596]: DEAD:8:123.0:K-60 "Caraxes" NWO 7_2
+[BDArmory.BDACompetitionMode:201227596]: WHOSHOTWHOWITHGUNS:AL-27 Kallistemon_4:2:AL-34 Arnika
+[BDArmory.BDACompetitionMode:201227596]: WHOSHOTWHOWITHGUNS:K-73 NMX 6:62:AL-27 Kallistemon_3:9:AL-34 Arnika
+[BDArmory.BDACompetitionMode:201227596]: WHOSHOTWHOWITHGUNS:K-73 NMX 6_2:3:AL-27 Kallistemon_4
+[BDArmory.BDACompetitionMode:201227596]: WHOSHOTWHOWITHGUNS:K-60 "Caraxes" NWO 7_1:1:AL-27 Kallistemon_4
+[BDArmory.BDACompetitionMode:201227596]: WHOSHOTWHOWITHGUNS:K-60 "Caraxes" NWO 7_2:43:AL-34 Arnika_1:2:AL-27 Kallistemon_3:6:AL-27 Kallistemon_4
+[BDArmory.BDACompetitionMode:201227596]: WHODAMAGEDWHOWITHGUNS:AL-27 Kallistemon_4:651.1:AL-34 Arnika
+[BDArmory.BDACompetitionMode:201227596]: WHODAMAGEDWHOWITHGUNS:K-73 NMX 6:5261.5:AL-27 Kallistemon_3:2246.8:AL-34 Arnika
+[BDArmory.BDACompetitionMode:201227596]: WHODAMAGEDWHOWITHGUNS:K-73 NMX 6_2:814.9:AL-27 Kallistemon_4
+[BDArmory.BDACompetitionMode:201227596]: WHODAMAGEDWHOWITHGUNS:K-60 "Caraxes" NWO 7_1:324.1:AL-27 Kallistemon_4
+[BDArmory.BDACompetitionMode:201227596]: WHODAMAGEDWHOWITHGUNS:K-60 "Caraxes" NWO 7_2:9602.5:AL-34 Arnika_1:198.0:AL-27 Kallistemon_3:280.6:AL-27 Kallistemon_4
+[BDArmory.BDACompetitionMode:201227596]: WHOHITWHOWITHMISSILES:AL-27 Kallistemon:3:K-60 "Caraxes" NWO 7_2
+[BDArmory.BDACompetitionMode:201227596]: WHOHITWHOWITHMISSILES:AL-27 Kallistemon_1:1:K-73 NMX 6:1:K-73 NMX 6_2
+[BDArmory.BDACompetitionMode:201227596]: WHOHITWHOWITHMISSILES:AL-27 Kallistemon_2:1:K-60 "Caraxes" NWO 7
+[BDArmory.BDACompetitionMode:201227596]: WHOHITWHOWITHMISSILES:AL-34 Arnika_4:1:K-73 NMX 6_2
+[BDArmory.BDACompetitionMode:201227596]: WHOHITWHOWITHMISSILES:K-73 NMX 6:1:AL-27 Kallistemon_3:1:AL-34 Arnika_4
+[BDArmory.BDACompetitionMode:201227596]: WHOHITWHOWITHMISSILES:K-60 "Caraxes" NWO 7:1:AL-27 Kallistemon_1:1:AL-27 Kallistemon_2:1:AL-27 Kallistemon_4:1:AL-34 Arnika_1:1:AL-34 Arnika_2:1:AL-27 Kallistemon_3
+[BDArmory.BDACompetitionMode:201227596]: WHOHITWHOWITHMISSILES:K-73 NMX 6_2:1:AL-34 Arnika_1:1:AL-34 Arnika_3:1:AL-34 Arnika_4
+[BDArmory.BDACompetitionMode:201227596]: WHOHITWHOWITHMISSILES:K-60 "Caraxes" NWO 7_1:1:AL-34 Arnika_3
+[BDArmory.BDACompetitionMode:201227596]: WHOHITWHOWITHMISSILES:K-60 "Caraxes" NWO 7_2:2:AL-27 Kallistemon_3:1:AL-27 Kallistemon_4
+[BDArmory.BDACompetitionMode:201227596]: WHOPARTSHITWHOWITHMISSILES:AL-27 Kallistemon:353:K-60 "Caraxes" NWO 7_2
+[BDArmory.BDACompetitionMode:201227596]: WHOPARTSHITWHOWITHMISSILES:AL-27 Kallistemon_1:135:K-73 NMX 6:38:K-73 NMX 6_2
+[BDArmory.BDACompetitionMode:201227596]: WHOPARTSHITWHOWITHMISSILES:AL-27 Kallistemon_2:135:K-60 "Caraxes" NWO 7
+[BDArmory.BDACompetitionMode:201227596]: WHOPARTSHITWHOWITHMISSILES:AL-34 Arnika_4:104:K-73 NMX 6_2
+[BDArmory.BDACompetitionMode:201227596]: WHOPARTSHITWHOWITHMISSILES:K-73 NMX 6:90:AL-27 Kallistemon_3:70:AL-34 Arnika_4
+[BDArmory.BDACompetitionMode:201227596]: WHOPARTSHITWHOWITHMISSILES:K-60 "Caraxes" NWO 7:78:AL-27 Kallistemon_1:78:AL-27 Kallistemon_2:64:AL-27 Kallistemon_4:54:AL-34 Arnika_1:55:AL-34 Arnika_2:47:AL-27 Kallistemon_3
+[BDArmory.BDACompetitionMode:201227596]: WHOPARTSHITWHOWITHMISSILES:K-73 NMX 6_2:82:AL-34 Arnika_1:79:AL-34 Arnika_3:69:AL-34 Arnika_4
+[BDArmory.BDACompetitionMode:201227596]: WHOPARTSHITWHOWITHMISSILES:K-60 "Caraxes" NWO 7_1:77:AL-34 Arnika_3
+[BDArmory.BDACompetitionMode:201227596]: WHOPARTSHITWHOWITHMISSILES:K-60 "Caraxes" NWO 7_2:129:AL-27 Kallistemon_3:71:AL-27 Kallistemon_4
+[BDArmory.BDACompetitionMode:201227596]: WHODAMAGEDWHOWITHMISSILES:AL-27 Kallistemon:112179.7:K-60 "Caraxes" NWO 7_2
+[BDArmory.BDACompetitionMode:201227596]: WHODAMAGEDWHOWITHMISSILES:AL-27 Kallistemon_1:139437.5:K-73 NMX 6:38082.6:K-73 NMX 6_2
+[BDArmory.BDACompetitionMode:201227596]: WHODAMAGEDWHOWITHMISSILES:AL-27 Kallistemon_2:45132.1:K-60 "Caraxes" NWO 7
+[BDArmory.BDACompetitionMode:201227596]: WHODAMAGEDWHOWITHMISSILES:AL-34 Arnika_4:4887.9:K-73 NMX 6_2
+[BDArmory.BDACompetitionMode:201227596]: WHODAMAGEDWHOWITHMISSILES:K-60 "Caraxes" NWO 7:17303.5:AL-27 Kallistemon_2:42471.5:AL-27 Kallistemon_4:52382.9:AL-27 Kallistemon_3
+[BDArmory.BDACompetitionMode:201227596]: WHODAMAGEDWHOWITHMISSILES:K-73 NMX 6_2:1005.8:AL-34 Arnika_1:8782.9:AL-34 Arnika_3:9724.2:AL-34 Arnika_4
+[BDArmory.BDACompetitionMode:201227596]: WHODAMAGEDWHOWITHMISSILES:K-60 "Caraxes" NWO 7_1:5780.0:AL-34 Arnika_3
+[BDArmory.BDACompetitionMode:201227596]: WHODAMAGEDWHOWITHMISSILES:K-60 "Caraxes" NWO 7_2:25198.3:AL-27 Kallistemon_3:7067.4:AL-27 Kallistemon_4
+[BDArmory.BDACompetitionMode:201227596]: WHORAMMEDWHO:K-73 NMX 6:64:AL-34 Arnika
+[BDArmory.BDACompetitionMode:201227596]: WHODAMAGEDWHOWITHBATTLEDAMAGE:AL-27 Kallistemon_4:67.0:AL-34 Arnika
+[BDArmory.BDACompetitionMode:201227596]: WHODAMAGEDWHOWITHBATTLEDAMAGE:K-73 NMX 6:118.4:AL-27 Kallistemon_3:15.0:AL-34 Arnika:966.1:K-73 NMX 6
+[BDArmory.BDACompetitionMode:201227596]: WHODAMAGEDWHOWITHBATTLEDAMAGE:K-73 NMX 6_2:0.1:AL-34 Arnika_3:141.9:AL-27 Kallistemon_4
+[BDArmory.BDACompetitionMode:201227596]: WHODAMAGEDWHOWITHBATTLEDAMAGE:K-60 "Caraxes" NWO 7_2:453.1:AL-34 Arnika_1:0.1:AL-27 Kallistemon_3
+[BDArmory.BDACompetitionMode:201227596]: CLEANKILLMISSILES:AL-27 Kallistemon:K-60 "Caraxes" NWO 7_2
+[BDArmory.BDACompetitionMode:201227596]: KILLSTEALMISSILES:AL-27 Kallistemon_1:K-73 NMX 6_2
+[BDArmory.BDACompetitionMode:201227596]: CLEANKILLMISSILES:AL-27 Kallistemon_2:K-60 "Caraxes" NWO 7
+[BDArmory.BDACompetitionMode:201227596]: HEADSHOTMISSILES:K-60 "Caraxes" NWO 7:AL-27 Kallistemon_3
+[BDArmory.BDACompetitionMode:201227596]: HEADSHOTMISSILES:K-73 NMX 6_2:AL-34 Arnika_4
+[BDArmory.BDACompetitionMode:201227596]: HPLEFT:AL-27 Kallistemon:0
+[BDArmory.BDACompetitionMode:201227596]: HPLEFT:AL-27 Kallistemon_1:0
+[BDArmory.BDACompetitionMode:201227596]: HPLEFT:AL-34 Arnika:100
+[BDArmory.BDACompetitionMode:201227596]: HPLEFT:AL-27 Kallistemon_2:0
+[BDArmory.BDACompetitionMode:201227596]: HPLEFT:AL-27 Kallistemon_3:100
+[BDArmory.BDACompetitionMode:201227596]: HPLEFT:AL-34 Arnika_1:100
+[BDArmory.BDACompetitionMode:201227596]: HPLEFT:AL-34 Arnika_2:100
+[BDArmory.BDACompetitionMode:201227596]: HPLEFT:AL-34 Arnika_3:100
+[BDArmory.BDACompetitionMode:201227596]: HPLEFT:AL-27 Kallistemon_4:99.3288590604027
+[BDArmory.BDACompetitionMode:201227596]: HPLEFT:AL-34 Arnika_4:92.9203539823009
+[BDArmory.BDACompetitionMode:201227596]: HPLEFT:K-73 NMX 6:0
+[BDArmory.BDACompetitionMode:201227596]: HPLEFT:K-60 "Caraxes" NWO 7:0
+[BDArmory.BDACompetitionMode:201227596]: HPLEFT:K-73 NMX 6_1:0
+[BDArmory.BDACompetitionMode:201227596]: HPLEFT:K-73 NMX 6_2:0
+[BDArmory.BDACompetitionMode:201227596]: HPLEFT:K-60 "Caraxes" NWO 7_1:0
+[BDArmory.BDACompetitionMode:201227596]: HPLEFT:K-60 "Caraxes" NWO 7_2:0
+[BDArmory.BDACompetitionMode:201227596]: ACCURACY:AL-27 Kallistemon:0/0:0/0
+[BDArmory.BDACompetitionMode:201227596]: ACCURACY:AL-27 Kallistemon_1:0/0:0/0
+[BDArmory.BDACompetitionMode:201227596]: ACCURACY:AL-34 Arnika:11/187:0/0
+[BDArmory.BDACompetitionMode:201227596]: ACCURACY:AL-27 Kallistemon_2:0/0:0/0
+[BDArmory.BDACompetitionMode:201227596]: ACCURACY:AL-27 Kallistemon_3:64/266:0/0
+[BDArmory.BDACompetitionMode:201227596]: ACCURACY:AL-34 Arnika_1:43/457:0/0
+[BDArmory.BDACompetitionMode:201227596]: ACCURACY:AL-34 Arnika_2:0/92:0/0
+[BDArmory.BDACompetitionMode:201227596]: ACCURACY:AL-34 Arnika_3:0/158:0/0
+[BDArmory.BDACompetitionMode:201227596]: ACCURACY:AL-27 Kallistemon_4:10/278:0/0
+[BDArmory.BDACompetitionMode:201227596]: ACCURACY:AL-34 Arnika_4:0/0:0/0
+[BDArmory.BDACompetitionMode:201227596]: ACCURACY:K-73 NMX 6:0/0:0/0
+[BDArmory.BDACompetitionMode:201227596]: ACCURACY:K-60 "Caraxes" NWO 7:0/0:0/0
+[BDArmory.BDACompetitionMode:201227596]: ACCURACY:K-73 NMX 6_1:0/0:0/0
+[BDArmory.BDACompetitionMode:201227596]: ACCURACY:K-73 NMX 6_2:0/0:0/0
+[BDArmory.BDACompetitionMode:201227596]: ACCURACY:K-60 "Caraxes" NWO 7_1:0/0:0/0
+[BDArmory.BDACompetitionMode:201227596]: ACCURACY:K-60 "Caraxes" NWO 7_2:0/0:0/0

@@ -1,0 +1,1480 @@
+{
+  "Round 0": {
+    "208993852-Heat 0.log": {
+      "result": {
+        "result": "Win",
+        "teams": {
+          "AIF-38D5": "AIF-38D5, AIF-38D5_1, AIF-38D5_2, AIF-38D5_3, AIF-38D5_4, AIF-38D5_5"
+        },
+        "dead teams": {
+          "AIF-38D2": "AIF-38D2, AIF-38D2_1, AIF-38D2_2, AIF-38D2_3, AIF-38D2_4, AIF-38D2_5"
+        }
+      },
+      "duration": 0.0,
+      "craft": {
+        "AIF-38D5": {
+          "state": "ALIVE",
+          "missileHitsBy": {
+            "AIF-38D2": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D2": 74
+          },
+          "missileDamageBy": {
+            "AIF-38D2": 4604.1
+          },
+          "HPremaining": 97.7011494252874,
+          "accuracy": 0.0,
+          "hits": 0,
+          "shots": 19,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D5_1": {
+          "state": "ALIVE",
+          "missileHitsBy": {
+            "AIF-38D2": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D2": 87
+          },
+          "HPremaining": 100.0,
+          "accuracy": 0.0,
+          "hits": 0,
+          "shots": 5,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D5_2": {
+          "state": "ALIVE",
+          "missileHitsBy": {
+            "AIF-38D2_3": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D2_3": 82
+          },
+          "missileDamageBy": {
+            "AIF-38D2_3": 61133.1
+          },
+          "HPremaining": 68.9655172413793,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D5_3": {
+          "state": "ALIVE",
+          "missileHitsBy": {
+            "AIF-38D2_1": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D2_1": 86
+          },
+          "missileDamageBy": {
+            "AIF-38D2_1": 17424.9
+          },
+          "HPremaining": 77.0114942528736,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D5_5": {
+          "state": "ALIVE",
+          "HPremaining": 100.0,
+          "accuracy": 17.391304347826086,
+          "hits": 4,
+          "shots": 23,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D5_4": {
+          "state": "DEAD",
+          "deathOrder": 0,
+          "deathTime": 48.0,
+          "missileHitsBy": {
+            "AIF-38D2": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D2": 86
+          },
+          "missileDamageBy": {
+            "AIF-38D2": 80234.1
+          },
+          "battleDamageBy": {
+            "AIF-38D2": 23840.7
+          },
+          "cleanMissileKillBy": "AIF-38D2",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2": {
+          "state": "DEAD",
+          "deathOrder": 4,
+          "deathTime": 56.0,
+          "hitsBy": {
+            "AIF-38D5_5": 4
+          },
+          "bulletDamageBy": {
+            "AIF-38D5_5": 349.5
+          },
+          "missileHitsBy": {
+            "AIF-38D5_5": 1,
+            "AIF-38D5_1": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5_5": 89,
+            "AIF-38D5_1": 21
+          },
+          "missileDamageBy": {
+            "AIF-38D5_5": 18665.9,
+            "AIF-38D5_1": 26117.1
+          },
+          "battleDamageBy": {
+            "AIF-38D5_5": 0.8,
+            "AIF-38D5_1": 13190.2
+          },
+          "cleanMissileKillBy": "AIF-38D5_1",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2_1": {
+          "state": "DEAD",
+          "deathOrder": 6,
+          "deathTime": 83.0,
+          "missileHitsBy": {
+            "AIF-38D5": 3,
+            "AIF-38D5_1": 1,
+            "AIF-38D5_5": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5": 178,
+            "AIF-38D5_1": 37,
+            "AIF-38D5_5": 10
+          },
+          "missileDamageBy": {
+            "AIF-38D5": 34913.1,
+            "AIF-38D5_1": 7386.0,
+            "AIF-38D5_5": 347.4
+          },
+          "GMKillReason": "LandedTooLong",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2_2": {
+          "state": "DEAD",
+          "deathOrder": 2,
+          "deathTime": 51.0,
+          "missileHitsBy": {
+            "AIF-38D5": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5": 92
+          },
+          "missileDamageBy": {
+            "AIF-38D5": 104743.9
+          },
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2_3": {
+          "state": "DEAD",
+          "deathOrder": 3,
+          "deathTime": 52.0,
+          "missileHitsBy": {
+            "AIF-38D5_5": 1,
+            "AIF-38D5_1": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5_5": 91,
+            "AIF-38D5_1": 64
+          },
+          "missileDamageBy": {
+            "AIF-38D5_5": 6134.2,
+            "AIF-38D5_1": 14435.2
+          },
+          "cleanMissileKillBy": "AIF-38D5_1",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2_4": {
+          "state": "DEAD",
+          "deathOrder": 5,
+          "deathTime": 68.0,
+          "missileHitsBy": {
+            "AIF-38D5_2": 2,
+            "AIF-38D5_1": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5_2": 137,
+            "AIF-38D5_1": 33
+          },
+          "missileDamageBy": {
+            "AIF-38D5_2": 32674.7,
+            "AIF-38D5_1": 34549.8
+          },
+          "cleanMissileKillBy": "AIF-38D5_1",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2_5": {
+          "state": "DEAD",
+          "deathOrder": 1,
+          "deathTime": 50.0,
+          "missileHitsBy": {
+            "AIF-38D5_1": 1,
+            "AIF-38D5_3": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5_1": 90,
+            "AIF-38D5_3": 36
+          },
+          "missileDamageBy": {
+            "AIF-38D5_1": 58893.2,
+            "AIF-38D5_3": 10203.1
+          },
+          "cleanMissileKillBy": "AIF-38D5_3",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        }
+      }
+    }
+  },
+  "Round 1": {
+    "208994113-Heat 0.log": {
+      "result": {
+        "result": "Win",
+        "teams": {
+          "AIF-38D5": "AIF-38D5, AIF-38D5_1, AIF-38D5_2, AIF-38D5_3, AIF-38D5_4, AIF-38D5_5"
+        },
+        "dead teams": {
+          "AIF-38D2": "AIF-38D2, AIF-38D2_1, AIF-38D2_2, AIF-38D2_3, AIF-38D2_4, AIF-38D2_5"
+        }
+      },
+      "duration": 0.0,
+      "craft": {
+        "AIF-38D5_1": {
+          "state": "ALIVE",
+          "HPremaining": 100.0,
+          "accuracy": 36.496350364963504,
+          "hits": 50,
+          "shots": 137,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D5_2": {
+          "state": "ALIVE",
+          "HPremaining": 100.0,
+          "accuracy": 34.61538461538461,
+          "hits": 9,
+          "shots": 26,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D5_3": {
+          "state": "ALIVE",
+          "missileHitsBy": {
+            "AIF-38D2_2": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D2_2": 84
+          },
+          "missileDamageBy": {
+            "AIF-38D2_2": 8485.0
+          },
+          "battleDamageBy": {
+            "AIF-38D2_2": 0.2
+          },
+          "HPremaining": 96.551724137931,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D5_4": {
+          "state": "ALIVE",
+          "hitsBy": {
+            "AIF-38D2_3": 1
+          },
+          "bulletDamageBy": {
+            "AIF-38D2_3": 87.4
+          },
+          "missileHitsBy": {
+            "AIF-38D2_1": 2
+          },
+          "missilePartsHitBy": {
+            "AIF-38D2_1": 150
+          },
+          "missileDamageBy": {
+            "AIF-38D2_1": 47969.5
+          },
+          "HPremaining": 77.0114942528736,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D5_5": {
+          "state": "ALIVE",
+          "missileHitsBy": {
+            "AIF-38D2": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D2": 81
+          },
+          "missileDamageBy": {
+            "AIF-38D2": 16988.4
+          },
+          "HPremaining": 89.6551724137931,
+          "accuracy": 0.0,
+          "hits": 0,
+          "shots": 9,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2": {
+          "state": "DEAD",
+          "deathOrder": 6,
+          "deathTime": 96.0,
+          "missileHitsBy": {
+            "AIF-38D5": 1,
+            "AIF-38D5_2": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5": 91,
+            "AIF-38D5_2": 76
+          },
+          "missileDamageBy": {
+            "AIF-38D5": 9515.6,
+            "AIF-38D5_2": 7667.0
+          },
+          "GMKillReason": "LandedTooLong",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2_1": {
+          "state": "DEAD",
+          "deathOrder": 3,
+          "deathTime": 77.0,
+          "hitsBy": {
+            "AIF-38D5": 17,
+            "AIF-38D5_1": 45,
+            "AIF-38D5_2": 9
+          },
+          "bulletDamageBy": {
+            "AIF-38D5": 2123.4,
+            "AIF-38D5_1": 4949.1,
+            "AIF-38D5_2": 784.8
+          },
+          "missileHitsBy": {
+            "AIF-38D5": 1,
+            "AIF-38D5_2": 1,
+            "AIF-38D5_1": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5": 86,
+            "AIF-38D5_2": 76,
+            "AIF-38D5_1": 23
+          },
+          "missileDamageBy": {
+            "AIF-38D5": 3859.1,
+            "AIF-38D5_2": 30589.2,
+            "AIF-38D5_1": 33465.2
+          },
+          "battleDamageBy": {
+            "AIF-38D5": 142.2,
+            "AIF-38D5_1": 16.8
+          },
+          "cleanMissileKillBy": "AIF-38D5_1",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2_2": {
+          "state": "DEAD",
+          "deathOrder": 0,
+          "deathTime": 62.0,
+          "missileHitsBy": {
+            "AIF-38D5_3": 2,
+            "AIF-38D5_2": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5_3": 160,
+            "AIF-38D5_2": 77
+          },
+          "missileDamageBy": {
+            "AIF-38D5_3": 35694.8,
+            "AIF-38D5_2": 11994.0
+          },
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2_3": {
+          "state": "DEAD",
+          "deathOrder": 1,
+          "deathTime": 73.0,
+          "hitsBy": {
+            "AIF-38D5_1": 5
+          },
+          "bulletDamageBy": {
+            "AIF-38D5_1": 329.4
+          },
+          "missileHitsBy": {
+            "AIF-38D5_1": 5
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5_1": 314
+          },
+          "missileDamageBy": {
+            "AIF-38D5_1": 52523.1
+          },
+          "cleanMissileKillBy": "AIF-38D5_1",
+          "HPremaining": 0.0,
+          "accuracy": 16.666666666666668,
+          "hits": 1,
+          "shots": 6,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2_4": {
+          "state": "DEAD",
+          "deathOrder": 4,
+          "deathTime": 88.0,
+          "missileHitsBy": {
+            "AIF-38D5_4": 2
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5_4": 106
+          },
+          "missileDamageBy": {
+            "AIF-38D5_4": 31927.3
+          },
+          "battleDamageBy": {
+            "AIF-38D5_4": 100.1
+          },
+          "cleanMissileKillBy": "AIF-38D5_4",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2_5": {
+          "state": "DEAD",
+          "deathOrder": 5,
+          "deathTime": 88.0,
+          "missileHitsBy": {
+            "AIF-38D5_2": 1,
+            "AIF-38D5_3": 1,
+            "AIF-38D5_5": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5_2": 94,
+            "AIF-38D5_3": 89,
+            "AIF-38D5_5": 32
+          },
+          "missileDamageBy": {
+            "AIF-38D5_2": 119305.5,
+            "AIF-38D5_3": 2237.1,
+            "AIF-38D5_5": 1168.4
+          },
+          "GMKillReason": "LandedTooLong",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D5": {
+          "state": "DEAD",
+          "deathOrder": 2,
+          "deathTime": 75.0,
+          "missileHitsBy": {
+            "AIF-38D2_1": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D2_1": 81
+          },
+          "missileDamageBy": {
+            "AIF-38D2_1": 8449.8
+          },
+          "HPremaining": 0.0,
+          "accuracy": 56.666666666666664,
+          "hits": 17,
+          "shots": 30,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        }
+      }
+    }
+  },
+  "Round 2": {
+    "208994354-Heat 0.log": {
+      "result": {
+        "result": "Win",
+        "teams": {
+          "AIF-38D5": "AIF-38D5, AIF-38D5_1, AIF-38D5_2, AIF-38D5_3, AIF-38D5_4, AIF-38D5_5"
+        },
+        "dead teams": {
+          "AIF-38D2": "AIF-38D2, AIF-38D2_1, AIF-38D2_2, AIF-38D2_3, AIF-38D2_4, AIF-38D2_5"
+        }
+      },
+      "duration": 0.0,
+      "craft": {
+        "AIF-38D5": {
+          "state": "ALIVE",
+          "HPremaining": 100.0,
+          "accuracy": 16.666666666666668,
+          "hits": 3,
+          "shots": 18,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D5_3": {
+          "state": "ALIVE",
+          "HPremaining": 100.0,
+          "accuracy": 33.333333333333336,
+          "hits": 21,
+          "shots": 63,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D5_4": {
+          "state": "ALIVE",
+          "HPremaining": 100.0,
+          "accuracy": 0.0,
+          "hits": 0,
+          "shots": 5,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D5_5": {
+          "state": "ALIVE",
+          "HPremaining": 100.0,
+          "accuracy": 50.0,
+          "hits": 29,
+          "shots": 58,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D5_1": {
+          "state": "DEAD",
+          "deathOrder": 5,
+          "deathTime": 73.0,
+          "missileHitsBy": {
+            "AIF-38D2": 1,
+            "AIF-38D2_1": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D2": 84,
+            "AIF-38D2_1": 17
+          },
+          "missileDamageBy": {
+            "AIF-38D2": 9016.2,
+            "AIF-38D2_1": 13002.6
+          },
+          "GMKillReason": "LandedTooLong",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D5_2": {
+          "state": "DEAD",
+          "deathOrder": 7,
+          "deathTime": 82.0,
+          "missileHitsBy": {
+            "AIF-38D2_3": 1,
+            "AIF-38D2_4": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D2_3": 84,
+            "AIF-38D2_4": 50
+          },
+          "missileDamageBy": {
+            "AIF-38D2_3": 19394.2,
+            "AIF-38D2_4": 143571.3
+          },
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2": {
+          "state": "DEAD",
+          "deathOrder": 1,
+          "deathTime": 56.0,
+          "missileHitsBy": {
+            "AIF-38D5_5": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5_5": 81
+          },
+          "missileDamageBy": {
+            "AIF-38D5_5": 23718.8
+          },
+          "cleanMissileKillBy": "AIF-38D5_5",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2_1": {
+          "state": "DEAD",
+          "deathOrder": 2,
+          "deathTime": 61.0,
+          "hitsBy": {
+            "AIF-38D5_3": 7
+          },
+          "bulletDamageBy": {
+            "AIF-38D5_3": 997.1
+          },
+          "missileHitsBy": {
+            "AIF-38D5_4": 2,
+            "AIF-38D5_3": 1,
+            "AIF-38D5_5": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5_4": 109,
+            "AIF-38D5_3": 72,
+            "AIF-38D5_5": 13
+          },
+          "missileDamageBy": {
+            "AIF-38D5_4": 45595.5,
+            "AIF-38D5_3": 56231.0,
+            "AIF-38D5_5": 5199.0
+          },
+          "cleanMissileKillBy": "AIF-38D5_5",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2_2": {
+          "state": "DEAD",
+          "deathOrder": 0,
+          "deathTime": 48.0,
+          "missileHitsBy": {
+            "AIF-38D5": 1,
+            "AIF-38D5_5": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5": 93,
+            "AIF-38D5_5": 46
+          },
+          "missileDamageBy": {
+            "AIF-38D5": 18709.8,
+            "AIF-38D5_5": 3853.7
+          },
+          "battleDamageBy": {
+            "AIF-38D5": 0.4
+          },
+          "cleanMissileKillBy": "AIF-38D5_5",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2_3": {
+          "state": "DEAD",
+          "deathOrder": 6,
+          "deathTime": 79.0,
+          "hitsBy": {
+            "AIF-38D5_5": 29,
+            "AIF-38D5": 3
+          },
+          "bulletDamageBy": {
+            "AIF-38D5_5": 2402.6,
+            "AIF-38D5": 286.6
+          },
+          "missileHitsBy": {
+            "AIF-38D5_5": 2,
+            "AIF-38D5_4": 2
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5_5": 152,
+            "AIF-38D5_4": 72
+          },
+          "missileDamageBy": {
+            "AIF-38D5_5": 90630.1,
+            "AIF-38D5_4": 1460.1
+          },
+          "battleDamageBy": {
+            "AIF-38D5_5": 45.9
+          },
+          "HPremaining": 0.0,
+          "accuracy": 0.0,
+          "hits": 0,
+          "shots": 24,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2_4": {
+          "state": "DEAD",
+          "deathOrder": 3,
+          "deathTime": 64.0,
+          "hitsBy": {
+            "AIF-38D5_3": 14
+          },
+          "bulletDamageBy": {
+            "AIF-38D5_3": 1810.3
+          },
+          "missileHitsBy": {
+            "AIF-38D5_2": 1,
+            "AIF-38D5_4": 2,
+            "AIF-38D5_3": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5_2": 90,
+            "AIF-38D5_4": 167,
+            "AIF-38D5_3": 57
+          },
+          "missileDamageBy": {
+            "AIF-38D5_2": 27657.6,
+            "AIF-38D5_4": 16853.9,
+            "AIF-38D5_3": 3843.1
+          },
+          "battleDamageBy": {
+            "AIF-38D5_3": 14446.0
+          },
+          "cleanKillBy": "AIF-38D5_3",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2_5": {
+          "state": "DEAD",
+          "deathOrder": 4,
+          "deathTime": 69.0,
+          "missileHitsBy": {
+            "AIF-38D5_3": 1,
+            "AIF-38D5_1": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5_3": 96,
+            "AIF-38D5_1": 49
+          },
+          "missileDamageBy": {
+            "AIF-38D5_3": 38993.1,
+            "AIF-38D5_1": 27052.1
+          },
+          "battleDamageBy": {
+            "AIF-38D5_3": 0.2
+          },
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        }
+      }
+    }
+  },
+  "Round 3": {
+    "208994569-Heat 0.log": {
+      "result": {
+        "result": "Win",
+        "teams": {
+          "AIF-38D5": "AIF-38D5, AIF-38D5_1, AIF-38D5_2, AIF-38D5_3, AIF-38D5_4, AIF-38D5_5"
+        },
+        "dead teams": {
+          "AIF-38D2": "AIF-38D2, AIF-38D2_1, AIF-38D2_2, AIF-38D2_3, AIF-38D2_4, AIF-38D2_5"
+        }
+      },
+      "duration": 0.0,
+      "craft": {
+        "AIF-38D5": {
+          "state": "ALIVE",
+          "HPremaining": 100.0,
+          "accuracy": 16.129032258064516,
+          "hits": 10,
+          "shots": 62,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D5_2": {
+          "state": "ALIVE",
+          "missileHitsBy": {
+            "AIF-38D5_3": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5_3": 78
+          },
+          "HPremaining": 100.0,
+          "accuracy": 15.217391304347826,
+          "hits": 7,
+          "shots": 46,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D5_5": {
+          "state": "ALIVE",
+          "missileHitsBy": {
+            "AIF-38D5_3": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5_3": 79
+          },
+          "missileDamageBy": {
+            "AIF-38D5_3": 320.6
+          },
+          "HPremaining": 100.0,
+          "accuracy": 14.492753623188406,
+          "hits": 10,
+          "shots": 69,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2": {
+          "state": "DEAD",
+          "deathOrder": 5,
+          "deathTime": 90.0,
+          "missileHitsBy": {
+            "AIF-38D5": 2,
+            "AIF-38D5_5": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5": 108,
+            "AIF-38D5_5": 84
+          },
+          "missileDamageBy": {
+            "AIF-38D5": 33477.5,
+            "AIF-38D5_5": 6234.8
+          },
+          "cleanMissileKillBy": "AIF-38D5",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2_1": {
+          "state": "DEAD",
+          "deathOrder": 2,
+          "deathTime": 70.0,
+          "hitsBy": {
+            "AIF-38D5_2": 3,
+            "AIF-38D5": 5
+          },
+          "bulletDamageBy": {
+            "AIF-38D5_2": 224.8,
+            "AIF-38D5": 451.5
+          },
+          "missileHitsBy": {
+            "AIF-38D5_1": 1,
+            "AIF-38D5": 2,
+            "AIF-38D5_2": 1,
+            "AIF-38D5_5": 1,
+            "AIF-38D5_3": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5_1": 88,
+            "AIF-38D5": 85,
+            "AIF-38D5_2": 69,
+            "AIF-38D5_5": 69,
+            "AIF-38D5_3": 18
+          },
+          "missileDamageBy": {
+            "AIF-38D5_1": 12416.6,
+            "AIF-38D5": 20830.0,
+            "AIF-38D5_2": 11589.7,
+            "AIF-38D5_5": 8934.8,
+            "AIF-38D5_3": 3805.6
+          },
+          "battleDamageBy": {
+            "AIF-38D5_2": 31.4,
+            "AIF-38D5": 12.4
+          },
+          "cleanMissileKillBy": "AIF-38D5",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2_2": {
+          "state": "DEAD",
+          "deathOrder": 6,
+          "deathTime": 90.0,
+          "missileHitsBy": {
+            "AIF-38D5_2": 1,
+            "AIF-38D5_1": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5_2": 88,
+            "AIF-38D5_1": 53
+          },
+          "missileDamageBy": {
+            "AIF-38D5_2": 20734.5,
+            "AIF-38D5_1": 13453.6
+          },
+          "GMKillReason": "LandedTooLong",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2_3": {
+          "state": "DEAD",
+          "deathOrder": 3,
+          "deathTime": 80.0,
+          "hitsBy": {
+            "AIF-38D5_5": 10,
+            "AIF-38D5_2": 4,
+            "AIF-38D5_3": 4,
+            "AIF-38D5": 5
+          },
+          "bulletDamageBy": {
+            "AIF-38D5_5": 766.4,
+            "AIF-38D5_3": 266.0,
+            "AIF-38D5_2": 246.2,
+            "AIF-38D5": 623.5
+          },
+          "missileHitsBy": {
+            "AIF-38D5_1": 1,
+            "AIF-38D5_5": 1,
+            "AIF-38D5_3": 2,
+            "AIF-38D5_2": 1,
+            "AIF-38D5": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5_1": 91,
+            "AIF-38D5_5": 58,
+            "AIF-38D5_3": 60,
+            "AIF-38D5_2": 13,
+            "AIF-38D5": 12
+          },
+          "missileDamageBy": {
+            "AIF-38D5_1": 48828.9,
+            "AIF-38D5_5": 8656.0,
+            "AIF-38D5_3": 39222.2,
+            "AIF-38D5_2": 1242.6,
+            "AIF-38D5": 6631.6
+          },
+          "battleDamageBy": {
+            "AIF-38D5": 14723.4
+          },
+          "cleanKillBy": "AIF-38D5",
+          "HPremaining": 0.0,
+          "accuracy": 0.0,
+          "hits": 0,
+          "shots": 9,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2_4": {
+          "state": "DEAD",
+          "deathOrder": 4,
+          "deathTime": 89.0,
+          "missileHitsBy": {
+            "AIF-38D5_2": 3,
+            "AIF-38D5_4": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5_2": 173,
+            "AIF-38D5_4": 74
+          },
+          "missileDamageBy": {
+            "AIF-38D5_2": 114003.6,
+            "AIF-38D5_4": 32192.9
+          },
+          "cleanMissileKillBy": "AIF-38D5_2",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2_5": {
+          "state": "DEAD",
+          "deathOrder": 1,
+          "deathTime": 65.0,
+          "missileHitsBy": {
+            "AIF-38D5_3": 2,
+            "AIF-38D5_5": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5_3": 104,
+            "AIF-38D5_5": 18
+          },
+          "missileDamageBy": {
+            "AIF-38D5_3": 26796.7,
+            "AIF-38D5_5": 11077.7
+          },
+          "cleanMissileKillBy": "AIF-38D5_3",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D5_1": {
+          "state": "MIA",
+          "missileHitsBy": {
+            "AIF-38D2_3": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D2_3": 85
+          },
+          "missileDamageBy": {
+            "AIF-38D2_3": 21396.9
+          },
+          "battleDamageBy": {
+            "AIF-38D2_3": 0.2
+          },
+          "HPremaining": 54.0229885057471,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D5_3": {
+          "state": "MIA",
+          "missileHitsBy": {
+            "AIF-38D5": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5": 79
+          },
+          "missileDamageBy": {
+            "AIF-38D5": 56489.4
+          },
+          "HPremaining": 20.6896551724138,
+          "accuracy": 30.76923076923077,
+          "hits": 4,
+          "shots": 13,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D5_4": {
+          "state": "DEAD",
+          "deathOrder": 0,
+          "deathTime": 55.0,
+          "missileHitsBy": {
+            "AIF-38D2_2": 1,
+            "AIF-38D2_3": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D2_2": 82,
+            "AIF-38D2_3": 18
+          },
+          "missileDamageBy": {
+            "AIF-38D2_2": 12266.9,
+            "AIF-38D2_3": 17596.0
+          },
+          "battleDamageBy": {
+            "AIF-38D2_3": 12279.0
+          },
+          "cleanMissileKillBy": "AIF-38D2_3",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        }
+      }
+    }
+  },
+  "Round 4": {
+    "208994812-Heat 0.log": {
+      "result": {
+        "result": "Win",
+        "teams": {
+          "AIF-38D5": "AIF-38D5, AIF-38D5_1, AIF-38D5_2, AIF-38D5_3, AIF-38D5_4, AIF-38D5_5"
+        },
+        "dead teams": {
+          "AIF-38D2": "AIF-38D2, AIF-38D2_1, AIF-38D2_2, AIF-38D2_3, AIF-38D2_4, AIF-38D2_5"
+        }
+      },
+      "duration": 0.0,
+      "craft": {
+        "AIF-38D5": {
+          "state": "ALIVE",
+          "missileHitsBy": {
+            "AIF-38D2_1": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D2_1": 84
+          },
+          "missileDamageBy": {
+            "AIF-38D2_1": 5849.6
+          },
+          "HPremaining": 55.1724137931034,
+          "accuracy": 18.29268292682927,
+          "hits": 15,
+          "shots": 82,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D5_1": {
+          "state": "ALIVE",
+          "HPremaining": 100.0,
+          "accuracy": 32.53012048192771,
+          "hits": 27,
+          "shots": 83,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D5_3": {
+          "state": "ALIVE",
+          "HPremaining": 100.0,
+          "accuracy": 0.0,
+          "hits": 0,
+          "shots": 10,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D5_4": {
+          "state": "ALIVE",
+          "HPremaining": 100.0,
+          "accuracy": 5.405405405405405,
+          "hits": 2,
+          "shots": 37,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D5_5": {
+          "state": "ALIVE",
+          "HPremaining": 100.0,
+          "accuracy": 22.22222222222222,
+          "hits": 4,
+          "shots": 18,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2": {
+          "state": "DEAD",
+          "deathOrder": 3,
+          "deathTime": 82.0,
+          "missileHitsBy": {
+            "AIF-38D5": 2,
+            "AIF-38D5_1": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5": 118,
+            "AIF-38D5_1": 65
+          },
+          "missileDamageBy": {
+            "AIF-38D5": 43802.8,
+            "AIF-38D5_1": 37766.9
+          },
+          "battleDamageBy": {
+            "AIF-38D5_1": 104.4
+          },
+          "GMKillReason": "LandedTooLong",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2_1": {
+          "state": "DEAD",
+          "deathOrder": 2,
+          "deathTime": 77.0,
+          "hitsBy": {
+            "AIF-38D5": 15,
+            "AIF-38D5_5": 4,
+            "AIF-38D5_1": 27
+          },
+          "bulletDamageBy": {
+            "AIF-38D5": 1199.0,
+            "AIF-38D5_5": 329.9,
+            "AIF-38D5_1": 3912.9
+          },
+          "missileHitsBy": {
+            "AIF-38D5_1": 2
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5_1": 166
+          },
+          "missileDamageBy": {
+            "AIF-38D5_1": 39734.3
+          },
+          "battleDamageBy": {
+            "AIF-38D5_1": 20533.4
+          },
+          "cleanKillBy": "AIF-38D5_1",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2_2": {
+          "state": "DEAD",
+          "deathOrder": 1,
+          "deathTime": 65.0,
+          "missileHitsBy": {
+            "AIF-38D5_2": 1,
+            "AIF-38D5_4": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5_2": 89,
+            "AIF-38D5_4": 82
+          },
+          "missileDamageBy": {
+            "AIF-38D5_2": 10962.2,
+            "AIF-38D5_4": 25116.1
+          },
+          "cleanMissileKillBy": "AIF-38D5_4",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2_3": {
+          "state": "DEAD",
+          "deathOrder": 5,
+          "deathTime": 84.0,
+          "missileHitsBy": {
+            "AIF-38D5_1": 2,
+            "AIF-38D5_3": 1,
+            "AIF-38D5_5": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5_1": 110,
+            "AIF-38D5_3": 27,
+            "AIF-38D5_5": 12
+          },
+          "missileDamageBy": {
+            "AIF-38D5_1": 41603.6,
+            "AIF-38D5_3": 9413.4,
+            "AIF-38D5_5": 4411.3
+          },
+          "cleanMissileKillBy": "AIF-38D5_5",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2_4": {
+          "state": "DEAD",
+          "deathOrder": 4,
+          "deathTime": 83.0,
+          "missileHitsBy": {
+            "AIF-38D5_2": 1,
+            "AIF-38D5_5": 1,
+            "AIF-38D5_4": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5_2": 94,
+            "AIF-38D5_5": 74,
+            "AIF-38D5_4": 19
+          },
+          "missileDamageBy": {
+            "AIF-38D5_2": 37169.5,
+            "AIF-38D5_5": 27504.8,
+            "AIF-38D5_4": 8583.1
+          },
+          "GMKillReason": "LandedTooLong",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D2_5": {
+          "state": "DEAD",
+          "deathOrder": 6,
+          "deathTime": 88.0,
+          "hitsBy": {
+            "AIF-38D5_4": 2
+          },
+          "bulletDamageBy": {
+            "AIF-38D5_4": 1571.7
+          },
+          "missileHitsBy": {
+            "AIF-38D5": 1,
+            "AIF-38D5_3": 1,
+            "AIF-38D5_5": 1,
+            "AIF-38D5_4": 2,
+            "AIF-38D5_1": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D5": 92,
+            "AIF-38D5_3": 29,
+            "AIF-38D5_5": 25,
+            "AIF-38D5_4": 29,
+            "AIF-38D5_1": 11
+          },
+          "missileDamageBy": {
+            "AIF-38D5": 14967.3,
+            "AIF-38D5_3": 1774.1,
+            "AIF-38D5_5": 6445.8,
+            "AIF-38D5_4": 9538.5,
+            "AIF-38D5_1": 21495.1
+          },
+          "battleDamageBy": {
+            "AIF-38D5_4": 0.2
+          },
+          "cleanKillBy": "AIF-38D5_4",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        },
+        "AIF-38D5_2": {
+          "state": "DEAD",
+          "deathOrder": 0,
+          "deathTime": 40.0,
+          "missileHitsBy": {
+            "AIF-38D2_2": 1,
+            "AIF-38D2": 1
+          },
+          "missilePartsHitBy": {
+            "AIF-38D2_2": 86,
+            "AIF-38D2": 24
+          },
+          "missileDamageBy": {
+            "AIF-38D2_2": 21630.7,
+            "AIF-38D2": 38752.3
+          },
+          "cleanMissileKillBy": "AIF-38D2",
+          "HPremaining": 0.0,
+          "accuracy": 0,
+          "hits": 0,
+          "shots": 0,
+          "rocket_accuracy": 0,
+          "rocket_strikes": 0,
+          "rockets_fired": 0
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+[BDArmory.BDACompetitionMode:200980928]: Dumping Results after 130s (of 0s) at 2026-05-15 04:06:30 -04:00
+[BDArmory.BDACompetitionMode:200980928]: RESULT:Win:{"team": "AIF-38C", "members": ["AIF-38C", "AIF-38C_1"]}
+[BDArmory.BDACompetitionMode:200980928]: DEADTEAMS:[{"team": "AL-27 Kallistemon dev", "members": ["AL-27 Kallistemon dev", "AL-27 Kallistemon dev_1"]}]
+[BDArmory.BDACompetitionMode:200980928]: ALIVE:AIF-38C
+[BDArmory.BDACompetitionMode:200980928]: ALIVE:AIF-38C_1
+[BDArmory.BDACompetitionMode:200980928]: DEAD:1:120.0:AL-27 Kallistemon dev
+[BDArmory.BDACompetitionMode:200980928]: DEAD:0:102.0:AL-27 Kallistemon dev_1
+[BDArmory.BDACompetitionMode:200980928]: WHOSHOTWHOWITHGUNS:AL-27 Kallistemon dev:34:AIF-38C_1
+[BDArmory.BDACompetitionMode:200980928]: WHOSHOTWHOWITHGUNS:AL-27 Kallistemon dev_1:8:AIF-38C_1:19:AIF-38C
+[BDArmory.BDACompetitionMode:200980928]: WHOSHOTWHOWITHGUNS:AIF-38C:24:AL-27 Kallistemon dev_1
+[BDArmory.BDACompetitionMode:200980928]: WHODAMAGEDWHOWITHGUNS:AL-27 Kallistemon dev:15031.2:AIF-38C_1
+[BDArmory.BDACompetitionMode:200980928]: WHODAMAGEDWHOWITHGUNS:AL-27 Kallistemon dev_1:2920.3:AIF-38C_1:6603.6:AIF-38C
+[BDArmory.BDACompetitionMode:200980928]: WHODAMAGEDWHOWITHGUNS:AIF-38C:3472.0:AL-27 Kallistemon dev_1
+[BDArmory.BDACompetitionMode:200980928]: WHODAMAGEDWHOWITHBATTLEDAMAGE:AL-27 Kallistemon dev:21996.2:AIF-38C_1:13905.2:AL-27 Kallistemon dev
+[BDArmory.BDACompetitionMode:200980928]: WHODAMAGEDWHOWITHBATTLEDAMAGE:AL-27 Kallistemon dev_1:165.6:AIF-38C_1:22356.3:AIF-38C:11390.7:AL-27 Kallistemon dev_1
+[BDArmory.BDACompetitionMode:200980928]: WHODAMAGEDWHOWITHBATTLEDAMAGE:AIF-38C:205.8:AL-27 Kallistemon dev_1
+[BDArmory.BDACompetitionMode:200980928]: CLEANKILLGUNS:AL-27 Kallistemon dev:AIF-38C_1
+[BDArmory.BDACompetitionMode:200980928]: KILLSTEALGUNS:AL-27 Kallistemon dev_1:AIF-38C
+[BDArmory.BDACompetitionMode:200980928]: HPLEFT:AL-27 Kallistemon dev:0
+[BDArmory.BDACompetitionMode:200980928]: HPLEFT:AL-27 Kallistemon dev_1:0
+[BDArmory.BDACompetitionMode:200980928]: HPLEFT:AIF-38C:97.1153846153846
+[BDArmory.BDACompetitionMode:200980928]: HPLEFT:AIF-38C_1:100
+[BDArmory.BDACompetitionMode:200980928]: ACCURACY:AL-27 Kallistemon dev:0/0:0/0
+[BDArmory.BDACompetitionMode:200980928]: ACCURACY:AL-27 Kallistemon dev_1:24/114:0/0
+[BDArmory.BDACompetitionMode:200980928]: ACCURACY:AIF-38C:19/81:0/0
+[BDArmory.BDACompetitionMode:200980928]: ACCURACY:AIF-38C_1:42/352:0/0

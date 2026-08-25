@@ -1,0 +1,180 @@
+1.5.3
+-Remove 1deg turret gimbal from heavy fixed guns - no longer necessary as of BDA 1.13.1 on custom turrets for aim assist
+-Heavy fixed guns CoM now at mounting point/trunnions, should help with custom turret traverse
+-Ammo/resource defs moved to their own files for better maintainability
+-Adds scalable ammo boxes/drums. Existing ammo drums moved to Legacy
+
+1.5.2
+-Fix single VLS cell scaling
+-Fix breaking torque/force values for VLS cells
+-SingleVLS now costs 1/4th that of quad VLS
+-Fix typo on SA-16P Janissary 
+-Adds Chinese localization (thanks tsingshitao!)
+-Missiles now have BDAcategories
+-Fix strip CM scaling, naming convention
+-Fix Bomblet Dispenser default ammo quantity
+-Add VABOrganizer support (thanks Spartwo)
+-Adds new fixed guns for use in custom turrets, etc:
+ -20mm revolver cannon, gatling gun
+ -30mm gatling gun
+ -57mm autocannon
+ -76mm gun
+ -105mm howitzer, recoilless gun
+ -120mm tank gun, long barrel tank gun
+ -155mm howitzer
+ -203mm howitzer
+ -1/2/3 cell TOW launcher
+-Update lasers to use new BDA aperture and tanAngle fields
+==============================================
+1.5.1
+-Fix Typos/localization errors.
+-Fix missing faces on Heavy GMLR turret model.
+-Fix Adjustable Reloadable Rail Length scaling, missile offset
+-Fix Single GMLR turret rotation
+-Adds Reloadable version of the stock BDA Jernas turret (thanks Sidestrafe!)
+-Fix Strip CM box
+==================================================================
+1.5
+-Missiles Refactor
+-All missiles using borrowed Toonu models now have custom models.
+-Missile statlines re-statted to better balance missiles both against each other and vs stock BDA; old missiles moved to Legacy for backwards compatibility with saved craft.
+-Adds new IR missiles: Imp (short range), Incubus (rear-aspect), Hellhound (quick maneuver), Eifreet (long range), and Balrog (extended range).
+-Adds new Radar missiles: Peltast (short range), Lancer (heavy short range), Myrmidon (SARH), Hoplite (medium range), Uhlan (extended range).
+-Adds new Moth ARAD missile.
+-Adds new Laser ATG missiles: Mattock (heavy), Lucerne (extended range).
+-Adds new Anti-Ship missiles: Squall (cruisemissile), Typhoon (hypersonic).
+-Adds new Surface to Air missiles: Thrall (light ARH), Jannisary (SARH), Surtr (IR), Cataphract (heavy ARH), Halbech (cluster missile).
+-Adds new missile turrets: Heavy twin rail GMLR, medium single rail GMLR, light twin turret.
+-Adds new Ammo Drums for 12.7, 20, 25, and 30mm ammo.
+-Adds 76mm Ammo Box.
+-Adds single rail reloadable missile rail
+-Fix single cell VLS missile orientation
+
+======================================================
+
+-Fix reloadable missile launcher ammo amounts
+-Fix Swordfish torpedo and Molot AShM not guiding properly
+-Add Organizer tabs (courtesy of Spartwo)
+-update SimpleRepaint MM patch
+-Fix AI not jettisoning droptank on competition start
+-Fix issues with Phoenix missile
+-Increase reloadable missile bay open speed
+-Fix Collider on singlecell VLS
+-Fix collider on twinRail
+-Fix VLS/TorpedoLauncher attach nodes, should now be able to attach ordinance from any orientation.
+-Adds new small warhead options
+====================================================
+
+-Chinese localization, courtesy of Marv1n
+-correct supProjectileCount -> projectileCount for several bulletdefs
+-New Single Cell VLS part, courtesy of Spartwo
+-New laser weapons, courtesy of EclipticIndustries
+-New Missile Ammunition Magazine parts
+-Fix Phoenix guidance
+-General improvement of weapon accuracy
+
+======================================================
+-Fix localization error on the 37mm ammo box.
+-Fix attach node positions on 37mm ammo drum.
+-Fix HACM attach node.
+-Fix flakcannon/100mmTurret/130mmTurret flak ammo dispersion.
+-Add Pulselaser.
+-Add Pavise CIMS Turret.
+-Changed RIM-162 to RIM-66D.
+-RIM-66D changed to use Kappa guidance.
+-37mm twin Turret no longer has overly large base.
+-Some performance fixes for the laser AGMs.
+-Moved the Homing Hydra to the missiles tab.
+
+=====================================================
+-Clustermissile submunitions reduced to 8
+-reload times of reloadable rails increased
+-some long range missiles swapped from GPS to inertial initial guidance
+-tweak accuracy of the 100/130mm turrets
+-increase torsion cannon max range
+-Fix missile thrust/aero performance on various missiles that were underperforming
+
+=====================================================
+
+-Fix various localization issues
+-Fix non-reloadable Missile pod broken scaling
+-Fix AIM-54 terminal maneuvers wiggliness
+-Tweak Swordfish torpedo guidance to make it more effective at longer ranges
+===================================================================
+
+-Adds Swordfish Passive Sonar torpedo
+-Adds Tigershark heavy Active Sonar torpedo
+-Adds triple torpedo launcher
+-Adds passive sonar pod
+-Tweaks accuracy of 100mm/130mm/flakcannon proximity rounds
+-Reloadable missile pod now has increased rescaling capability
+-VLS Quad is now rescalable.
+-Increase PD MG range slightly
+
+=============================================================================
+
+-Molot now uses dynamic GPS coords
+-VLS quad Launcher can now specify salvo size instead of being locked to 1 (pending BDA 1.6.5.1)
+-VLS Quad launcher opening anim now a bit faster (pending BDA 1.6.5.1)
+-Fix transforms used for launch clearance check on CLS pods
+-Fix .cfg issue with PD MG turret
+-Fix Phoenix not being loadable in the reloadable missile bay
+-Fix Bomblet Dispenser ejecting its bombs sideways
+=================================================================================
+
+-Adds localization tags to all BDA-E parts
+-Adds fuelswap option for droptanks if B9PS installed
+-Adds VLS quad launcher
+-Adds RIM-162 missile
+-Adds AIM-54 Phoenix
+-Adds Cloaking Device
+-Fixes issue with CLS-24 missile
+-Improve cluster missile submunition performance
+-Reduced CLS missile tracking slightly, boosted thrust slightly
+-Fixes Eifreet exhaust FX
+-Fixes Hotspur exhaust FX
+-Improved Homing Hydra Rocket turn rate
+-Improved Firelance performance
+-APS and Point Defense blister turret moved to Countermeasures tab
+-Point Defense turret can now be used manually/by the AI against non-missile targets
+-37mm CIWS turret will now automatically engage incoming missiles
+
+============================================================================
+-Adds 37mm turret
+-Adds 37mm CIWS
+-Adds 37mm Ammo drum
+-Adds Torsion Cannon
+-Adds 57mm AntiTank gun
+-Adds 57mm Ammo box
+-Tweaked 57/76/100/130mm turret sizes
+-Reduced 130mm Turret firerate
+-new fire/reload SFX for 75/76/100/130mm turrets
+-Tweaked Turret Ammos; AP/Incendiary rounds now have small delay-fuzed bursting charges
+-Tweaked flak cannon performance
+-Chemical Laser attach orientation fixed
+-Chemlaser damage boosted 25%
+-Chemlaser given 0.25deg gimbal
+-Plasmabeam mass reduced
+-Plasmabeam damage increased
+-Mauser RoF decreased to 1100
+-Repeater damage decreased
+-Weapon accuracies tweaked
+-Adds single missile ordinance sidebay
+-Adds Cluster Missile
+-Adds bomblet dispenser
+-Adds a bunch of new missiles, models from Toonu; Many thanks!
+ - Long range radar missle
+ - Antiship Missile
+ - Long Range ATG Missile
+ - Heavy ATG Missile
+ - Long range heatseeking Missile
+ - Extended long range heatseeking Missile
+ - Homing Anti-ECM Missile
+ - Short range High Impact radar Missile
+ - Light short range radar Missile
+ - Short Range Pursuit Heatseeking Missile
+ - Short Range swarm heatseeking missile
+ - Rear-Aspect heatseeking Missile
+ - Passive medium range radar Missile
+ - New model for the AIM-4s
+ - New model for the HARM AA

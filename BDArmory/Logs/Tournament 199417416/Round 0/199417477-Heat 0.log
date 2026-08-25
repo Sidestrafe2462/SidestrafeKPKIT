@@ -1,0 +1,43 @@
+[BDArmory.BDACompetitionMode:199417477]: Dumping Results after 81s (of 0s) at 2026-04-27 01:47:09 -04:00
+[BDArmory.BDACompetitionMode:199417477]: RESULT:Win:{"team": "AIF-38", "members": ["AIF-38", "AIF-38_1", "AIF-38_2"]}
+[BDArmory.BDACompetitionMode:199417477]: DEADTEAMS:[{"team": "AS-124 (tony flares)", "members": ["AS-124 (tony flares)", "AS-124 (tony flares)_1", "AS-124 (tony flares)_2"]}]
+[BDArmory.BDACompetitionMode:199417477]: ALIVE:AIF-38_1
+[BDArmory.BDACompetitionMode:199417477]: ALIVE:AIF-38_2
+[BDArmory.BDACompetitionMode:199417477]: DEAD:1:52.0:AS-124 (tony flares)
+[BDArmory.BDACompetitionMode:199417477]: DEAD:0:48.0:AS-124 (tony flares)_1
+[BDArmory.BDACompetitionMode:199417477]: DEAD:3:71.0:AS-124 (tony flares)_2
+[BDArmory.BDACompetitionMode:199417477]: DEAD:2:68.0:AIF-38
+[BDArmory.BDACompetitionMode:199417477]: WHOSHOTWHOWITHGUNS:AS-124 (tony flares)_2:2:AIF-38_1
+[BDArmory.BDACompetitionMode:199417477]: WHOSHOTWHOWITHGUNS:AIF-38_1:1:AIF-38_2
+[BDArmory.BDACompetitionMode:199417477]: WHODAMAGEDWHOWITHGUNS:AS-124 (tony flares)_2:983.5:AIF-38_1:0.2:AIF-38_2
+[BDArmory.BDACompetitionMode:199417477]: WHODAMAGEDWHOWITHGUNS:AIF-38_1:89.8:AIF-38_2
+[BDArmory.BDACompetitionMode:199417477]: WHOHITWHOWITHMISSILES:AS-124 (tony flares):1:AIF-38
+[BDArmory.BDACompetitionMode:199417477]: WHOHITWHOWITHMISSILES:AS-124 (tony flares)_1:1:AIF-38
+[BDArmory.BDACompetitionMode:199417477]: WHOHITWHOWITHMISSILES:AS-124 (tony flares)_2:2:AIF-38_2
+[BDArmory.BDACompetitionMode:199417477]: WHOHITWHOWITHMISSILES:AIF-38:1:AS-124 (tony flares):1:AS-124 (tony flares)_2
+[BDArmory.BDACompetitionMode:199417477]: WHOPARTSHITWHOWITHMISSILES:AS-124 (tony flares):65:AIF-38
+[BDArmory.BDACompetitionMode:199417477]: WHOPARTSHITWHOWITHMISSILES:AS-124 (tony flares)_1:64:AIF-38
+[BDArmory.BDACompetitionMode:199417477]: WHOPARTSHITWHOWITHMISSILES:AS-124 (tony flares)_2:125:AIF-38_2
+[BDArmory.BDACompetitionMode:199417477]: WHOPARTSHITWHOWITHMISSILES:AIF-38:98:AS-124 (tony flares):83:AS-124 (tony flares)_2
+[BDArmory.BDACompetitionMode:199417477]: WHODAMAGEDWHOWITHMISSILES:AS-124 (tony flares):8702.4:AIF-38
+[BDArmory.BDACompetitionMode:199417477]: WHODAMAGEDWHOWITHMISSILES:AS-124 (tony flares)_1:10950.8:AIF-38
+[BDArmory.BDACompetitionMode:199417477]: WHODAMAGEDWHOWITHMISSILES:AS-124 (tony flares)_2:844.6:AIF-38_2
+[BDArmory.BDACompetitionMode:199417477]: WHODAMAGEDWHOWITHMISSILES:AIF-38:7352.9:AS-124 (tony flares):8052.2:AS-124 (tony flares)_2
+[BDArmory.BDACompetitionMode:199417477]: WHODAMAGEDWHOWITHBATTLEDAMAGE:AS-124 (tony flares):0.1:AIF-38
+[BDArmory.BDACompetitionMode:199417477]: WHODAMAGEDWHOWITHBATTLEDAMAGE:AS-124 (tony flares)_2:16.0:AIF-38_1:22653.4:AS-124 (tony flares)_2
+[BDArmory.BDACompetitionMode:199417477]: WHODAMAGEDWHOWITHBATTLEDAMAGE:AIF-38_1:50.1:AIF-38_2
+[BDArmory.BDACompetitionMode:199417477]: CLEANKILLMISSILES:AS-124 (tony flares)_1:AIF-38
+[BDArmory.BDACompetitionMode:199417477]: KILLSTEALGUNS:AS-124 (tony flares)_2:AIF-38_2
+[BDArmory.BDACompetitionMode:199417477]: HEADSHOTMISSILES:AIF-38:AS-124 (tony flares)_2
+[BDArmory.BDACompetitionMode:199417477]: HPLEFT:AS-124 (tony flares):0
+[BDArmory.BDACompetitionMode:199417477]: HPLEFT:AS-124 (tony flares)_1:0
+[BDArmory.BDACompetitionMode:199417477]: HPLEFT:AS-124 (tony flares)_2:0
+[BDArmory.BDACompetitionMode:199417477]: HPLEFT:AIF-38:0
+[BDArmory.BDACompetitionMode:199417477]: HPLEFT:AIF-38_1:100
+[BDArmory.BDACompetitionMode:199417477]: HPLEFT:AIF-38_2:100
+[BDArmory.BDACompetitionMode:199417477]: ACCURACY:AS-124 (tony flares):0/0:0/0
+[BDArmory.BDACompetitionMode:199417477]: ACCURACY:AS-124 (tony flares)_1:0/0:0/0
+[BDArmory.BDACompetitionMode:199417477]: ACCURACY:AS-124 (tony flares)_2:0/0:0/0
+[BDArmory.BDACompetitionMode:199417477]: ACCURACY:AIF-38:0/0:0/0
+[BDArmory.BDACompetitionMode:199417477]: ACCURACY:AIF-38_1:2/20:0/0
+[BDArmory.BDACompetitionMode:199417477]: ACCURACY:AIF-38_2:1/20:0/0

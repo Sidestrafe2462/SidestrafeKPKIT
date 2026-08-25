@@ -1,0 +1,19 @@
+[BDArmory.BDACompetitionMode:203239822]: Dumping Results after 108s (of 0s) at 2026-06-10 07:32:23 -04:00
+[BDArmory.BDACompetitionMode:203239822]: RESULT:Mutual Annihilation
+[BDArmory.BDACompetitionMode:203239822]: DEADTEAMS:[{"team": "AL-27 Kallistemon", "members": ["AL-27 Kallistemon"]}, {"team": "AIF-37BPH", "members": ["AIF-37BPH"]}]
+[BDArmory.BDACompetitionMode:203239822]: DEAD:0:98.9:AL-27 Kallistemon
+[BDArmory.BDACompetitionMode:203239822]: DEAD:1:98.9:AIF-37BPH
+[BDArmory.BDACompetitionMode:203239822]: WHOSHOTWHOWITHGUNS:AL-27 Kallistemon:8:AIF-37BPH
+[BDArmory.BDACompetitionMode:203239822]: WHOSHOTWHOWITHGUNS:AIF-37BPH:6:AL-27 Kallistemon
+[BDArmory.BDACompetitionMode:203239822]: WHODAMAGEDWHOWITHGUNS:AL-27 Kallistemon:3432.4:AIF-37BPH
+[BDArmory.BDACompetitionMode:203239822]: WHODAMAGEDWHOWITHGUNS:AIF-37BPH:2887.2:AL-27 Kallistemon
+[BDArmory.BDACompetitionMode:203239822]: WHORAMMEDWHO:AL-27 Kallistemon:149:AIF-37BPH
+[BDArmory.BDACompetitionMode:203239822]: WHORAMMEDWHO:AIF-37BPH:71:AL-27 Kallistemon
+[BDArmory.BDACompetitionMode:203239822]: WHODAMAGEDWHOWITHBATTLEDAMAGE:AL-27 Kallistemon:165.5:AIF-37BPH
+[BDArmory.BDACompetitionMode:203239822]: WHODAMAGEDWHOWITHBATTLEDAMAGE:AIF-37BPH:9.8:AL-27 Kallistemon
+[BDArmory.BDACompetitionMode:203239822]: CLEANKILLRAMMING:AL-27 Kallistemon:AIF-37BPH
+[BDArmory.BDACompetitionMode:203239822]: CLEANKILLRAMMING:AIF-37BPH:AL-27 Kallistemon
+[BDArmory.BDACompetitionMode:203239822]: HPLEFT:AL-27 Kallistemon:0
+[BDArmory.BDACompetitionMode:203239822]: HPLEFT:AIF-37BPH:0
+[BDArmory.BDACompetitionMode:203239822]: ACCURACY:AL-27 Kallistemon:6/65:0/0
+[BDArmory.BDACompetitionMode:203239822]: ACCURACY:AIF-37BPH:8/95:0/0

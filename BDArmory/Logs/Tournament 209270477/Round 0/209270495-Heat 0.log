@@ -1,0 +1,88 @@
+[BDArmory.BDACompetitionMode:209270495]: Dumping Results after 162s (of 0s) at 2026-08-19 02:48:19 -04:00
+[BDArmory.BDACompetitionMode:209270495]: RESULT:Win:{"team": "basilfriend airstrike", "members": ["AL-57 Kalina", "AL-57 Kalina_1", "AL-27 Kallistemon", "AL-27 Kallistemon_1", "AL-57 Kalina_2"]}
+[BDArmory.BDACompetitionMode:209270495]: DEADTEAMS:[{"team": "sea lion one airwing", "members": ["Type-404S Fighter (A2A) mod-1", "Type-404S Fighter (A2A) mod-1_1", "Type-404S Fighter (A2A) mod-1_2", "Type-404S Fighter (A2A) mod-1_3", "Type-404S Fighter (A2A) mod-1_4", "Type-404S Fighter (A2A) mod-1_5"]}]
+[BDArmory.BDACompetitionMode:209270495]: ALIVE:AL-57 Kalina
+[BDArmory.BDACompetitionMode:209270495]: DEAD:4:144.5:Type-404S Fighter (A2A) mod-1
+[BDArmory.BDACompetitionMode:209270495]: DEAD:5:146.1:Type-404S Fighter (A2A) mod-1_1
+[BDArmory.BDACompetitionMode:209270495]: DEAD:1:91.1:Type-404S Fighter (A2A) mod-1_2
+[BDArmory.BDACompetitionMode:209270495]: DEAD:6:147.6:Type-404S Fighter (A2A) mod-1_3
+[BDArmory.BDACompetitionMode:209270495]: DEAD:7:149.5:Type-404S Fighter (A2A) mod-1_4
+[BDArmory.BDACompetitionMode:209270495]: DEAD:8:151.0:Type-404S Fighter (A2A) mod-1_5
+[BDArmory.BDACompetitionMode:209270495]: DEAD:2:113.0:AL-57 Kalina_1
+[BDArmory.BDACompetitionMode:209270495]: DEAD:0:63.0:AL-27 Kallistemon
+[BDArmory.BDACompetitionMode:209270495]: DEAD:3:124.3:AL-27 Kallistemon_1
+[BDArmory.BDACompetitionMode:209270495]: DEAD:9:152.8:AL-57 Kalina_2
+[BDArmory.BDACompetitionMode:209270495]: WHOSHOTWHOWITHGUNS:Type-404S Fighter (A2A) mod-1_3:43:AL-57 Kalina
+[BDArmory.BDACompetitionMode:209270495]: WHOSHOTWHOWITHGUNS:Type-404S Fighter (A2A) mod-1_4:7:AL-57 Kalina_2:1:AL-57 Kalina
+[BDArmory.BDACompetitionMode:209270495]: WHOSHOTWHOWITHGUNS:Type-404S Fighter (A2A) mod-1_5:47:AL-57 Kalina
+[BDArmory.BDACompetitionMode:209270495]: WHOSHOTWHOWITHGUNS:AL-57 Kalina_2:4:Type-404S Fighter (A2A) mod-1_3
+[BDArmory.BDACompetitionMode:209270495]: WHODAMAGEDWHOWITHGUNS:Type-404S Fighter (A2A) mod-1_3:5592.0:AL-57 Kalina
+[BDArmory.BDACompetitionMode:209270495]: WHODAMAGEDWHOWITHGUNS:Type-404S Fighter (A2A) mod-1_4:2347.8:AL-57 Kalina_2:143.1:AL-57 Kalina
+[BDArmory.BDACompetitionMode:209270495]: WHODAMAGEDWHOWITHGUNS:Type-404S Fighter (A2A) mod-1_5:16418.9:AL-57 Kalina
+[BDArmory.BDACompetitionMode:209270495]: WHODAMAGEDWHOWITHGUNS:AL-57 Kalina_2:1040.2:Type-404S Fighter (A2A) mod-1_3
+[BDArmory.BDACompetitionMode:209270495]: WHOHITWHOWITHMISSILES:Type-404S Fighter (A2A) mod-1:1:AL-27 Kallistemon_1:1:AL-57 Kalina_1:1:AL-57 Kalina_2
+[BDArmory.BDACompetitionMode:209270495]: WHOHITWHOWITHMISSILES:Type-404S Fighter (A2A) mod-1_1:2:AL-57 Kalina_2
+[BDArmory.BDACompetitionMode:209270495]: WHOHITWHOWITHMISSILES:Type-404S Fighter (A2A) mod-1_2:1:AL-27 Kallistemon_1
+[BDArmory.BDACompetitionMode:209270495]: WHOHITWHOWITHMISSILES:Type-404S Fighter (A2A) mod-1_3:1:AL-57 Kalina
+[BDArmory.BDACompetitionMode:209270495]: WHOHITWHOWITHMISSILES:Type-404S Fighter (A2A) mod-1_4:1:AL-57 Kalina
+[BDArmory.BDACompetitionMode:209270495]: WHOHITWHOWITHMISSILES:Type-404S Fighter (A2A) mod-1_5:1:AL-27 Kallistemon_1
+[BDArmory.BDACompetitionMode:209270495]: WHOHITWHOWITHMISSILES:AL-57 Kalina:1:Type-404S Fighter (A2A) mod-1_4
+[BDArmory.BDACompetitionMode:209270495]: WHOHITWHOWITHMISSILES:AL-57 Kalina_1:1:Type-404S Fighter (A2A) mod-1_4:1:Type-404S Fighter (A2A) mod-1_1
+[BDArmory.BDACompetitionMode:209270495]: WHOHITWHOWITHMISSILES:AL-27 Kallistemon:1:Type-404S Fighter (A2A) mod-1_1:1:Type-404S Fighter (A2A) mod-1_5
+[BDArmory.BDACompetitionMode:209270495]: WHOHITWHOWITHMISSILES:AL-27 Kallistemon_1:1:AL-57 Kalina_1:2:Type-404S Fighter (A2A) mod-1_2:2:Type-404S Fighter (A2A) mod-1_5
+[BDArmory.BDACompetitionMode:209270495]: WHOPARTSHITWHOWITHMISSILES:Type-404S Fighter (A2A) mod-1:88:AL-27 Kallistemon_1:67:AL-57 Kalina_1:70:AL-57 Kalina_2
+[BDArmory.BDACompetitionMode:209270495]: WHOPARTSHITWHOWITHMISSILES:Type-404S Fighter (A2A) mod-1_1:165:AL-57 Kalina_2
+[BDArmory.BDACompetitionMode:209270495]: WHOPARTSHITWHOWITHMISSILES:Type-404S Fighter (A2A) mod-1_2:96:AL-27 Kallistemon_1
+[BDArmory.BDACompetitionMode:209270495]: WHOPARTSHITWHOWITHMISSILES:Type-404S Fighter (A2A) mod-1_3:94:AL-57 Kalina
+[BDArmory.BDACompetitionMode:209270495]: WHOPARTSHITWHOWITHMISSILES:Type-404S Fighter (A2A) mod-1_4:94:AL-57 Kalina
+[BDArmory.BDACompetitionMode:209270495]: WHOPARTSHITWHOWITHMISSILES:Type-404S Fighter (A2A) mod-1_5:84:AL-27 Kallistemon_1
+[BDArmory.BDACompetitionMode:209270495]: WHOPARTSHITWHOWITHMISSILES:AL-57 Kalina:108:Type-404S Fighter (A2A) mod-1_4
+[BDArmory.BDACompetitionMode:209270495]: WHOPARTSHITWHOWITHMISSILES:AL-57 Kalina_1:112:Type-404S Fighter (A2A) mod-1_4:105:Type-404S Fighter (A2A) mod-1_1
+[BDArmory.BDACompetitionMode:209270495]: WHOPARTSHITWHOWITHMISSILES:AL-27 Kallistemon:135:Type-404S Fighter (A2A) mod-1_1:142:Type-404S Fighter (A2A) mod-1_5
+[BDArmory.BDACompetitionMode:209270495]: WHOPARTSHITWHOWITHMISSILES:AL-27 Kallistemon_1:132:AL-57 Kalina_1:194:Type-404S Fighter (A2A) mod-1_2:101:Type-404S Fighter (A2A) mod-1_5
+[BDArmory.BDACompetitionMode:209270495]: WHODAMAGEDWHOWITHMISSILES:Type-404S Fighter (A2A) mod-1:17239.9:AL-27 Kallistemon_1:57652.5:AL-57 Kalina_2
+[BDArmory.BDACompetitionMode:209270495]: WHODAMAGEDWHOWITHMISSILES:Type-404S Fighter (A2A) mod-1_1:21300.0:AL-57 Kalina_2
+[BDArmory.BDACompetitionMode:209270495]: WHODAMAGEDWHOWITHMISSILES:Type-404S Fighter (A2A) mod-1_2:20050.0:AL-27 Kallistemon_1
+[BDArmory.BDACompetitionMode:209270495]: WHODAMAGEDWHOWITHMISSILES:Type-404S Fighter (A2A) mod-1_3:56755.0:AL-57 Kalina
+[BDArmory.BDACompetitionMode:209270495]: WHODAMAGEDWHOWITHMISSILES:Type-404S Fighter (A2A) mod-1_4:72060.1:AL-57 Kalina
+[BDArmory.BDACompetitionMode:209270495]: WHODAMAGEDWHOWITHMISSILES:Type-404S Fighter (A2A) mod-1_5:1.2:AL-27 Kallistemon_1
+[BDArmory.BDACompetitionMode:209270495]: WHODAMAGEDWHOWITHMISSILES:AL-57 Kalina_1:7562.7:Type-404S Fighter (A2A) mod-1_4:7631.5:Type-404S Fighter (A2A) mod-1_1
+[BDArmory.BDACompetitionMode:209270495]: WHODAMAGEDWHOWITHMISSILES:AL-27 Kallistemon:43345.5:Type-404S Fighter (A2A) mod-1_1
+[BDArmory.BDACompetitionMode:209270495]: WHODAMAGEDWHOWITHMISSILES:AL-27 Kallistemon_1:117382.4:Type-404S Fighter (A2A) mod-1_2:33907.6:Type-404S Fighter (A2A) mod-1_5
+[BDArmory.BDACompetitionMode:209270495]: WHODAMAGEDWHOWITHBATTLEDAMAGE:Type-404S Fighter (A2A) mod-1_1:20612.3:AL-57 Kalina_2
+[BDArmory.BDACompetitionMode:209270495]: WHODAMAGEDWHOWITHBATTLEDAMAGE:Type-404S Fighter (A2A) mod-1_2:28.5:AL-27 Kallistemon_1:16055.5:Type-404S Fighter (A2A) mod-1_2
+[BDArmory.BDACompetitionMode:209270495]: WHODAMAGEDWHOWITHBATTLEDAMAGE:Type-404S Fighter (A2A) mod-1_3:10645.7:AL-57 Kalina:17155.0:Type-404S Fighter (A2A) mod-1_3
+[BDArmory.BDACompetitionMode:209270495]: WHODAMAGEDWHOWITHBATTLEDAMAGE:Type-404S Fighter (A2A) mod-1_4:166.6:AL-57 Kalina_2:5936.9:Type-404S Fighter (A2A) mod-1_4
+[BDArmory.BDACompetitionMode:209270495]: WHODAMAGEDWHOWITHBATTLEDAMAGE:Type-404S Fighter (A2A) mod-1_5:208.5:AL-27 Kallistemon_1:10680.5:AL-57 Kalina:8068.4:Type-404S Fighter (A2A) mod-1_5
+[BDArmory.BDACompetitionMode:209270495]: WHODAMAGEDWHOWITHBATTLEDAMAGE:AL-57 Kalina_2:77.0:Type-404S Fighter (A2A) mod-1_3:22066.6:AL-57 Kalina_2
+[BDArmory.BDACompetitionMode:209270495]: GMKILL:Type-404S Fighter (A2A) mod-1:BigRedButton
+[BDArmory.BDACompetitionMode:209270495]: GMKILL:Type-404S Fighter (A2A) mod-1_1:BigRedButton
+[BDArmory.BDACompetitionMode:209270495]: GMKILL:Type-404S Fighter (A2A) mod-1_2:BigRedButton
+[BDArmory.BDACompetitionMode:209270495]: GMKILL:Type-404S Fighter (A2A) mod-1_3:BigRedButton
+[BDArmory.BDACompetitionMode:209270495]: GMKILL:Type-404S Fighter (A2A) mod-1_4:BigRedButton
+[BDArmory.BDACompetitionMode:209270495]: GMKILL:Type-404S Fighter (A2A) mod-1_5:BigRedButton
+[BDArmory.BDACompetitionMode:209270495]: GMKILL:AL-27 Kallistemon_1:BigRedButton
+[BDArmory.BDACompetitionMode:209270495]: GMKILL:AL-57 Kalina_2:BigRedButton
+[BDArmory.BDACompetitionMode:209270495]: KILLSTEALMISSILES:AL-27 Kallistemon:Type-404S Fighter (A2A) mod-1_5
+[BDArmory.BDACompetitionMode:209270495]: HPLEFT:Type-404S Fighter (A2A) mod-1:0
+[BDArmory.BDACompetitionMode:209270495]: HPLEFT:Type-404S Fighter (A2A) mod-1_1:0
+[BDArmory.BDACompetitionMode:209270495]: HPLEFT:Type-404S Fighter (A2A) mod-1_2:0
+[BDArmory.BDACompetitionMode:209270495]: HPLEFT:Type-404S Fighter (A2A) mod-1_3:0
+[BDArmory.BDACompetitionMode:209270495]: HPLEFT:Type-404S Fighter (A2A) mod-1_4:0
+[BDArmory.BDACompetitionMode:209270495]: HPLEFT:Type-404S Fighter (A2A) mod-1_5:0
+[BDArmory.BDACompetitionMode:209270495]: HPLEFT:AL-57 Kalina:100
+[BDArmory.BDACompetitionMode:209270495]: HPLEFT:AL-57 Kalina_1:0
+[BDArmory.BDACompetitionMode:209270495]: HPLEFT:AL-27 Kallistemon:0
+[BDArmory.BDACompetitionMode:209270495]: HPLEFT:AL-27 Kallistemon_1:0
+[BDArmory.BDACompetitionMode:209270495]: HPLEFT:AL-57 Kalina_2:0
+[BDArmory.BDACompetitionMode:209270495]: ACCURACY:Type-404S Fighter (A2A) mod-1:0/0:0/0
+[BDArmory.BDACompetitionMode:209270495]: ACCURACY:Type-404S Fighter (A2A) mod-1_1:0/1:0/0
+[BDArmory.BDACompetitionMode:209270495]: ACCURACY:Type-404S Fighter (A2A) mod-1_2:0/0:0/0
+[BDArmory.BDACompetitionMode:209270495]: ACCURACY:Type-404S Fighter (A2A) mod-1_3:4/287:0/0
+[BDArmory.BDACompetitionMode:209270495]: ACCURACY:Type-404S Fighter (A2A) mod-1_4:0/1:0/0
+[BDArmory.BDACompetitionMode:209270495]: ACCURACY:Type-404S Fighter (A2A) mod-1_5:0/63:0/0
+[BDArmory.BDACompetitionMode:209270495]: ACCURACY:AL-57 Kalina:91/485:0/0
+[BDArmory.BDACompetitionMode:209270495]: ACCURACY:AL-57 Kalina_1:0/0:0/0
+[BDArmory.BDACompetitionMode:209270495]: ACCURACY:AL-27 Kallistemon:0/0:0/0
+[BDArmory.BDACompetitionMode:209270495]: ACCURACY:AL-27 Kallistemon_1:0/0:0/0
+[BDArmory.BDACompetitionMode:209270495]: ACCURACY:AL-57 Kalina_2:7/14:0/0

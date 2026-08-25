@@ -1,0 +1,22 @@
+[BDArmory.BDACompetitionMode:196580464]: Dumping Results after -7s (of 0s) at 2026-03-25 05:42:39 -04:00
+[BDArmory.BDACompetitionMode:196580464]: RESULT:Draw:[{"team": "AS-124 (tony flares)", "members": ["AS-124 (tony flares)", "AS-124 (tony flares)_1"]}, {"team": "PLAID AIF-42C5B LRP", "members": ["PLAID AIF-42C5B LRP", "PLAID AIF-42C5B LRP_1"]}]
+[BDArmory.BDACompetitionMode:196580464]: DEADTEAMS:[]
+[BDArmory.BDACompetitionMode:196580464]: ALIVE:AS-124 (tony flares)
+[BDArmory.BDACompetitionMode:196580464]: ALIVE:AS-124 (tony flares)_1
+[BDArmory.BDACompetitionMode:196580464]: MIA:PLAID AIF-42C5B LRP
+[BDArmory.BDACompetitionMode:196580464]: DEAD:0:88.0:PLAID AIF-42C5B LRP_1
+[BDArmory.BDACompetitionMode:196580464]: WHOHITWHOWITHMISSILES:PLAID AIF-42C5B LRP:2:AS-124 (tony flares):3:AS-124 (tony flares)_1
+[BDArmory.BDACompetitionMode:196580464]: WHOHITWHOWITHMISSILES:PLAID AIF-42C5B LRP_1:1:AS-124 (tony flares)_1:1:AS-124 (tony flares)
+[BDArmory.BDACompetitionMode:196580464]: WHOPARTSHITWHOWITHMISSILES:PLAID AIF-42C5B LRP:136:AS-124 (tony flares):154:AS-124 (tony flares)_1
+[BDArmory.BDACompetitionMode:196580464]: WHOPARTSHITWHOWITHMISSILES:PLAID AIF-42C5B LRP_1:59:AS-124 (tony flares)_1:11:AS-124 (tony flares)
+[BDArmory.BDACompetitionMode:196580464]: WHODAMAGEDWHOWITHMISSILES:PLAID AIF-42C5B LRP:31689.7:AS-124 (tony flares)_1
+[BDArmory.BDACompetitionMode:196580464]: WHODAMAGEDWHOWITHMISSILES:PLAID AIF-42C5B LRP_1:6773.0:AS-124 (tony flares)_1:5885.3:AS-124 (tony flares)
+[BDArmory.BDACompetitionMode:196580464]: HEADSHOTMISSILES:PLAID AIF-42C5B LRP_1:AS-124 (tony flares)
+[BDArmory.BDACompetitionMode:196580464]: HPLEFT:AS-124 (tony flares):100
+[BDArmory.BDACompetitionMode:196580464]: HPLEFT:AS-124 (tony flares)_1:100
+[BDArmory.BDACompetitionMode:196580464]: HPLEFT:PLAID AIF-42C5B LRP:23.1707317073171
+[BDArmory.BDACompetitionMode:196580464]: HPLEFT:PLAID AIF-42C5B LRP_1:0
+[BDArmory.BDACompetitionMode:196580464]: ACCURACY:AS-124 (tony flares):0/15:0/0
+[BDArmory.BDACompetitionMode:196580464]: ACCURACY:AS-124 (tony flares)_1:0/13:0/0
+[BDArmory.BDACompetitionMode:196580464]: ACCURACY:PLAID AIF-42C5B LRP:0/0:0/0
+[BDArmory.BDACompetitionMode:196580464]: ACCURACY:PLAID AIF-42C5B LRP_1:0/24:0/0

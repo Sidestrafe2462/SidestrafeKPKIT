@@ -1,0 +1,45 @@
+[BDArmory.BDACompetitionMode:201234327]: Dumping Results after 12s (of 0s) at 2026-05-18 02:26:29 -04:00
+[BDArmory.BDACompetitionMode:201234327]: RESULT:Draw:[{"team": "IU", "members": ["K-73 NMX 17", "K-73 NMX 17_1", "K-73 NMX 17_2", "K-60 \"Caraxes\" NWO 13", "K-60 \"Caraxes\" NWO 13_1", "K-60 \"Caraxes\" NWO 13_2"]}, {"team": "IRSUM CAP", "members": ["AL-27 Kallistemon", "AL-34 Arnika", "AL-27 Kallistemon_1", "AL-34 Arnika_1", "AL-27 Kallistemon_2", "AL-34 Arnika_2", "AL-34 Arnika_3", "AL-27 Kallistemon_3"]}]
+[BDArmory.BDACompetitionMode:201234327]: DEADTEAMS:[]
+[BDArmory.BDACompetitionMode:201234327]: ALIVE:K-73 NMX 17
+[BDArmory.BDACompetitionMode:201234327]: ALIVE:K-60 "Caraxes" NWO 13
+[BDArmory.BDACompetitionMode:201234327]: ALIVE:K-60 "Caraxes" NWO 13_1
+[BDArmory.BDACompetitionMode:201234327]: ALIVE:K-60 "Caraxes" NWO 13_2
+[BDArmory.BDACompetitionMode:201234327]: ALIVE:AL-27 Kallistemon
+[BDArmory.BDACompetitionMode:201234327]: ALIVE:AL-34 Arnika
+[BDArmory.BDACompetitionMode:201234327]: ALIVE:AL-27 Kallistemon_1
+[BDArmory.BDACompetitionMode:201234327]: ALIVE:AL-34 Arnika_1
+[BDArmory.BDACompetitionMode:201234327]: ALIVE:AL-27 Kallistemon_2
+[BDArmory.BDACompetitionMode:201234327]: ALIVE:AL-34 Arnika_2
+[BDArmory.BDACompetitionMode:201234327]: ALIVE:AL-34 Arnika_3
+[BDArmory.BDACompetitionMode:201234327]: ALIVE:AL-27 Kallistemon_3
+[BDArmory.BDACompetitionMode:201234327]: MIA:K-73 NMX 17_1
+[BDArmory.BDACompetitionMode:201234327]: DEAD:0:7.0:K-73 NMX 17_2
+[BDArmory.BDACompetitionMode:201234327]: HPLEFT:K-73 NMX 17:100
+[BDArmory.BDACompetitionMode:201234327]: HPLEFT:K-73 NMX 17_1:0
+[BDArmory.BDACompetitionMode:201234327]: HPLEFT:K-73 NMX 17_2:0
+[BDArmory.BDACompetitionMode:201234327]: HPLEFT:K-60 "Caraxes" NWO 13:100
+[BDArmory.BDACompetitionMode:201234327]: HPLEFT:K-60 "Caraxes" NWO 13_1:100
+[BDArmory.BDACompetitionMode:201234327]: HPLEFT:K-60 "Caraxes" NWO 13_2:100
+[BDArmory.BDACompetitionMode:201234327]: HPLEFT:AL-27 Kallistemon:100
+[BDArmory.BDACompetitionMode:201234327]: HPLEFT:AL-34 Arnika:100
+[BDArmory.BDACompetitionMode:201234327]: HPLEFT:AL-27 Kallistemon_1:100
+[BDArmory.BDACompetitionMode:201234327]: HPLEFT:AL-34 Arnika_1:100
+[BDArmory.BDACompetitionMode:201234327]: HPLEFT:AL-27 Kallistemon_2:100
+[BDArmory.BDACompetitionMode:201234327]: HPLEFT:AL-34 Arnika_2:100
+[BDArmory.BDACompetitionMode:201234327]: HPLEFT:AL-34 Arnika_3:100
+[BDArmory.BDACompetitionMode:201234327]: HPLEFT:AL-27 Kallistemon_3:100
+[BDArmory.BDACompetitionMode:201234327]: ACCURACY:K-73 NMX 17:0/0:0/0
+[BDArmory.BDACompetitionMode:201234327]: ACCURACY:K-73 NMX 17_1:0/0:0/0
+[BDArmory.BDACompetitionMode:201234327]: ACCURACY:K-73 NMX 17_2:0/0:0/0
+[BDArmory.BDACompetitionMode:201234327]: ACCURACY:K-60 "Caraxes" NWO 13:0/0:0/0
+[BDArmory.BDACompetitionMode:201234327]: ACCURACY:K-60 "Caraxes" NWO 13_1:0/0:0/0
+[BDArmory.BDACompetitionMode:201234327]: ACCURACY:K-60 "Caraxes" NWO 13_2:0/0:0/0
+[BDArmory.BDACompetitionMode:201234327]: ACCURACY:AL-27 Kallistemon:0/0:0/0
+[BDArmory.BDACompetitionMode:201234327]: ACCURACY:AL-34 Arnika:0/0:0/0
+[BDArmory.BDACompetitionMode:201234327]: ACCURACY:AL-27 Kallistemon_1:0/0:0/0
+[BDArmory.BDACompetitionMode:201234327]: ACCURACY:AL-34 Arnika_1:0/0:0/0
+[BDArmory.BDACompetitionMode:201234327]: ACCURACY:AL-27 Kallistemon_2:0/0:0/0
+[BDArmory.BDACompetitionMode:201234327]: ACCURACY:AL-34 Arnika_2:0/0:0/0
+[BDArmory.BDACompetitionMode:201234327]: ACCURACY:AL-34 Arnika_3:0/0:0/0
+[BDArmory.BDACompetitionMode:201234327]: ACCURACY:AL-27 Kallistemon_3:0/0:0/0

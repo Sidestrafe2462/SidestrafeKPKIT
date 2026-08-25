@@ -1,0 +1,32 @@
+[BDArmory.BDACompetitionMode:196581492]: Dumping Results after 112s (of 0s) at 2026-03-25 06:00:10 -04:00
+[BDArmory.BDACompetitionMode:196581492]: RESULT:Win:{"team": "KJ-56M10_9 Tiger Heron", "members": ["KJ-56M10.9 Tiger Heron", "KJ-56M10.9 Tiger Heron_1"]}
+[BDArmory.BDACompetitionMode:196581492]: DEADTEAMS:[{"team": "AS-124 (tony flares)", "members": ["AS-124 (tony flares)", "AS-124 (tony flares)_1"]}]
+[BDArmory.BDACompetitionMode:196581492]: ALIVE:KJ-56M10.9 Tiger Heron_1
+[BDArmory.BDACompetitionMode:196581492]: DEAD:1:101.0:AS-124 (tony flares)
+[BDArmory.BDACompetitionMode:196581492]: DEAD:2:101.0:AS-124 (tony flares)_1
+[BDArmory.BDACompetitionMode:196581492]: DEAD:0:61.0:KJ-56M10.9 Tiger Heron
+[BDArmory.BDACompetitionMode:196581492]: WHOSHOTWHOWITHGUNS:AS-124 (tony flares):7:KJ-56M10.9 Tiger Heron_1
+[BDArmory.BDACompetitionMode:196581492]: WHOSHOTWHOWITHGUNS:KJ-56M10.9 Tiger Heron_1:7:AS-124 (tony flares):4:AS-124 (tony flares)_1
+[BDArmory.BDACompetitionMode:196581492]: WHODAMAGEDWHOWITHGUNS:AS-124 (tony flares):2020.6:KJ-56M10.9 Tiger Heron_1
+[BDArmory.BDACompetitionMode:196581492]: WHODAMAGEDWHOWITHGUNS:KJ-56M10.9 Tiger Heron_1:2015.6:AS-124 (tony flares):1357.8:AS-124 (tony flares)_1
+[BDArmory.BDACompetitionMode:196581492]: WHOHITWHOWITHMISSILES:AS-124 (tony flares):1:KJ-56M10.9 Tiger Heron_1
+[BDArmory.BDACompetitionMode:196581492]: WHOHITWHOWITHMISSILES:KJ-56M10.9 Tiger Heron:2:AS-124 (tony flares)
+[BDArmory.BDACompetitionMode:196581492]: WHOHITWHOWITHMISSILES:KJ-56M10.9 Tiger Heron_1:1:AS-124 (tony flares)_1
+[BDArmory.BDACompetitionMode:196581492]: WHOPARTSHITWHOWITHMISSILES:AS-124 (tony flares):14:KJ-56M10.9 Tiger Heron_1
+[BDArmory.BDACompetitionMode:196581492]: WHOPARTSHITWHOWITHMISSILES:KJ-56M10.9 Tiger Heron:59:AS-124 (tony flares)
+[BDArmory.BDACompetitionMode:196581492]: WHOPARTSHITWHOWITHMISSILES:KJ-56M10.9 Tiger Heron_1:58:AS-124 (tony flares)_1
+[BDArmory.BDACompetitionMode:196581492]: WHODAMAGEDWHOWITHMISSILES:AS-124 (tony flares):2982.1:KJ-56M10.9 Tiger Heron_1
+[BDArmory.BDACompetitionMode:196581492]: WHODAMAGEDWHOWITHMISSILES:KJ-56M10.9 Tiger Heron:35103.3:AS-124 (tony flares)
+[BDArmory.BDACompetitionMode:196581492]: WHODAMAGEDWHOWITHBATTLEDAMAGE:AS-124 (tony flares):2.6:KJ-56M10.9 Tiger Heron_1:13287.4:AS-124 (tony flares)
+[BDArmory.BDACompetitionMode:196581492]: WHODAMAGEDWHOWITHBATTLEDAMAGE:KJ-56M10.9 Tiger Heron:0.1:AS-124 (tony flares)
+[BDArmory.BDACompetitionMode:196581492]: WHODAMAGEDWHOWITHBATTLEDAMAGE:KJ-56M10.9 Tiger Heron_1:100.2:AS-124 (tony flares):100.2:AS-124 (tony flares)_1
+[BDArmory.BDACompetitionMode:196581492]: CLEANKILLGUNS:AS-124 (tony flares):KJ-56M10.9 Tiger Heron_1
+[BDArmory.BDACompetitionMode:196581492]: CLEANKILLMISSILES:KJ-56M10.9 Tiger Heron:AS-124 (tony flares)
+[BDArmory.BDACompetitionMode:196581492]: HPLEFT:AS-124 (tony flares):0
+[BDArmory.BDACompetitionMode:196581492]: HPLEFT:AS-124 (tony flares)_1:0
+[BDArmory.BDACompetitionMode:196581492]: HPLEFT:KJ-56M10.9 Tiger Heron:0
+[BDArmory.BDACompetitionMode:196581492]: HPLEFT:KJ-56M10.9 Tiger Heron_1:98.5294117647059
+[BDArmory.BDACompetitionMode:196581492]: ACCURACY:AS-124 (tony flares):7/54:0/0
+[BDArmory.BDACompetitionMode:196581492]: ACCURACY:AS-124 (tony flares)_1:4/26:0/0
+[BDArmory.BDACompetitionMode:196581492]: ACCURACY:KJ-56M10.9 Tiger Heron:0/0:0/0
+[BDArmory.BDACompetitionMode:196581492]: ACCURACY:KJ-56M10.9 Tiger Heron_1:7/24:0/0

@@ -1,0 +1,15 @@
+[BDArmory.BDACompetitionMode:202185695]: Dumping Results after -20s (of 0s) at 2026-05-29 02:46:09 -04:00
+[BDArmory.BDACompetitionMode:202185695]: RESULT:Mutual Annihilation
+[BDArmory.BDACompetitionMode:202185695]: DEADTEAMS:[{"team": "Q-09 III Jahesh", "members": ["Q-09 III Jahesh"]}, {"team": "AIF-38C", "members": ["AIF-38C"]}]
+[BDArmory.BDACompetitionMode:202185695]: DEAD:0:206.0:Q-09 III Jahesh
+[BDArmory.BDACompetitionMode:202185695]: MIA:AIF-38C
+[BDArmory.BDACompetitionMode:202185695]: WHOSHOTWHOWITHGUNS:Q-09 III Jahesh:246:AIF-38C
+[BDArmory.BDACompetitionMode:202185695]: WHOSHOTWHOWITHGUNS:AIF-38C:72:Q-09 III Jahesh
+[BDArmory.BDACompetitionMode:202185695]: WHOHITWHOWITHMISSILES:Q-09 III Jahesh:3:AIF-38C
+[BDArmory.BDACompetitionMode:202185695]: WHOPARTSHITWHOWITHMISSILES:Q-09 III Jahesh:270:AIF-38C
+[BDArmory.BDACompetitionMode:202185695]: WHORAMMEDWHO:Q-09 III Jahesh:102:AIF-38C
+[BDArmory.BDACompetitionMode:202185695]: CLEANKILLRAMMING:Q-09 III Jahesh:AIF-38C
+[BDArmory.BDACompetitionMode:202185695]: HPLEFT:Q-09 III Jahesh:0
+[BDArmory.BDACompetitionMode:202185695]: HPLEFT:AIF-38C:0
+[BDArmory.BDACompetitionMode:202185695]: ACCURACY:Q-09 III Jahesh:72/1210:0/0
+[BDArmory.BDACompetitionMode:202185695]: ACCURACY:AIF-38C:246/1399:0/0

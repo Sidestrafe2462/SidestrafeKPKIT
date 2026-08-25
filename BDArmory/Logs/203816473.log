@@ -1,0 +1,17 @@
+[BDArmory.BDACompetitionMode:203816473]: Dumping Results after 46s (of 0s) at 2026-06-16 23:42:02 -04:00
+[BDArmory.BDACompetitionMode:203816473]: RESULT:Win:{"team": "AIF-38D1", "members": ["AIF-38D1"]}
+[BDArmory.BDACompetitionMode:203816473]: DEADTEAMS:[{"team": "AL-68 Proleska Comet", "members": ["AL-68 Proleska Comet"]}]
+[BDArmory.BDACompetitionMode:203816473]: ALIVE:AIF-38D1
+[BDArmory.BDACompetitionMode:203816473]: DEAD:0:41.0:AL-68 Proleska Comet
+[BDArmory.BDACompetitionMode:203816473]: WHOHITWHOWITHMISSILES:AIF-38D1:1:AL-68 Proleska Comet
+[BDArmory.BDACompetitionMode:203816473]: WHOHITWHOWITHMISSILES:AL-68 Proleska Comet:1:AIF-38D1
+[BDArmory.BDACompetitionMode:203816473]: WHOPARTSHITWHOWITHMISSILES:AIF-38D1:102:AL-68 Proleska Comet
+[BDArmory.BDACompetitionMode:203816473]: WHOPARTSHITWHOWITHMISSILES:AL-68 Proleska Comet:64:AIF-38D1
+[BDArmory.BDACompetitionMode:203816473]: WHODAMAGEDWHOWITHMISSILES:AIF-38D1:12086.0:AL-68 Proleska Comet
+[BDArmory.BDACompetitionMode:203816473]: WHODAMAGEDWHOWITHMISSILES:AL-68 Proleska Comet:30887.1:AIF-38D1
+[BDArmory.BDACompetitionMode:203816473]: WHODAMAGEDWHOWITHBATTLEDAMAGE:AL-68 Proleska Comet:0.1:AIF-38D1
+[BDArmory.BDACompetitionMode:203816473]: CLEANKILLMISSILES:AL-68 Proleska Comet:AIF-38D1
+[BDArmory.BDACompetitionMode:203816473]: HPLEFT:AIF-38D1:95.2380952380952
+[BDArmory.BDACompetitionMode:203816473]: HPLEFT:AL-68 Proleska Comet:0
+[BDArmory.BDACompetitionMode:203816473]: ACCURACY:AIF-38D1:0/0:0/0
+[BDArmory.BDACompetitionMode:203816473]: ACCURACY:AL-68 Proleska Comet:0/0:0/0

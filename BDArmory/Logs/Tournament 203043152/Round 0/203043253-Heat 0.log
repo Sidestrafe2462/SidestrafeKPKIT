@@ -1,0 +1,45 @@
+[BDArmory.BDACompetitionMode:203043253]: Dumping Results after 154s (of 0s) at 2026-06-08 01:02:37 -04:00
+[BDArmory.BDACompetitionMode:203043253]: RESULT:Draw:[{"team": "innocent buses full of civilians", "members": ["Irsmun Civil Harmony Dirigible", "Irsmun Peace Enforcement Balloon", "Irsmun Peace Enforcement Balloon_1", "Irsmun Moral Guidance Aerostat"]}, {"team": "dastardly civilian killing imperials", "members": ["K-71PT A2B II", "K-71PT A2B", "K-71PT A2B_1"]}]
+[BDArmory.BDACompetitionMode:203043253]: DEADTEAMS:[]
+[BDArmory.BDACompetitionMode:203043253]: ALIVE:K-71PT A2B_1
+[BDArmory.BDACompetitionMode:203043253]: MIA:Irsmun Civil Harmony Dirigible
+[BDArmory.BDACompetitionMode:203043253]: DEAD:0:96.0:Irsmun Peace Enforcement Balloon
+[BDArmory.BDACompetitionMode:203043253]: DEAD:2:129.0:Irsmun Peace Enforcement Balloon_1
+[BDArmory.BDACompetitionMode:203043253]: MIA:Irsmun Moral Guidance Aerostat
+[BDArmory.BDACompetitionMode:203043253]: DEAD:1:122.0:K-71PT A2B II
+[BDArmory.BDACompetitionMode:203043253]: DEAD:3:146.0:K-71PT A2B
+[BDArmory.BDACompetitionMode:203043253]: WHOHITWHOWITHMISSILES:Irsmun Civil Harmony Dirigible:5:K-71PT A2B II
+[BDArmory.BDACompetitionMode:203043253]: WHOHITWHOWITHMISSILES:Irsmun Peace Enforcement Balloon:2:K-71PT A2B II:14:K-71PT A2B:1:K-71PT A2B_1
+[BDArmory.BDACompetitionMode:203043253]: WHOHITWHOWITHMISSILES:Irsmun Peace Enforcement Balloon_1:2:K-71PT A2B II:8:K-71PT A2B_1
+[BDArmory.BDACompetitionMode:203043253]: WHOHITWHOWITHMISSILES:Irsmun Moral Guidance Aerostat:5:K-71PT A2B_1
+[BDArmory.BDACompetitionMode:203043253]: WHOHITWHOWITHMISSILES:K-71PT A2B II:2:Irsmun Moral Guidance Aerostat
+[BDArmory.BDACompetitionMode:203043253]: WHOPARTSHITWHOWITHMISSILES:Irsmun Civil Harmony Dirigible:874:K-71PT A2B II
+[BDArmory.BDACompetitionMode:203043253]: WHOPARTSHITWHOWITHMISSILES:Irsmun Peace Enforcement Balloon:374:K-71PT A2B II:2808:K-71PT A2B:218:K-71PT A2B_1
+[BDArmory.BDACompetitionMode:203043253]: WHOPARTSHITWHOWITHMISSILES:Irsmun Peace Enforcement Balloon_1:514:K-71PT A2B II:1613:K-71PT A2B_1
+[BDArmory.BDACompetitionMode:203043253]: WHOPARTSHITWHOWITHMISSILES:Irsmun Moral Guidance Aerostat:1184:K-71PT A2B_1
+[BDArmory.BDACompetitionMode:203043253]: WHOPARTSHITWHOWITHMISSILES:K-71PT A2B II:214:Irsmun Moral Guidance Aerostat
+[BDArmory.BDACompetitionMode:203043253]: WHODAMAGEDWHOWITHMISSILES:Irsmun Civil Harmony Dirigible:717407.9:K-71PT A2B II
+[BDArmory.BDACompetitionMode:203043253]: WHODAMAGEDWHOWITHMISSILES:Irsmun Peace Enforcement Balloon:64019.5:K-71PT A2B:7351.9:K-71PT A2B_1
+[BDArmory.BDACompetitionMode:203043253]: WHODAMAGEDWHOWITHMISSILES:Irsmun Peace Enforcement Balloon_1:718161.6:K-71PT A2B II:42373.3:K-71PT A2B_1
+[BDArmory.BDACompetitionMode:203043253]: WHODAMAGEDWHOWITHMISSILES:Irsmun Moral Guidance Aerostat:107192.0:K-71PT A2B_1
+[BDArmory.BDACompetitionMode:203043253]: WHODAMAGEDWHOWITHMISSILES:K-71PT A2B II:379164.0:Irsmun Moral Guidance Aerostat
+[BDArmory.BDACompetitionMode:203043253]: WHODAMAGEDWHOWITHBATTLEDAMAGE:Irsmun Civil Harmony Dirigible:126509.5:K-71PT A2B II
+[BDArmory.BDACompetitionMode:203043253]: WHODAMAGEDWHOWITHBATTLEDAMAGE:Irsmun Peace Enforcement Balloon:2196.8:K-71PT A2B
+[BDArmory.BDACompetitionMode:203043253]: WHODAMAGEDWHOWITHBATTLEDAMAGE:Irsmun Moral Guidance Aerostat:100.3:K-71PT A2B_1
+[BDArmory.BDACompetitionMode:203043253]: WHODAMAGEDWHOWITHBATTLEDAMAGE:K-71PT A2B II:0.2:Irsmun Moral Guidance Aerostat
+[BDArmory.BDACompetitionMode:203043253]: KILLSTEALMISSILES:Irsmun Peace Enforcement Balloon:K-71PT A2B
+[BDArmory.BDACompetitionMode:203043253]: CLEANKILLMISSILES:K-71PT A2B II:Irsmun Moral Guidance Aerostat
+[BDArmory.BDACompetitionMode:203043253]: HPLEFT:Irsmun Civil Harmony Dirigible:48.2758620689655
+[BDArmory.BDACompetitionMode:203043253]: HPLEFT:Irsmun Peace Enforcement Balloon:0
+[BDArmory.BDACompetitionMode:203043253]: HPLEFT:Irsmun Peace Enforcement Balloon_1:0
+[BDArmory.BDACompetitionMode:203043253]: HPLEFT:Irsmun Moral Guidance Aerostat:80.9128630705394
+[BDArmory.BDACompetitionMode:203043253]: HPLEFT:K-71PT A2B II:0
+[BDArmory.BDACompetitionMode:203043253]: HPLEFT:K-71PT A2B:0
+[BDArmory.BDACompetitionMode:203043253]: HPLEFT:K-71PT A2B_1:100
+[BDArmory.BDACompetitionMode:203043253]: ACCURACY:Irsmun Civil Harmony Dirigible:0/41:0/0
+[BDArmory.BDACompetitionMode:203043253]: ACCURACY:Irsmun Peace Enforcement Balloon:0/799:0/0
+[BDArmory.BDACompetitionMode:203043253]: ACCURACY:Irsmun Peace Enforcement Balloon_1:0/295:0/0
+[BDArmory.BDACompetitionMode:203043253]: ACCURACY:Irsmun Moral Guidance Aerostat:0/28:0/0
+[BDArmory.BDACompetitionMode:203043253]: ACCURACY:K-71PT A2B II:0/0:0/0
+[BDArmory.BDACompetitionMode:203043253]: ACCURACY:K-71PT A2B:0/0:0/0
+[BDArmory.BDACompetitionMode:203043253]: ACCURACY:K-71PT A2B_1:0/0:0/0

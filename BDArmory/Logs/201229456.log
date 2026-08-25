@@ -1,0 +1,64 @@
+[BDArmory.BDACompetitionMode:201229456]: Dumping Results after 3s (of 0s) at 2026-05-18 01:04:58 -04:00
+[BDArmory.BDACompetitionMode:201229456]: RESULT:Draw:[{"team": "IRSUM CAP", "members": ["AL-34 Arnika", "AL-34 Arnika_1", "AL-34 Arnika_2", "AL-27 Kallistemon", "AL-34 Arnika_3", "AL-68 Proleska", "AL-27 Kallistemon_1", "AL-27 Kallistemon_2", "AL-27 Kallistemon_3", "AL-34 Arnika_4", "AL-27 Kallistemon_4"]}, {"team": "PVC", "members": ["F-52F-20 Kargadan KWS I CWI", "Z-41D-5.5", "AS-124 sidestrafe missile test", "AS-124 sidestrafe missile test_1", "AIF-38C", "AS-124 sidestrafe missile test_2", "SRC-102S \"Magpie\"", "Z-55G", "PLAID AIF-42C5B LRP"]}]
+[BDArmory.BDACompetitionMode:201229456]: DEADTEAMS:[]
+[BDArmory.BDACompetitionMode:201229456]: ALIVE:AL-34 Arnika
+[BDArmory.BDACompetitionMode:201229456]: ALIVE:AL-34 Arnika_1
+[BDArmory.BDACompetitionMode:201229456]: ALIVE:AL-34 Arnika_2
+[BDArmory.BDACompetitionMode:201229456]: ALIVE:AL-27 Kallistemon
+[BDArmory.BDACompetitionMode:201229456]: ALIVE:AL-34 Arnika_3
+[BDArmory.BDACompetitionMode:201229456]: ALIVE:AL-68 Proleska
+[BDArmory.BDACompetitionMode:201229456]: ALIVE:AL-27 Kallistemon_1
+[BDArmory.BDACompetitionMode:201229456]: ALIVE:AL-27 Kallistemon_2
+[BDArmory.BDACompetitionMode:201229456]: ALIVE:AL-27 Kallistemon_3
+[BDArmory.BDACompetitionMode:201229456]: ALIVE:AL-34 Arnika_4
+[BDArmory.BDACompetitionMode:201229456]: ALIVE:AL-27 Kallistemon_4
+[BDArmory.BDACompetitionMode:201229456]: ALIVE:F-52F-20 Kargadan KWS I CWI
+[BDArmory.BDACompetitionMode:201229456]: ALIVE:Z-41D-5.5
+[BDArmory.BDACompetitionMode:201229456]: ALIVE:AS-124 sidestrafe missile test
+[BDArmory.BDACompetitionMode:201229456]: ALIVE:AS-124 sidestrafe missile test_1
+[BDArmory.BDACompetitionMode:201229456]: ALIVE:AIF-38C
+[BDArmory.BDACompetitionMode:201229456]: ALIVE:AS-124 sidestrafe missile test_2
+[BDArmory.BDACompetitionMode:201229456]: ALIVE:Z-55G
+[BDArmory.BDACompetitionMode:201229456]: ALIVE:PLAID AIF-42C5B LRP
+[BDArmory.BDACompetitionMode:201229456]: DEAD:0:1.9:SRC-102S "Magpie"
+[BDArmory.BDACompetitionMode:201229456]: GMKILL:SRC-102S "Magpie":BigRedButton
+[BDArmory.BDACompetitionMode:201229456]: HPLEFT:AL-34 Arnika:100
+[BDArmory.BDACompetitionMode:201229456]: HPLEFT:AL-34 Arnika_1:100
+[BDArmory.BDACompetitionMode:201229456]: HPLEFT:AL-34 Arnika_2:100
+[BDArmory.BDACompetitionMode:201229456]: HPLEFT:AL-27 Kallistemon:100
+[BDArmory.BDACompetitionMode:201229456]: HPLEFT:AL-34 Arnika_3:100
+[BDArmory.BDACompetitionMode:201229456]: HPLEFT:AL-68 Proleska:100
+[BDArmory.BDACompetitionMode:201229456]: HPLEFT:AL-27 Kallistemon_1:100
+[BDArmory.BDACompetitionMode:201229456]: HPLEFT:AL-27 Kallistemon_2:100
+[BDArmory.BDACompetitionMode:201229456]: HPLEFT:AL-27 Kallistemon_3:100
+[BDArmory.BDACompetitionMode:201229456]: HPLEFT:AL-34 Arnika_4:100
+[BDArmory.BDACompetitionMode:201229456]: HPLEFT:AL-27 Kallistemon_4:100
+[BDArmory.BDACompetitionMode:201229456]: HPLEFT:F-52F-20 Kargadan KWS I CWI:100
+[BDArmory.BDACompetitionMode:201229456]: HPLEFT:Z-41D-5.5:100
+[BDArmory.BDACompetitionMode:201229456]: HPLEFT:AS-124 sidestrafe missile test:100
+[BDArmory.BDACompetitionMode:201229456]: HPLEFT:AS-124 sidestrafe missile test_1:100
+[BDArmory.BDACompetitionMode:201229456]: HPLEFT:AIF-38C:100
+[BDArmory.BDACompetitionMode:201229456]: HPLEFT:AS-124 sidestrafe missile test_2:100
+[BDArmory.BDACompetitionMode:201229456]: HPLEFT:SRC-102S "Magpie":0
+[BDArmory.BDACompetitionMode:201229456]: HPLEFT:Z-55G:100
+[BDArmory.BDACompetitionMode:201229456]: HPLEFT:PLAID AIF-42C5B LRP:100
+[BDArmory.BDACompetitionMode:201229456]: ACCURACY:AL-34 Arnika:0/0:0/0
+[BDArmory.BDACompetitionMode:201229456]: ACCURACY:AL-34 Arnika_1:0/0:0/0
+[BDArmory.BDACompetitionMode:201229456]: ACCURACY:AL-34 Arnika_2:0/0:0/0
+[BDArmory.BDACompetitionMode:201229456]: ACCURACY:AL-27 Kallistemon:0/0:0/0
+[BDArmory.BDACompetitionMode:201229456]: ACCURACY:AL-34 Arnika_3:0/0:0/0
+[BDArmory.BDACompetitionMode:201229456]: ACCURACY:AL-68 Proleska:0/0:0/0
+[BDArmory.BDACompetitionMode:201229456]: ACCURACY:AL-27 Kallistemon_1:0/0:0/0
+[BDArmory.BDACompetitionMode:201229456]: ACCURACY:AL-27 Kallistemon_2:0/0:0/0
+[BDArmory.BDACompetitionMode:201229456]: ACCURACY:AL-27 Kallistemon_3:0/0:0/0
+[BDArmory.BDACompetitionMode:201229456]: ACCURACY:AL-34 Arnika_4:0/0:0/0
+[BDArmory.BDACompetitionMode:201229456]: ACCURACY:AL-27 Kallistemon_4:0/0:0/0
+[BDArmory.BDACompetitionMode:201229456]: ACCURACY:F-52F-20 Kargadan KWS I CWI:0/0:0/0
+[BDArmory.BDACompetitionMode:201229456]: ACCURACY:Z-41D-5.5:0/0:0/0
+[BDArmory.BDACompetitionMode:201229456]: ACCURACY:AS-124 sidestrafe missile test:0/0:0/0
+[BDArmory.BDACompetitionMode:201229456]: ACCURACY:AS-124 sidestrafe missile test_1:0/0:0/0
+[BDArmory.BDACompetitionMode:201229456]: ACCURACY:AIF-38C:0/0:0/0
+[BDArmory.BDACompetitionMode:201229456]: ACCURACY:AS-124 sidestrafe missile test_2:0/0:0/0
+[BDArmory.BDACompetitionMode:201229456]: ACCURACY:SRC-102S "Magpie":0/0:0/0
+[BDArmory.BDACompetitionMode:201229456]: ACCURACY:Z-55G:0/0:0/0
+[BDArmory.BDACompetitionMode:201229456]: ACCURACY:PLAID AIF-42C5B LRP:0/0:0/0

@@ -1,0 +1,19 @@
+[BDArmory.BDACompetitionMode:209712531]: Dumping Results after 20s (of 0s) at 2026-08-24 05:29:14 -04:00
+[BDArmory.BDACompetitionMode:209712531]: RESULT:Win:{"team": "PLAID ASF-07 CERULEAN OPTIC (DF)", "members": ["PLAID ASF-07 CERULEAN OPTIC (DF)"]}
+[BDArmory.BDACompetitionMode:209712531]: DEADTEAMS:[{"team": "OZ-1 Skydancer Suidkaf", "members": ["OZ-1 Skydancer Suidkaf", "OZ-1 Skydancer Suidkaf_F1"]}]
+[BDArmory.BDACompetitionMode:209712531]: ALIVE:PLAID ASF-07 CERULEAN OPTIC (DF)
+[BDArmory.BDACompetitionMode:209712531]: DEAD:0:6.0:OZ-1 Skydancer Suidkaf
+[BDArmory.BDACompetitionMode:209712531]: DEAD:1:6.0:OZ-1 Skydancer Suidkaf_F1
+[BDArmory.BDACompetitionMode:209712531]: WHOSHOTWHOWITHGUNS:OZ-1 Skydancer Suidkaf:17:PLAID ASF-07 CERULEAN OPTIC (DF)
+[BDArmory.BDACompetitionMode:209712531]: WHOSHOTWHOWITHGUNS:OZ-1 Skydancer Suidkaf_F1:1:PLAID ASF-07 CERULEAN OPTIC (DF)
+[BDArmory.BDACompetitionMode:209712531]: WHODAMAGEDWHOWITHGUNS:OZ-1 Skydancer Suidkaf:1158.9:PLAID ASF-07 CERULEAN OPTIC (DF)
+[BDArmory.BDACompetitionMode:209712531]: WHODAMAGEDWHOWITHGUNS:OZ-1 Skydancer Suidkaf_F1:12.6:PLAID ASF-07 CERULEAN OPTIC (DF)
+[BDArmory.BDACompetitionMode:209712531]: WHODAMAGEDWHOWITHBATTLEDAMAGE:OZ-1 Skydancer Suidkaf:6.4:PLAID ASF-07 CERULEAN OPTIC (DF)
+[BDArmory.BDACompetitionMode:209712531]: CLEANKILLGUNS:OZ-1 Skydancer Suidkaf:PLAID ASF-07 CERULEAN OPTIC (DF)
+[BDArmory.BDACompetitionMode:209712531]: CLEANKILLGUNS:OZ-1 Skydancer Suidkaf_F1:PLAID ASF-07 CERULEAN OPTIC (DF)
+[BDArmory.BDACompetitionMode:209712531]: HPLEFT:OZ-1 Skydancer Suidkaf:0
+[BDArmory.BDACompetitionMode:209712531]: HPLEFT:PLAID ASF-07 CERULEAN OPTIC (DF):93.0555555555556
+[BDArmory.BDACompetitionMode:209712531]: HPLEFT:OZ-1 Skydancer Suidkaf_F1:0
+[BDArmory.BDACompetitionMode:209712531]: ACCURACY:OZ-1 Skydancer Suidkaf:0/0:0/0
+[BDArmory.BDACompetitionMode:209712531]: ACCURACY:PLAID ASF-07 CERULEAN OPTIC (DF):18/185:0/0
+[BDArmory.BDACompetitionMode:209712531]: ACCURACY:OZ-1 Skydancer Suidkaf_F1:0/0:0/0

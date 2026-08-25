@@ -1,0 +1,12 @@
+[BDArmory.BDACompetitionMode:197181301]: Dumping Results after 44s (of 0s) at 2026-04-01 04:35:57 -04:00
+[BDArmory.BDACompetitionMode:197181301]: RESULT:Draw:[{"team": "Z-40C-27", "members": ["Z-40C-27"]}, {"team": "ZX-121 Block 15 _HTB_", "members": ["ZX-121 Block 15 \"HTB\""]}]
+[BDArmory.BDACompetitionMode:197181301]: DEADTEAMS:[]
+[BDArmory.BDACompetitionMode:197181301]: ALIVE:Z-40C-27
+[BDArmory.BDACompetitionMode:197181301]: ALIVE:ZX-121 Block 15 "HTB"
+[BDArmory.BDACompetitionMode:197181301]: WHOHITWHOWITHMISSILES:ZX-121 Block 15 "HTB":1:Z-40C-27
+[BDArmory.BDACompetitionMode:197181301]: WHOPARTSHITWHOWITHMISSILES:ZX-121 Block 15 "HTB":70:Z-40C-27
+[BDArmory.BDACompetitionMode:197181301]: WHODAMAGEDWHOWITHMISSILES:ZX-121 Block 15 "HTB":7900.3:Z-40C-27
+[BDArmory.BDACompetitionMode:197181301]: HPLEFT:Z-40C-27:100
+[BDArmory.BDACompetitionMode:197181301]: HPLEFT:ZX-121 Block 15 "HTB":80.2469135802469
+[BDArmory.BDACompetitionMode:197181301]: ACCURACY:Z-40C-27:0/0:0/0
+[BDArmory.BDACompetitionMode:197181301]: ACCURACY:ZX-121 Block 15 "HTB":0/0:0/0
