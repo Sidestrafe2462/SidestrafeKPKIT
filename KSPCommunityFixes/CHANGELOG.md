@@ -1,5 +1,70 @@
 ### Changelog
 
+##### Unreleased
+
+##### 1.41.1
+**Bug Fixes**
+- **ActiveRadiatorPerf** : Fixed a `NullReferenceException` ([issue #397](https://github.com/KSPModdingLibs/KSPCommunityFixes/issues/397)) thrown from `ModuleActiveRadiator.Start` in the editor.
+
+##### 1.41.0
+**New/Improved patches**
+- New performance patch : [**ActiveRadiatorPerf**](https://github.com/KSPModdingLibs/KSPCommunityFixes/pull/375) Significantly improves the performance of `ModuleActiveRadiator`.
+- New performance patch : [**CargoBayPerf**](https://github.com/KSPModdingLibs/KSPCommunityFixes/issues/356) Defer `ModuleCargoBay.onVesselModified` callbacks until after the physics update completes. Significantly reduces stutter when a ship with cargo bays crashes.
+- New performance patch : [**ResourceConverterPerf**](https://github.com/KSPModdingLibs/KSPCommunityFixes/pull/374) Cache expensive operations in the stock resource converter and drill modules (`ResourceMap.GetAbundance`, `Localizer.Format`) and avoid `BaseConverter.PrepareRecipe` being called twice per `FixedUpdate`. Significantly reduces the time spent in drill modules.
+- Improved the **MinorPerfTweaks** patch ([PR #376](https://github.com/KSPModdingLibs/KSPCommunityFixes/pull/376)) to optimize all the `Part.isX` accessors (`isAttached`, `isControllable`, `isKerbalEVA`, etc.) to use KSPCF's faster implementations.
+- Improved the **GameDatabasePerf** patch ([PR #353](https://github.com/KSPModdingLibs/KSPCommunityFixes/pull/353)) to also accelerate `GameDatabase.ExistsModel`. This method accounted for ~80% of `ModuleWaterfallFX.Start` and can be a significant contributor to scene switch time on heavily modded installs.
+- New KSP bugfix : [**MapTargetBodyWithEncounter**](https://github.com/KSPModdingLibs/KSPCommunityFixes/issues/381) Fix being unable to left-click or double-click a celestial body's icon in the map view (to set it as target) when a maneuver node produces an encounter with that body.
+- New KSP bugfix : [**BlockMapViewPartClick**](https://github.com/KSPModdingLibs/KSPCommunityFixes/pull/362) Fix mouse double-clicks passing through to parts on the active vessel while the map view is open, which would unselect the current target vessel or celestial body.
+- New KSP bugfix : [**FIUpdateRadiation**](https://github.com/KSPModdingLibs/KSPCommunityFixes/pull/364) Fix radiation flux being inconsistent at timewarp rates between 1x and 100x, caused by `PartThermalData.expFlux` / `unexpFlux` being mutated during every thermal integration pass.
+- New KSP bugfix : [**ConfigNodeTempCopy**](https://github.com/KSPModdingLibs/KSPCommunityFixes/pull/379) Write a temp copy when saving a `ConfigNode` to disk, then overwrite the original. Reduces the chance of save file corruption if the game or system crashes mid-write.
+- Improved the **ExtendedDeployableParts** patch to fix a `NullReferenceException` ([issue #380](https://github.com/KSPModdingLibs/KSPCommunityFixes/issues/380)) thrown when a static (non-animated) solar panel is placed on a part that has other, unrelated animations.
+- New KSP bugfix : [**SymmetryReferenceOnDelete**](https://github.com/KSPModdingLibs/KSPCommunityFixes/issues/382) Fix an issue where deleting a part that had previously been removed from symmetry could break the editor.
+- New KSP bugfix : [**EVAConstructionUninitializedInventory**](https://github.com/KSPModdingLibs/KSPCommunityFixes/issues/378) Fixes a bug where stock will return parts that are not initialized yet when searching for parts with inventories, causing bugs in downstream mods.
+- New KSP bugfix : [**HarvesterECConsumption**](https://github.com/KSPModdingLibs/KSPCommunityFixes/issues/358) Show accurate resource consumption info for `ModuleResourceHarvester`.
+- New KSP bugfix : [**EditorAnimatedPartsShipModified**](https://github.com/KSPModdingLibs/KSPCommunityFixes/issues/388) Fix an issue where the engineer's report would be delayed by one edit when enabling/disabling animated parts.
+- New KSP bugfix : [**PatchedConicEncounterFlickering**](https://github.com/KSPModdingLibs/KSPCommunityFixes/issues/320) Revert back to the pre-1.8 SOI encounter solver. This is slower but less likely to cause flickering.
+- New modding patch : [**EventProfilerMarkers**](https://github.com/KSPModdingLibs/KSPCommunityFixes/pull/355) Disabled by default. Automatically wraps `EventData.Fire()` invocations and each individual subscriber callback with Unity Profiler spans, making expensive event handlers visible in the profiler.
+- Improved the **ReflectionTypeLoadExceptionHandler** patch ([PR #370](https://github.com/KSPModdingLibs/KSPCommunityFixes/pull/370)) to log the inner exceptions, so a `ReflectionTypeLoadException` actually reports which type failed to load and why instead of just the (useless) `GetTypes()` call site.
+
+**Bug Fixes**
+- **PartBoundsIgnoreDisabledTransforms** : This patch now ignores meshes on the TransparentFX layer when computing bounds. This should prevent waterfall effects or other effect-only meshes from affecting the part bounds.
+- **UpgradeBugs** : Fixed [issue #340](https://github.com/KSPModdingLibs/KSPCommunityFixes/issues/340). Base cost + upgrade cost now actually shows to the part cost, and upgrade  part tooltip cost no longer carries over to other tooltips.
+- **PartSystemsFastUpdate** : Fixed an accidental material instantiation in `Highlighter.UpdateRenderers` ([PR #368](https://github.com/KSPModdingLibs/KSPCommunityFixes/pull/368)). The loop was using `.material` while searching for a named material, which unshared the materials on every game object carrying a Highlighter component (i.e. every part in the editor).
+
+**Other changes**
+- Removed the **FPSUnlockedLoading** patch ([PR #393](https://github.com/KSPModdingLibs/KSPCommunityFixes/pull/393)). Its functionality has been superseded by **FastLoader** for years and it was accidentally re-included in the build during the build system refactor.
+
+##### 1.40.1
+**Bug Fixes**
+- **PQSOnlyStartOnce** : This patch is now disabled by default as it appears to cause
+  issues with PQS terrain generation under certain conditions.
+
+##### 1.40.0
+**New/Improved patches**
+- New KSP bugfix : [**WheelIntertiaLimit**](https://github.com/KSPModdingLibs/KSPCommunityFixes/pull/341) Reduces the lower inertia limit for wheels from 0.01 to 0.00001. Thanks to @MajorNr01 for contributing it.
+- New performance patch : [**ExpansionBundlePreload**](https://github.com/KSPModdingLibs/KSPCommunityFixes/pull/345) Starts loading expansion bundles in the background while part compilation is happening. This should have a significant reduction in load times if you have the expansions installed.
+- New performance patch : [**PQSOnlyStartOnce**](https://github.com/KSPModdingLibs/KSPCommunityFixes/pull/350) Avoid a second unnecessary restart of all PQS spheres in game when launching from the VAB or SPH. This should be a small improvement to scene switch times, possibly larger if you have parallax continued installed.
+- Improved the **FastLoader** patch to load early asset bundles in the background. Should result in a small improvement to load times.
+- Improved the **MinorPerfTweaks** patch to optimize away a `FindObjectOfType` call. Should result in a small improvement to scene switch times.
+- Improved the **MinorPerfTweaks** patch to optimize `MonoUtilities.RefreshContextWindows()` and `MonoUtilities.RefreshPartContextWindow()`. Should be a minor improvement to scene switch times under some conditions. 
+
+**Other changes**
+- Added descriptions and mentalities for: Clamp-O-Tron, FreeFall Parachutes, LightYear Tire Company, Stratus Corporation. Thanks to @munktron239 for contributing it.
+
+##### 1.39.1
+**Bug fixes**
+- **FastAndFixedEnumExtensions** : fixed the caching mechanism erroring out on enums containing multiple members using the same underlying value. Was causing various issues in RO/RP1 due to such an enum being defind here.
+
+##### 1.39.0
+**New/improved patches**
+- New performance patch : [**FasterEditorPartList**](https://github.com/KSPModdingLibs/KSPCommunityFixes/pull/326) Improve the responsiveness of the part list when switching between categories, sorting and searching by tag. Adress [issue #242](https://github.com/KSPModdingLibs/KSPCommunityFixes/issues/242) reported by @Rodg88.
+- New KSP bugfix : [**DebugConsoleDontStealInput**](https://github.com/KSPModdingLibs/KSPCommunityFixes/pull/329), fix the Alt+F12 console input field stealing input when a console entry is added. Thanks to @Clayell for reminding me of that especially annoying issue.
+- New KSP bugfix & performance patch : [**FastAndFixedEnumExtensions**](https://github.com/KSPModdingLibs/KSPCommunityFixes/pull/322), fix exceptions when calling the `EnumExtensions.*Description()` methods with a non-defined enum value, and implement a cache for faster and less allocating execution of those methods. Adress [issue #321](https://github.com/KSPModdingLibs/KSPCommunityFixes/issues/321), thanks to @k1suuu for reporting it.
+
+**Other changes**
+- Fixed `Override` patches not properly handling `switch` statement.
+- Changed the logging level from `Error` to `Warning` when KSPCF detects a duplicate value in configs used to load a `[Persistent]` field.
+
 ##### 1.38.1
 **Bug fixes**
 - **ModuleColorChangerOptimization** : Fixed externally controlled ModuleColorChanger modules state being wrongly reset on startup, notably causing the stock heat shield to start in the charred / black state in the editor.
