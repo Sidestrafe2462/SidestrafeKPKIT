@@ -2,7 +2,7 @@ V2
 {"name":"000_TexturesUnlimited/TU-Icon","id":1929261218,"time":134383309509772379,"size":1078,"width":32,"height":32,"mipCount":1,"readable":true,"normal":false}
 {"name":"AirplanePlus/Agencies/Conglomerate/Blank","id":2137217166,"time":134383309510656423,"size":3095,"width":256,"height":128,"mipCount":1,"readable":true,"normal":false}
 {"name":"Squad/Parts/Structural/mk1Parts/@thumbs/MK1Fuselage_icon","id":1976709697,"time":134396916358180195,"size":32165,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
-{"name":"AirplanePlus/Parts/@thumbs/fighterlongcockpit_icon","id":422142046,"time":134386571509730833,"size":11674,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"AdvancedKerbals/Parts/@thumbs/AK.CombatPack_icon","id":728555412,"time":134397886126838272,"size":39509,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"AirplanePlus/Parts/@thumbs/Type-22Cockpit_icon","id":1442547530,"time":134386582234306594,"size":16443,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"AirplanePlus/Parts/@thumbs/Type-57-Cockpit_icon","id":1400120490,"time":134387661950595337,"size":14841,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"AirplanePlus/Parts/Engine/Modern/CFM56/Blank","id":1210756507,"time":134383309511269637,"size":3095,"width":256,"height":128,"mipCount":1,"readable":true,"normal":false}
@@ -138,8 +138,8 @@ V2
 {"name":"BDArmory/Parts/AmmoBox/textureUni","id":1049486384,"time":134383332873379565,"size":15835,"width":256,"height":256,"mipCount":1,"readable":true,"normal":false}
 {"name":"Squad/Parts/@thumbs/externalTankCapsule_icon","id":1289138968,"time":134395172986479393,"size":30877,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"Squad/Parts/@thumbs/airlinerCtrlSrf_icon","id":609009747,"time":134395164164406505,"size":11235,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
-{"name":"KerbalPowers/Naval/Parts/@thumbs/smallBuoyancy_icon2","id":632744691,"time":134395185402556746,"size":9830,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
-{"name":"KerbalPowers/Naval/Parts/@thumbs/mediumBuoyancy_icon2","id":1286070305,"time":134395164214969426,"size":11195,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"AdvancedKerbals/Parts/@thumbs/AK.ArmySpawner_icon","id":1811792380,"time":134397903732831686,"size":30774,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"AdvancedKerbals/Parts/@thumbs/Handgun_icon","id":1529468844,"time":134397910208209630,"size":18845,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"KerbalPowers/Armory/Parts/@thumbs/kpaSNOOPR_icon1","id":1352804025,"time":134395183500794886,"size":21551,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"BDArmory/Parts/awacsRadar/tex_awacs","id":210937468,"time":134383332876742713,"size":96986,"width":512,"height":512,"mipCount":1,"readable":true,"normal":false}
 {"name":"BDArmory/Parts/bammGuidance/texture","id":32063457,"time":134383332876989841,"size":18443,"width":256,"height":256,"mipCount":1,"readable":true,"normal":false}
@@ -419,7 +419,7 @@ V2
 {"name":"BDArmoryExtended/Parts/@thumbs/baha37mmAmmoDrumScalable_icon","id":782249950,"time":134385703660109081,"size":30542,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"BDArmoryExtended/Parts/@thumbs/baha37mmCIWS_icon","id":398867165,"time":134385817020205184,"size":20607,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"BDArmoryExtended/Parts/@thumbs/bahaIRSAM_icon","id":772400579,"time":134395148003276947,"size":5154,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
-{"name":"BDArmoryRefurbished/MalFuncIndustries/Parts/@thumbs/STIRradar_icon","id":739049430,"time":134397015218228317,"size":33562,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"AdvancedKerbals/AK_Icon","id":215710043,"time":134397869950804871,"size":9006,"width":128,"height":128,"mipCount":1,"readable":true,"normal":false}
 {"name":"BDArmoryExtended/Parts/@thumbs/bahaChaffStrip_icon","id":1634837339,"time":134386815205428592,"size":12214,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"BDArmoryExtended/Parts/@thumbs/bahaERARH_icon","id":342221579,"time":134387605719053405,"size":5985,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"BDArmoryExtended/Parts/@thumbs/bahaERIR_icon","id":1890863336,"time":134387605839314612,"size":6250,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
@@ -669,8 +669,8 @@ V2
 {"name":"BDArmoryRefurbished/Missiles/Parts/@thumbs/PEWRGM-84_icon","id":1568419037,"time":134383327453268723,"size":4958,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"BDArmoryExtended/Parts/@thumbs/bahaAdvSRIR_icon","id":753592135,"time":134395147804588010,"size":6192,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"BDArmoryRefurbished/Missiles/Parts/@thumbs/THERIM-162_icon","id":704605550,"time":134386474834941810,"size":4927,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
-{"name":"BDArmoryRefurbished/Missiles/Parts/BLU-82/BLU82_Tex","id":825164769,"time":134383309536890453,"size":66913,"width":512,"height":512,"mipCount":1,"readable":true,"normal":false}
-{"name":"BDArmoryRefurbished/Missiles/Parts/X51A/X51AA","id":1883868419,"time":134383309537106274,"size":239503,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"BDArmoryRefurbished/PEW/Parts/Volnorez/Volnorez_Tex","id":1898863490,"time":134397162943814575,"size":21743,"width":256,"height":128,"mipCount":1,"readable":true,"normal":false}
+{"name":"BDArmoryRefurbished/Missiles/Parts/Firework/ExpTex4","id":1506480924,"time":134397162938780100,"size":71498,"width":256,"height":256,"mipCount":1,"readable":true,"normal":false}
 {"name":"BDArmoryRefurbished/PEW/Parts/@thumbs/Challenger299Turret_icon","id":1190022731,"time":134383327455826023,"size":6163,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"BDArmoryRefurbished/PEW/Parts/@thumbs/Eland90BTurret_icon0","id":1808120563,"time":134385706970988867,"size":7681,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"BDArmoryRefurbished/PEW/Parts/@thumbs/Eland90BTurret_icon2","id":115623507,"time":134383327455907204,"size":7666,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
@@ -714,7 +714,7 @@ V2
 {"name":"KerbalPowerPlants/Parts/@thumbs/KPPuma_icon0","id":1714194791,"time":134386397783499048,"size":48290,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"KerbalPowers/Armory/Parts/@thumbs/bahaJdamerMk82_icon","id":1651125732,"time":134383309546818580,"size":6649,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"KerbalPowers/Armory/Parts/@thumbs/bahaJdamerMk83_icon","id":1931457838,"time":134383309546823633,"size":6718,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
-{"name":"KerbalPowers/Armory/Parts/@thumbs/bahaJdamerMk84_icon","id":2125421385,"time":134383309546834142,"size":6736,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"AdvancedKerbals/Cosmetics/Armband_texture","id":1635034305,"time":134397869953118827,"size":903305,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
 {"name":"KerbalPowers/Armory/Parts/@thumbs/bahaJdamMk82_icon","id":1248413627,"time":134383309546834142,"size":6783,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"KerbalPowers/Armory/Parts/@thumbs/bahaJdamMk84_icon","id":1615867607,"time":134383309546849146,"size":6811,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"KerbalPowers/Armory/Parts/@thumbs/bahaMk83BombBrake_icon","id":828346110,"time":134383309546854214,"size":6084,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
@@ -804,21 +804,21 @@ V2
 {"name":"KerbalPowers/Armory/Parts/Turrets/Lynx/smoke","id":875053197,"time":134383309548280307,"size":31807,"width":256,"height":256,"mipCount":1,"readable":true,"normal":false}
 {"name":"KerbalPowers/Armory/Parts/Turrets/OTO76/muzzle","id":1795050549,"time":134383309548346335,"size":73955,"width":256,"height":256,"mipCount":1,"readable":true,"normal":false}
 {"name":"KerbalPowers/Armory/Parts/Turrets/WyrmFlame/Wyrm_Tex","id":1025324902,"time":134384291901354976,"size":2329602,"width":2048,"height":2048,"mipCount":1,"readable":true,"normal":false}
-{"name":"KerbalPowers/Naval/FX/bubble","id":677309766,"time":134383309549060122,"size":10605,"width":128,"height":128,"mipCount":1,"readable":true,"normal":false}
-{"name":"KerbalPowers/Naval/FX/Sediment","id":2096381820,"time":134383309549080281,"size":5285,"width":128,"height":128,"mipCount":1,"readable":true,"normal":false}
-{"name":"KerbalPowers/Naval/Parts/@thumbs/herringPropeller_icon0","id":1185273542,"time":134385968402361030,"size":4276,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"KerbalPowers/Naval/FX/Sediment","id":1476247264,"time":134398645263106315,"size":5285,"width":128,"height":128,"mipCount":1,"readable":true,"normal":false}
+{"name":"KerbalPowers/Naval/FX/bubble","id":1925421800,"time":134398645263178176,"size":10605,"width":128,"height":128,"mipCount":1,"readable":true,"normal":false}
+{"name":"BDArmoryRefurbished/MalFuncIndustries/Parts/@thumbs/STIRradar_icon","id":1126819289,"time":134397909157235052,"size":10760,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"KerbalPowers/Naval/Parts/@thumbs/herringPropeller_icon3","id":2072458653,"time":134387501734058614,"size":5351,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"KerbalPowers/Naval/Parts/@thumbs/kpdSmallVent_icon0","id":941560547,"time":134386388633343976,"size":16368,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"KerbalPowers/Naval/Parts/@thumbs/kpdSmallVent_icon1","id":146895723,"time":134386388563595994,"size":17628,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"KerbalPowers/Naval/Parts/@thumbs/largeBuoyancy_icon0","id":990240735,"time":134393681125468447,"size":2419,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"KerbalPowers/Naval/Parts/@thumbs/largeBuoyancy_icon1","id":931790723,"time":134384291887764144,"size":5466,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
-{"name":"KerbalPowers/Naval/Parts/@thumbs/largeBuoyancy_icon2","id":589759921,"time":134393681056050553,"size":8434,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"AdvancedKerbals/Parts/@thumbs/Sniper.rifle_icon","id":1634074517,"time":134397910117986702,"size":5812,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"KerbalPowers/Naval/Parts/@thumbs/mediumBuoyancy_icon0","id":879089639,"time":134384291887820333,"size":3593,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
-{"name":"KerbalPowers/Naval/Parts/@thumbs/mediumBuoyancy_icon1","id":837055220,"time":134384291887851290,"size":6988,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"AdvancedKerbals/Parts/@thumbs/Infantry.rifle_icon","id":909435709,"time":134397910004121292,"size":10753,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"KerbalPowers/Naval/Parts/@thumbs/minnowPropeller_icon0","id":1122527054,"time":134384291887908223,"size":4025,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
-{"name":"KerbalPowers/Naval/Parts/@thumbs/minnowPropeller_icon1","id":1001501680,"time":134385968369458360,"size":5148,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
-{"name":"KerbalPowers/Naval/Parts/@thumbs/smallBuoyancy_icon0","id":66954858,"time":134384291887980041,"size":3688,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
-{"name":"KerbalPowers/Naval/Parts/@thumbs/smallBuoyancy_icon1","id":1995366408,"time":134384291888000030,"size":6384,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"AdvancedKerbals/Parts/@thumbs/AK.PassengerDeployer_icon","id":134120907,"time":134397908821575029,"size":38492,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"AdvancedKerbals/Parts/@thumbs/AK.ParaDeployer_icon","id":1518519769,"time":134397908024266638,"size":38492,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"AdvancedKerbals/Parts/@thumbs/AK.CombatParachute_icon","id":1872842027,"time":134397909903160669,"size":6144,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"BDArmory/Parts/ArmorPlate/EYEGrey","id":981715206,"time":134395290804014281,"size":52156,"width":256,"height":256,"mipCount":1,"readable":true,"normal":false}
 {"name":"KerbalPowers/Naval/Parts/@thumbs/sturgeonPropeller_icon0","id":1885033795,"time":134384291888076593,"size":4054,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"KerbalPowers/Naval/Parts/@thumbs/sturgeonPropeller_icon3","id":1422896445,"time":134384291888107126,"size":5225,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
@@ -870,7 +870,7 @@ V2
 {"name":"ModeratelyPlaneRelated/Parts/@thumbs/SAE.Cockpit.FF215N_icon","id":1844640235,"time":134386381511396682,"size":9667,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"ModeratelyPlaneRelated/Parts/@thumbs/SAE.Cockpit.PW.Mk1T_icon","id":945385255,"time":134386381511432303,"size":13270,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"ModeratelyPlaneRelated/Parts/@thumbs/SAE.Cockpit.U2_icon","id":937994889,"time":134386381511465294,"size":13558,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
-{"name":"BDArmory/Parts/@thumbs/BD.PanelArmor_icon2","id":2013303823,"time":134396924077372116,"size":13572,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"AdvancedKerbals/Cosmetics/Civilian_shirt_texture_desert","id":1644016075,"time":134397869953328189,"size":1582036,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
 {"name":"ModeratelyPlaneRelated/Parts/@thumbs/SAE.Cockpit.X-02_icon","id":1516160753,"time":134386381511517794,"size":9873,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"ModeratelyPlaneRelated/Parts/@thumbs/SAE.tfj.222.hone.75.tvn_icon","id":955321574,"time":134386381511552298,"size":14406,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"ModeratelyPlaneRelated/Parts/@thumbs/SAE.tfj.229.938mm_icon","id":53373446,"time":134386397669617626,"size":14433,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
@@ -1123,7 +1123,7 @@ V2
 {"name":"Squad/Parts/@thumbs/batteryPack_icon","id":1855361069,"time":134386518565756162,"size":29440,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"Squad/Parts/@thumbs/cargoContainer_icon","id":949329660,"time":134383293596762593,"size":23069,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"Squad/Parts/@thumbs/commDish_icon","id":1477883359,"time":134383293596989667,"size":15229,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
-{"name":"Squad/Parts/@thumbs/cupola_icon","id":981288675,"time":134393381143873028,"size":27397,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"AdvancedKerbals/Cosmetics/Civilian_shirt_texture","id":1002752508,"time":134397869953251830,"size":1297492,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
 {"name":"BDArmoryExtended/Parts/@thumbs/bahaLSRRM_icon","id":1467380527,"time":134396310009803032,"size":5239,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"Squad/Parts/@thumbs/Decoupler.0_icon0","id":40593339,"time":134383293597059273,"size":20383,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"Squad/Parts/@thumbs/Decoupler.0_icon1","id":1051946484,"time":134383293597146580,"size":22352,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
@@ -1446,7 +1446,7 @@ V2
 {"name":"SquadExpansion/MakingHistory/Parts/@thumbs/HeatShield1p5_icon","id":554732515,"time":134383293862074923,"size":17082,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"SquadExpansion/MakingHistory/Parts/@thumbs/InflatableAirlock_icon","id":2009913420,"time":134383293862110527,"size":32703,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"SquadExpansion/MakingHistory/Parts/@thumbs/kv1Pod_icon","id":1330838398,"time":134386444095869707,"size":37050,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
-{"name":"SquadExpansion/MakingHistory/Parts/@thumbs/kv3Pod_icon","id":612839910,"time":134386444169449621,"size":36681,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"KerbalPowers/Naval/Parts/@thumbs/largeBuoyancy_icon2","id":457104747,"time":134384291887789852,"size":8434,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"SquadExpansion/MakingHistory/Parts/@thumbs/LiquidEngineRV-1_icon","id":341939358,"time":134383293862135885,"size":17245,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"SquadExpansion/MakingHistory/Parts/@thumbs/Mk2Pod_icon","id":1549919804,"time":134386780997509964,"size":36445,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"SquadExpansion/MakingHistory/Parts/@thumbs/monopropMiniSphere_icon","id":819001069,"time":134383293862176552,"size":33014,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
@@ -1685,7 +1685,7 @@ V2
 {"name":"BDArmoryExtended/Parts/@thumbs/bahaRIM-66_icon","id":949238266,"time":134395148163681437,"size":6270,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"BDArmoryRefurbished/Missiles/Parts/@thumbs/PEWRIM-174_icon","id":345089774,"time":134395147714277024,"size":4929,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"KerbalPowers/Armory/Parts/@thumbs/kpaPRSM_icon0","id":1973467124,"time":134395147768180044,"size":5195,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
-{"name":"Squad/Parts/@thumbs/rocketNoseCone.v3_icon0","id":666536743,"time":134395159489883861,"size":2647,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"Squad/Parts/@thumbs/MiniISRU_icon","id":1699205664,"time":134398696259049768,"size":39044,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"Squad/Parts/@thumbs/standardNoseCone_icon","id":1395325205,"time":134395189788779786,"size":28661,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"Squad/Parts/@thumbs/structuralIBeam1_icon","id":1943809759,"time":134395255831947673,"size":20736,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"Squad/Parts/@thumbs/longAntenna_icon","id":1700589921,"time":134395426890020764,"size":5504,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
@@ -1694,7 +1694,7 @@ V2
 {"name":"BDArmory/Parts/@thumbs/BD1x0.5panelArmor_icon0","id":445447235,"time":134395426858619524,"size":14067,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"SquadExpansion/MakingHistory/Parts/@thumbs/EnginePlate2_icon0","id":1524377481,"time":134395181403978666,"size":13576,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"SquadExpansion/MakingHistory/Parts/@thumbs/Panel0_icon5","id":1495418995,"time":134395256680870327,"size":22226,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
-{"name":"SquadExpansion/MakingHistory/Parts/@thumbs/Size.1.5.Cone_icon0","id":1260648312,"time":134395159434401389,"size":25049,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"KerbalPowers/Electrics/Parts/@thumbs/kpdTurbine_icon0","id":1983055076,"time":134398694545190422,"size":13126,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"SquadExpansion/Serenity/Parts/@thumbs/piston.03_icon0","id":1709600976,"time":134395157769291923,"size":15718,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"SquadExpansion/Serenity/Parts/@thumbs/rotoServo.03_icon0","id":2132212967,"time":134395204199906809,"size":61745,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"Squad/Parts/CompoundParts/@thumbs/strutConnector_icon","id":397831507,"time":134395426818317614,"size":5880,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
@@ -1710,3 +1710,80 @@ V2
 {"name":"SquadExpansion/Serenity/Parts/@thumbs/controller1000_icon0","id":17359298,"time":134396331908054360,"size":42607,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"SquadExpansion/Serenity/Parts/@thumbs/rotor.02s_icon0","id":629905094,"time":134396273032544504,"size":40504,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
 {"name":"Squad/Parts/@thumbs/mk1pod.v2_icon","id":1708914880,"time":134396936018160737,"size":46267,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"AdvancedKerbals/Cosmetics/Combat_shirt_text_arctic","id":2129172074,"time":134397869953603389,"size":1271609,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Cosmetics/Combat_shirt_text_desert","id":1658706768,"time":134397869953674635,"size":1116443,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Cosmetics/Combat_spacesuit_helmet_texture","id":287478579,"time":134397869953882795,"size":2755769,"width":2048,"height":2048,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Cosmetics/Combat_spacesuit_texture","id":990432456,"time":134397869953960076,"size":4882837,"width":2048,"height":2048,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Cosmetics/combat_suit","id":1769136950,"time":134397869954046991,"size":586740,"width":2048,"height":2048,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Cosmetics/combat_suit_normal","id":1470201618,"time":134397869954117526,"size":5011953,"width":2048,"height":2048,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Cosmetics/Headband_arctic","id":2048536669,"time":134397869954273404,"size":1177616,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Cosmetics/Headband_desert","id":1924393523,"time":134397869954344976,"size":749489,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Cosmetics/Headband_urban","id":2031973527,"time":134397869954421548,"size":1009344,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Cosmetics/HELMET TEXTURE","id":800892066,"time":134397869954487481,"size":663519,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Cosmetics/NVG TEXTURE","id":1627446330,"time":134397869954549368,"size":930977,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Cosmetics/Plate_carrier_text_arctic","id":406693301,"time":134397869954757798,"size":1043052,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Cosmetics/Plate_carrier_text_desert","id":1609433485,"time":134397869954823801,"size":1183037,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Cosmetics/sunvisor","id":910345674,"time":134397869954900748,"size":4409,"width":512,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Cosmetics/visor normal25","id":261480482,"time":134397869954973887,"size":571546,"width":2048,"height":2048,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/FX/blood_hole","id":297072694,"time":134397869955088932,"size":74868,"width":256,"height":256,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/FX/blood_hole2","id":1404947620,"time":134397869955170864,"size":64242,"width":256,"height":256,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/FX/blood_pool","id":1582185425,"time":134397869955232119,"size":200039,"width":512,"height":512,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/FX/blood_pool2","id":262679470,"time":134397869955309808,"size":232778,"width":512,"height":512,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/Army_spawner/Box_texture","id":541382689,"time":134397869955701079,"size":1527086,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/CEAR/CEAR_texture","id":1495023239,"time":134397869956003148,"size":788493,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/Combat_pack/COMBAT_PACK_TEXT","id":2013645381,"time":134397869956407495,"size":937097,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/Combat_pack/COMBAT_PACK_TEXT2","id":1499056034,"time":134397869956488605,"size":649738,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/Combat_Parachute/Canopy_Texture","id":1871405771,"time":134397869956616404,"size":2106856,"width":2048,"height":2048,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/Combat_Parachute/Combat_parachute_text","id":852120532,"time":134397869956858973,"size":1070470,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/Combat_Parachute/Combat_parachute_texture","id":145108823,"time":134397869956935464,"size":258195,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/Handgun/HANDGUN TEXTURE","id":1567936667,"time":134397869957064176,"size":818981,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/Infantry_rifle/GUN TEXT","id":921786078,"time":134397869957484040,"size":4170164,"width":2048,"height":2048,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/Jump_indicator/jump_indicator_emissive","id":1371846352,"time":134397869958129067,"size":22723,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/Jump_indicator/Jump_indicator_texture","id":2033954218,"time":134397869958190191,"size":469585,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/Jump_indicator/Jump_indicator_texture2","id":216815840,"time":134397869958272260,"size":455642,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/KPAD/KPAD_MISSILE_TEXTURE","id":850807423,"time":134397869958908676,"size":861498,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/KPAD/KPAD_TEXTURE","id":2084664694,"time":134397869958987654,"size":895076,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/LMG/LMG TEXTURE HEAT","id":1619740498,"time":134397869959274269,"size":51484,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/LMG/LMG TEXTURE","id":244473993,"time":134397869959345597,"size":2739983,"width":2048,"height":2048,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/Railgun/muzzle2","id":1234704827,"time":134397869960214145,"size":87855,"width":256,"height":256,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/Railgun/Railgun_emissive","id":1438084729,"time":134397869960442814,"size":243471,"width":2048,"height":2048,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/Railgun/Railgun_texture","id":272748120,"time":134397869960524710,"size":1751701,"width":2048,"height":2048,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/RPG/RPG ROCKET","id":391636047,"time":134397869960950275,"size":939804,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/RPG/RPG TEXT","id":1652733400,"time":134397869961027437,"size":2972218,"width":2048,"height":2048,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/Sniper_rifle/SNIPER TEXT","id":1043840182,"time":134397869961587460,"size":866207,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/Vacuum_rifle/muzzle2","id":1970621563,"time":134397869962151036,"size":87855,"width":256,"height":256,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/Vacuum_rifle/Vacuum_rifle","id":853078504,"time":134397869962373508,"size":688020,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/Vacuum_rifle/Vacuum_rifle_emissive","id":1266812787,"time":134397869962445160,"size":102096,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/Vacuum_SMG/muzzle2","id":1837078500,"time":134397869962774611,"size":87855,"width":256,"height":256,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/Vacuum_SMG/Vacuum_SMG_emissive","id":1930636853,"time":134397869962994543,"size":96035,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"AdvancedKerbals/Parts/Vacuum_SMG/Vacuum_SMG_texture","id":1660430563,"time":134397869963066204,"size":708227,"width":1024,"height":1024,"mipCount":1,"readable":true,"normal":false}
+{"name":"BDArmory/Parts/@thumbs/BD.PanelArmor_icon2","id":809119234,"time":134397194353622271,"size":13572,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"BDArmoryRefurbished/Missiles/Parts/@thumbs/mojangFirework_icon","id":1484973900,"time":134397909362726843,"size":3088,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"BDArmoryRefurbished/MalFuncIndustries/Parts/@thumbs/Talosradar_icon","id":1401866252,"time":134397194093579672,"size":38889,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"KerbalPowers/Armory/Parts/@thumbs/bahaJdamerMk84_icon","id":1880810616,"time":134397191723678933,"size":6637,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"Squad/Parts/@thumbs/cupola_icon","id":781008265,"time":134397185115948943,"size":27397,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"Squad/Parts/Structural/mk1Parts/@thumbs/Mk1FuselageStructural_icon0","id":1372354835,"time":134397194635019638,"size":30053,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"SquadExpansion/MakingHistory/Parts/@thumbs/EnginePlate4_icon0","id":461369819,"time":134397195670892700,"size":23366,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"KerbalPowers/Naval/Parts/@thumbs/herringPropeller_icon0","id":170398915,"time":134384291887697212,"size":4276,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"AdvancedKerbals/Parts/@thumbs/Assault Rifle_icon","id":101905325,"time":134397882990367498,"size":10035,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"BDArmoryRefurbished/PEW/Parts/@thumbs/PEW-Volnorez_icon","id":242387458,"time":134397909048559976,"size":13693,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"AdvancedKerbals/Parts/@thumbs/LMG_icon","id":1380371262,"time":134397882969307923,"size":8712,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"AdvancedKerbals/Parts/@thumbs/Railgun_icon","id":1114760872,"time":134397883086180651,"size":9753,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"AdvancedKerbals/Parts/@thumbs/RPG_icon","id":1125037459,"time":134397883119133555,"size":9301,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"AirplanePlus/Parts/@thumbs/fighterlongcockpit_icon","id":10874530,"time":134397889284495258,"size":11674,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"Squad/Parts/@thumbs/mk1-3pod_icon","id":982320757,"time":134397894481855972,"size":39337,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"SquadExpansion/MakingHistory/Parts/@thumbs/kv3Pod_icon","id":1038909363,"time":134397877659033066,"size":36681,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"KerbalPowers/Naval/Parts/@thumbs/mediumBuoyancy_icon1","id":1748202189,"time":134384291887851290,"size":6989,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"KerbalPowers/Naval/Parts/@thumbs/mediumBuoyancy_icon2","id":1062647462,"time":134383365938588617,"size":11195,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"KerbalPowers/Naval/Parts/@thumbs/minnowPropeller_icon1","id":1529237016,"time":134384291887939117,"size":5148,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"KerbalPowers/Naval/Parts/@thumbs/smallBuoyancy_icon0","id":1623923924,"time":134384291887980041,"size":3689,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"KerbalPowers/Naval/Parts/@thumbs/smallBuoyancy_icon1","id":390554199,"time":134384291888000030,"size":6379,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"KerbalPowers/Naval/Parts/@thumbs/smallBuoyancy_icon2","id":1954665752,"time":134384291888030419,"size":9830,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"Squad/Parts/@thumbs/crewCabin_icon","id":355660010,"time":134397903873172798,"size":42611,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"KerbalPowers/Electrics/Parts/@thumbs/kpdDiesel_icon1","id":315062151,"time":134398649163689884,"size":4176,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"KerbalPowers/Electrics/Parts/@thumbs/kpdReactor_icon","id":1531750476,"time":134398649490862218,"size":18236,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"KerbalPowers/Electrics/Parts/@thumbs/kpdTurbine_icon","id":1386638738,"time":134398649466726444,"size":22512,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"KerbalPowers/Electrics/Parts/@thumbs/kpdReactor_icon0","id":131335738,"time":134398654556735325,"size":14327,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"Squad/Parts/@thumbs/mk3CrewCabin_icon","id":1591866555,"time":134398696356038317,"size":37927,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"Squad/Parts/@thumbs/rocketNoseCone.v3_icon0","id":1768240854,"time":134398696167070892,"size":2647,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
+{"name":"SquadExpansion/MakingHistory/Parts/@thumbs/Size.1.5.Cone_icon0","id":1595463839,"time":134398696187314418,"size":25049,"width":256,"height":256,"mipCount":1,"readable":false,"normal":false}
